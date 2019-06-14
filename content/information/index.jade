@@ -1,0 +1,26 @@
+extends ../../templates/default
+
+block vars
+  -var title = 'General Information'
+  -var description = 'General information about the fair, including a fairgrounds map.'
+
+block content
+  .text-center
+    h1 General Information
+    a.btn.btn-primary(href="") Download Handbook
+    hr
+  .fixed-width
+    p Use the above link to download the handbook, which includes all general information about the fair, 
+      | including a fairgrounds map.
+      br
+      br
+      | A print edition of the Handbook can be requested from the Field Days administrator (fielddays at gmavt.net). 
+      br
+      br
+      | The 2019 Exhibitor Handbook will be available in the spring.  Check back here for updated information.
+    
+    .text-center
+      h3 Map of Grounds
+      img(src="/files/2018-map.jpg")
+    
+

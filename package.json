@@ -2,12 +2,13 @@
   "//1": "describes your app and its dependencies",
   "//2": "https://docs.npmjs.com/files/package.json",
   "//3": "updating this file will download and update your packages",
-  "name": "hello-sqlite",
+  "name": "addisoncountyfielddays",
   "version": "0.0.2",
-  "description": "A simple Node app with SQLite as a database management system, instantly up and running.",
-  "main": "server.js",
+  "description": "A static website for Addison County Fair and Field Days.",
   "scripts": {
     "start": "npm run dev:webpack",
+    "dev": "npm run start",
+    "build": "webpack --progress --colors -p  --debug --output-pathinfo",
     "webpack": "webpack --watch --debug --output-pathinfo",
     "dev:webpack": "webpack-dev-server  --debug --output-pathinfo --host 0.0.0.0 --public $PROJECT_DOMAIN.glitch.me"
   },
@@ -50,7 +51,7 @@
     "clean-webpack-plugin": "^0.1.19"
   },
   "engines": {
-    "node": "8.x"
+    "node": "10.x"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/hello-sqlite"

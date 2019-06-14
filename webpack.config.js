@@ -26,13 +26,11 @@ var plugins = [
     openAnalyzer: false, // access it at /report.html
   }),*/
   new ExtractTextPlugin("[name].css", { sourceMap: true }), // allChunks: true,
-  /*
   new CopyWebpackPlugin([
     //Copy folders in wholesale
-    // { from: 'assets/files', to: 'files' },
+    { from: 'files', to: 'files' },
     // { from: 'files/manifest.json', to: 'manifest.json' },
   ]),
-  */
   // make jQuery available everywhere
   new webpack.ProvidePlugin({
     $: 'jquery',

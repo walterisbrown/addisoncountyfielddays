@@ -1,2 +1,1 @@
-require('bootstrap/dist/css/bootstrap.css');
-require('./main.less');
+require('./Bootstrap.less');
