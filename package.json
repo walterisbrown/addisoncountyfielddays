@@ -47,8 +47,5 @@
     "webpack-dev-server": "2",
     "clean-webpack-plugin": "^0.1.19"
   },
-  "engines": {
-    "node": "^8.x"
-  },
   "license": "MIT"
 }
