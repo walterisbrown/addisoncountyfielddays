@@ -1,2 +1,2 @@
 
-console.log("hi");
+require("bootstrap/dist/js/bootstrap.js");
