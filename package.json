@@ -51,7 +51,7 @@
     "clean-webpack-plugin": "^0.1.19"
   },
   "engines": {
-    "node": "10.x"
+    "node": "8.x"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/hello-sqlite"
