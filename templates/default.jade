@@ -47,6 +47,8 @@ html(lang='en')
               li
                 a(href='/schedule/') Schedule
               li
+                a(href='/exhibits/') Exhibits
+              li
                 a(href='/forms/') Forms
             //- ul.nav.navbar-nav.navbar-right
               li.dropdown
@@ -60,6 +62,10 @@ html(lang='en')
         block content
           div !{content}
 
+    footer.footer
+      .container
+        p.text-muted.text-center 
+          a(href="/faq") Have a question?
     
     script(src='/frontend.js?v=#{version}')
     block scripts
