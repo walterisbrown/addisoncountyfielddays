@@ -14,7 +14,11 @@ block content
     p.text-center Have a problem or question? 
     p.text-center Let us know! We'll try and respond as best we can.
   
-    form(name='contact', method='POST', data-netlify='true')
+    form(name='contact', method='POST', data-netlify='true', netlify-honeypot="bot-field")
+      p.hidden
+        label
+          | Don’t fill this out if you're human: 
+          input(name='bot-field')
       
       label Your Name: 
       input.form-control(type='text', name='name')
