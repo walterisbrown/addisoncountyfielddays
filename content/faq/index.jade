@@ -1,0 +1,28 @@
+extends ../../templates/default
+
+block vars
+  -var title = 'Exhibits'
+  -var description = 'An overview of the exihibits to come and enjoy.'
+
+block content
+  .text-center
+    h1 Contact Us
+    hr
+
+  .fixed-width
+    .text-center
+    p.text-center Have a problem or question? 
+    p.text-center Let us know! We'll try and respond as best we can.
+  
+    form(name='contact', method='POST', data-netlify='true')
+      
+      label Your Name: 
+      input.form-control(type='text', name='name')
+      br
+      label Your Email: 
+      input.form-control(type='email', name='email')
+      br
+      label Message: 
+      textarea.form-control(name='message')
+      br
+      button.btn.btn-default.pull-right(type='submit') Send
