@@ -30,6 +30,7 @@ var plugins = [
     //Copy folders in wholesale
     { from: 'files', to: 'files' },
     { from: '_redirects', to: '' },
+    { from: 'src/manifest.json', to: '' },
   ]),
   // make jQuery available everywhere
   new webpack.ProvidePlugin({
@@ -64,7 +65,7 @@ if (process.env.NODE_ENV === 'production') {
       files = files.concat(glob.sync(templateDir + '/**', { //.(md|jade)
         nodir: true,
       }));
-      var jsDir = pathUtil.join(__dirname, 'assets/js');
+      var jsDir = pathUtil.join(__dirname, 'src/js');
       files = files.concat(glob.sync(jsDir + '/**', { //.(md|jade)
         nodir: true,
       }));

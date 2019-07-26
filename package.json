@@ -4,7 +4,7 @@
   "description": "A static website for Addison County Fair and Field Days.",
   "scripts": {
     "start": "npm run dev:webpack",
-    "dev": "npm run start",
+    "dev": "NODE_ENV=development npm run start",
     "build": "webpack --progress --colors -p  --debug --output-pathinfo",
     "webpack": "webpack --watch --debug --output-pathinfo",
     "dev:webpack": "webpack-dev-server  --debug --output-pathinfo --host 0.0.0.0"

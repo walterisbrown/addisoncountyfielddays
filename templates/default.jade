@@ -13,14 +13,9 @@ html(lang='en')
     meta(name='viewport', content='width=device-width, initial-scale=1.0, maximum-scale=2.0; user-scalable=1')
     meta(name='author', content='James J Nadeau')
 
-    //- link(rel='manifest', href='/manifest.json')
-    link(rel="apple-touch-icon", sizes="180x180", href="/icons/apple-touch-icon.png?v=#{version}")
-    link(rel="icon", type="image/png", href="/icons/favicon-32x32.png?v=#{version}", sizes="32x32")
-    link(rel="icon", type="image/png", href="/icons/favicon-16x16.png?v=#{version}", sizes="16x16")
-    link(rel="mask-icon", href="/icons/safari-pinned-tab.svg?v=#{version}", color="#2489ce")
-    link(rel="shortcut icon", href="/icons/favicon.ico?v=#{version}")
-    meta(name="msapplication-config", content="/icons/browserconfig.xml?v=#{version}")
-    meta(name="theme-color", content="#2489ce")
+    link(rel='manifest', href='/manifest.json')
+    link(rel="shortcut icon" href="/files/favicon.ico" type="image/x-icon")
+    link(rel="icon" href="/files/favicon.ico" type="image/x-icon")
 
     link(href='/styles.css?v=#{version}', rel='stylesheet', type='text/css')
 
@@ -36,9 +31,8 @@ html(lang='en')
           .navbar-header
             button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
               span.sr-only Toggle navigation
-              span.icon-bar
-              span.icon-bar
-              span.icon-bar
+              | Menu
+            img.pull-left.brand.hidden-xs.hidden-sm(src="/files/logo-83x80.jpg")
             a.navbar-brand.brand(href='/') Addison County Fair & Field Days
           .collapse.navbar-collapse
             ul.nav.navbar-nav.navbar-right
@@ -64,7 +58,7 @@ html(lang='en')
 
     footer.footer
       .container
-        p.text-muted.text-center 
+        p.text-muted.text-center
           a(href="/faq") Have a question?
     
     script(src='/frontend.js?v=#{version}')
