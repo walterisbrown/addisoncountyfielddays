@@ -57,30 +57,36 @@ var plugins = [
   new WorkboxPlugin.GenerateSW({
     include: [
       /\.html$/,
-      /\.js$/,
-      /\.css/,
+      /\.js/,
     ],
-    globPatterns: [
+    /*globPatterns: [
       '/information/index.html',
       '/schedule/index.html',
       '/exhibits/index.html',
       '/forms/index.html',
-    ],
+    ],*/
     runtimeCaching: [
       {
-        // Match any same-origin request that contains 'api'.
+        urlPattern: /\.css|\.js/,
+        // Apply a network-first strategy.
+        handler: 'StaleWhileRevalidate',
+        options: {
+          matchOptions: {
+            ignoreSearch: true,
+          },
+        }
+      },
+      {
         urlPattern: /\.pdf$/,
         // Apply a network-first strategy.
         handler: 'CacheFirst',
       },
       {
-        // Match any same-origin request that contains 'api'.
         urlPattern: /\.jpg$/,
         // Apply a network-first strategy.
         handler: 'CacheFirst',
       },
       {
-        // Match any same-origin request that contains 'api'.
         urlPattern: /\.png$/,
         // Apply a network-first strategy.
         handler: 'CacheFirst',
