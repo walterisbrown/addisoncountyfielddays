@@ -3,6 +3,9 @@ var glob = require('glob');
 var webpack = require('webpack');
 // var critical = require('critical');
 
+
+
+
 //Plugins
 var ExtractTextPlugin = require("extract-text-webpack-plugin");
 var PurgecssPlugin = require('purgecss-webpack-plugin');
@@ -11,6 +14,7 @@ var staticSiteLoader = require('./static-site-loader');
 var CleanWebpackPlugin = require('clean-webpack-plugin');
 // var BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 var OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin');
+var WorkboxPlugin = require('workbox-webpack-plugin');
 
 var version = require('package')(__dirname).version;
 console.log('Version', version);
@@ -49,6 +53,22 @@ var plugins = [
   }),
   new webpack.optimize.UglifyJsPlugin({
     sourceMap: true,
+  }),
+  new WorkboxPlugin.GenerateSW({
+    include: [
+      /\.html$/,
+      /\.js$/,
+      /\.css/,
+      /\.jpg$/,
+      /\.png$/,
+      /\.pdf$/,
+    ],
+    globPatterns: [
+      '/information/index.html',
+      '/schedule/index.html',
+      '/exhibits/index.html',
+      '/forms/index.html',
+    ],
   }),
 ];
 

@@ -10,8 +10,8 @@
     "dev:webpack": "webpack-dev-server  --debug --output-pathinfo --host 0.0.0.0"
   },
   "dependencies": {
-    "sqlite3": "^4.0.0",
     "bootstrap": "^3.3.6",
+    "clean-webpack-plugin": "^0.1.19",
     "copy-webpack-plugin": "^4",
     "css-loader": "^0.28.11",
     "extract-text-webpack-plugin": "^3.0.2",
@@ -34,6 +34,7 @@
     "rss": "^1.2.2",
     "slugger": "^1.0.1",
     "smoothstate": "^0.7.2",
+    "sqlite3": "^4.0.0",
     "static-site-loader": "git+https://github.com/jamesjnadeau/static-site-loader.git",
     "style-loader": "^0.13.0",
     "textlint": "^10.2.1",
@@ -42,10 +43,10 @@
     "textlint-rule-rousseau": "^1.4.5",
     "url-loader": "^0.6.0",
     "webpack": "3",
-    "webpack-cli": "3",
     "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-cli": "3",
     "webpack-dev-server": "2",
-    "clean-webpack-plugin": "^0.1.19"
+    "workbox-webpack-plugin": "^4.3.1"
   },
   "license": "MIT"
 }

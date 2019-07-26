@@ -20,6 +20,14 @@ a.navbar-brand {
   font-family: 'Rye', cursive;
   font-size: 25px;
 }
+.navbar-inverse .navbar-toggle {
+  border-color: #fff;
+  color: #fff;
+  margin-right: 15px;
+}
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+  background-color: darken(@brand-dark, 15%);
+}
 
 #wrap {
   min-height: 100vh;
@@ -60,9 +68,10 @@ p {
   cursor: pointer;
 }
 
-@media (max-width: @screen-xs) {
+@media (max-width: @screen-md) {
   a.navbar-brand {
     font-size: 1em;
+    max-width: 70%;
   }
   #container.container {
     margin-left: 10px;
