@@ -10,6 +10,7 @@
     "dev:webpack": "webpack-dev-server  --debug --output-pathinfo --host 0.0.0.0"
   },
   "dependencies": {
+    "@sentry/browser": "^5.5.0",
     "bootstrap": "^3.3.6",
     "clean-webpack-plugin": "^0.1.19",
     "copy-webpack-plugin": "^4",
