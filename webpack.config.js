@@ -59,15 +59,32 @@ var plugins = [
       /\.html$/,
       /\.js$/,
       /\.css/,
-      /\.jpg$/,
-      /\.png$/,
-      /\.pdf$/,
     ],
     globPatterns: [
       '/information/index.html',
       '/schedule/index.html',
       '/exhibits/index.html',
       '/forms/index.html',
+    ],
+    runtimeCaching: [
+      {
+        // Match any same-origin request that contains 'api'.
+        urlPattern: /\.pdf$/,
+        // Apply a network-first strategy.
+        handler: 'CacheFirst',
+      },
+      {
+        // Match any same-origin request that contains 'api'.
+        urlPattern: /\.jpg$/,
+        // Apply a network-first strategy.
+        handler: 'CacheFirst',
+      },
+      {
+        // Match any same-origin request that contains 'api'.
+        urlPattern: /\.png$/,
+        // Apply a network-first strategy.
+        handler: 'CacheFirst',
+      }
     ],
   }),
 ];
