@@ -1,6 +1,6 @@
 {
   "name": "addisoncountyfielddays",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A static website for Addison County Fair and Field Days.",
   "scripts": {
     "start": "npm run dev:webpack",
