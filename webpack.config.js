@@ -56,8 +56,7 @@ var plugins = [
   }),
   new WorkboxPlugin.GenerateSW({
     include: [
-      /\.html$/,
-      /\.js/,
+      /\.html|\.js/,
     ],
     /*globPatterns: [
       '/information/index.html',
@@ -67,8 +66,7 @@ var plugins = [
     ],*/
     runtimeCaching: [
       {
-        urlPattern: /\.css|\.js/,
-        // Apply a network-first strategy.
+        urlPattern: /\.css|\.js|\.html/,
         handler: 'StaleWhileRevalidate',
         options: {
           matchOptions: {
@@ -78,17 +76,15 @@ var plugins = [
       },
       {
         urlPattern: /\.pdf$/,
-        // Apply a network-first strategy.
         handler: 'CacheFirst',
       },
       {
         urlPattern: /\.jpg$/,
-        // Apply a network-first strategy.
+        
         handler: 'CacheFirst',
       },
       {
         urlPattern: /\.png$/,
-        // Apply a network-first strategy.
         handler: 'CacheFirst',
       }
     ],
