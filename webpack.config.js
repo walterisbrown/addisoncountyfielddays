@@ -29,9 +29,7 @@ var plugins = [
   new CopyWebpackPlugin([
     //Copy folders in wholesale
     { from: 'files', to: 'files' },
-    { from: '_redirects', to: '_redirects' },
-
-    // { from: 'files/manifest.json', to: 'manifest.json' },
+    { from: '_redirects', to: '' },
   ]),
   // make jQuery available everywhere
   new webpack.ProvidePlugin({
