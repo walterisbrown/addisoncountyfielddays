@@ -1,9 +1,9 @@
+require('dotenv').config();
+
 var pathUtil = require('path');
 var glob = require('glob');
 var webpack = require('webpack');
 // var critical = require('critical');
-
-
 
 
 //Plugins
@@ -21,6 +21,7 @@ console.log('Version', version);
 var env = {
   version: version,
   NODE_ENV: process.env.NODE_ENV,
+  DISABLE_SERVICEWORKER: process.env.DISABLE_SERVICEWORKER,
 };
 
 var plugins = [
