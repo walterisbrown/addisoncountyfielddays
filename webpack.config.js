@@ -56,8 +56,13 @@ var plugins = [
     sourceMap: true,
   }),
   new WorkboxPlugin.GenerateSW({
+    cleanupOutdatedCaches: true,
     include: [
       /\.html|\.js/,
+    ],
+    exclude: [
+      /\/contact/,
+      /\/forms/,
     ],
     /*globPatterns: [
       '/information/index.html',
