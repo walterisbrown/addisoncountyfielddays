@@ -12,7 +12,8 @@ require("bootstrap/dist/js/bootstrap.js");
 // }
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.getRegistrations().then(function(registrations) {
-    for(let registration of registrations) {
-     registration.unregister()
-   } });
+    for(registration in registrations) {
+      registrations[registration].unregister();
+    } 
+  })
 }
