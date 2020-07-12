@@ -1,0 +1,72 @@
+extends ../../../templates/default
+
+block vars
+  -var title = '2020 Drive In Movie Interest'
+  -var description = 'Field Days is interested in knowing who would attend a drive in movie at field days.'
+
+block content
+  .text-center
+    h1 Drive In @ Field Days
+    p Please fill out the form below to let us know about interest in a field days drive in movie night.
+  .fixed-width 
+    form(name='2020_Drive_In_Movie', method='POST', data-netlify='true', netlify-honeypot="bot-field" action="/success")
+      p.hidden
+          label
+          | Don’t fill this out if you're human: 
+          input(name='bot-field')
+      
+      label What would you pay for a carload of people to see a drive in movie at Field Days?
+      // input.form-control(type='text', name='name')
+      .form-inline
+        .form-group
+          .radio
+            label
+              input(type='radio' name="money-10")
+              |  10
+          &emsp;
+          .radio
+            label
+              input(type='radio' name="money-15")
+              |  15
+          &emsp;
+          .radio
+            label
+              input(type='radio' name="money-20")
+              |  20
+          &emsp;
+          .radio
+            label
+              input(type='radio' name="money-25")
+              |  25
+          &emsp;
+          .radio
+            label
+              input(type='radio' name="money-30")
+              |  30
+      br
+      label What Night of the week would you like to go see a movie?
+      .form-inline
+        .form-group
+          .checkbox
+            label
+              input(type='checkbox' name="night-thursday")
+              |  Thursday
+          &emsp;
+          .checkbox
+            label
+              input(type='checkbox' name="night-friday")
+              |  Friday
+          &emsp;
+          .checkbox
+            label
+              input(type='checkbox' name="night-saturday")
+              |  Saturday
+
+      br
+      label Any movie requests?: 
+      input.form-control(type='text', name='movie-ideas')
+      br
+      label Additional Notes: 
+      textarea.form-control(name='note')
+      br
+      button.btn.btn-default.pull-right(type='submit') Submit
