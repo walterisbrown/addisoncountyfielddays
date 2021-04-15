@@ -6,6 +6,7 @@ var version = require('package')(__dirname).version;
 
 var notJadeContent = [];
 var template;
+var mdtemplate;
 var feedURLs;
 
 var feedOptions = {
@@ -21,10 +22,13 @@ module.exports = {
     this.addContextDependency(path);
     //Define our template path
     var templatePath = 'templates/default.jade';
+    var mdtemplatePath = 'templates/markdown.jade';
     //watch the template for changes
     this.addDependency(templatePath);
+    this.addDependency(mdtemplatePath);
     //Compile the template for use later
     template = jade.compileFile(templatePath, { pretty: false });
+    mdtemplate = jade.compileFile(mdtemplatePath, { pretty: false });
     // clear out shared vars for new run
     notJadeContent = [];
     feedURLs = [];
@@ -91,7 +95,7 @@ module.exports = {
       });
 
       //use compiled template to produce html file
-      var fileContents = template({
+      var fileContents = mdtemplate({
         title: meta.Title,
         description: meta.Description,
         content: marked(content.replace(picoCMSMetaPattern, '')),
