@@ -58,7 +58,8 @@ html(lang='en')
 
     footer.footer
       .container
-        p.text-center &copy; Copyright 2019
+        - var year = new Date().getFullYear();
+        p.text-center &copy; Copyright #{year}
         p.text-muted.text-center
           | This site was crafted by&nbsp;
           a(href="https://jamesjnadeau.com") James Nadeau

@@ -1,15 +1,19 @@
 /*
-Title: 
-Description:
+Title: 4-H DAIRY CATTLE EXHIBIT
+Description: Exibit information and entry rules
 */
 
 # 4-H DAIRY CATTLE EXHIBIT
+
+[[TOC]]
 
 **DIRECTOR:** Neil Allen
 **SUPERINTENDENT:** Robin Severy
 
 - Tuesday — 9:00 a.m. — Conformation 
 - Thursday — 9:00 a.m. — Fitting & Showmanship
+
+[Entry Form](/files/Field_Days_Entry-Forms.pdf#page=3)
 
 ## ENTRY RULES
 1. CLASS FEE: $2.00 per class for the following (*) classes, Conformation *1 thru

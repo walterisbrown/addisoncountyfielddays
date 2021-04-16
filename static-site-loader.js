@@ -1,5 +1,7 @@
 var pathUtil = require('path');
 var marked = require('marked');
+var toc = require('markdown-toc');
+
 var jade = require('jade');
 var RSS = require('rss');
 var version = require('package')(__dirname).version;
@@ -9,11 +11,23 @@ var template;
 var mdtemplate;
 var feedURLs;
 
-var feedOptions = {
-  title: 'James\' Today I ... ',
-  description: 'A collection of things I found interesting at the time.',
-  site_url: 'https://jamesjnadeau.com',
-};
+toc_start = `
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#toc" href="#toc" aria-expanded="false" aria-controls="toc">
+        Table of Contents
+        </a>
+      </h4>
+    </div>
+    <div id="toc" class="panel-collapse collapse" role="tabpanel" aria-labelledby="toc">
+      <div class="panel-body">`;
+toc_end = `
+      </div>
+    </div>
+  </div>
+</div>`;
 
 module.exports = {
   //perform any preprocessing tasks you might need here.
@@ -94,11 +108,18 @@ module.exports = {
         meta[row[0]] = row[1];
       });
 
+      // generate toc
+      var markdownContent = content.replace(picoCMSMetaPattern, '');
+      var tocHTML = toc_start + marked(toc(markdownContent).content) + toc_end;
+      // markdownContent = markdownContent.replace('[[TOC]]', tocMarkdown);
+      finalContent = marked(markdownContent);
+      finalContent = finalContent.replace('[[TOC]]', tocHTML);
+
       //use compiled template to produce html file
       var fileContents = mdtemplate({
         title: meta.Title,
         description: meta.Description,
-        content: marked(content.replace(picoCMSMetaPattern, '')),
+        content: finalContent,
         version: version,
       });
 
@@ -114,21 +135,6 @@ module.exports = {
   },
 
   postProcess: function() { // files
-    // Create TIL rss feed
-    var feed = new RSS(feedOptions);
-    feedURLs.forEach(function(url) {
-      var urlParts = url.split('-');
-      var date = urlParts.slice(0, 3).join('-');
-      var name = urlParts.slice(3).join(' ');
-      // upper case first letter
-      name = name.charAt(0).toUpperCase() + name.slice(1);
-      feed.item({
-        date: new Date(date),
-        title: name,
-        url: 'https://jamesjnadeau.com/' + url + '/index.html',
-      });
-    });
-    var feedXml = feed.xml({ indent: true });
-    this.emitFile('TIL/rss.xml', feedXml);
+   
   },
 };
