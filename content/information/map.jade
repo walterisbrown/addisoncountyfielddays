@@ -1,0 +1,11 @@
+extends ../../templates/default
+
+block vars
+  -var title = 'General Information'
+  -var description = 'General information about the fair, including a fairgrounds map.'
+
+
+block content
+  .text-center
+    h3 Map of Grounds
+    img.img-responsive(src="/files/2018-map.jpg")

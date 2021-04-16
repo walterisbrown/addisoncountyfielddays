@@ -7,60 +7,64 @@ block vars
 block content
   .text-center
     h1 Schedule
-    a.btn.btn-primary(href="/files/Field-Days-Schedule.pdf"  target="_blank") Download Schedule
+    //- a.btn.btn-primary(href="/files/Field-Days-Schedule.pdf"  target="_blank") Download Schedule
+    p.large Touch or Click on items below to expand.
     hr
   .fixed-width
-    h2.text-center Daily Activities
-    p Please Note: Most exhibits will be removed on Saturday night at 10.
-    table.table
-      tr
-        td 10am - 10pm
-        td Children’s Barnyard Open
-      tr
-        td 10am - 10pm
-        td 4-H & Youth Building Open
-      tr
-        td 10am - 10pm
-        td Antique Equipment Building Open
-      tr
-        td 9am - 9pm
-        td Maple Sugar House Open
-      tr
-        td 10am - 6pm
-        td Twist O’ Wool Guild Demos (Twist O’ Wool Guild tent)
-      tr
-        td 10am - 10pm
-        td Forest Festival Exhibits & Demonstrations (forestry building)
-      tr
-        td 10am - 10pm
-        td Home & Garden Building Open with continuous craft demos
-      tr
-        td 10am - 10pm
-        td Lucien Paquette Exhibit Building Open
-      tr
-        td 10am - 5pm
-        td Wood Carving (antique equipment area)
-      tr
-        td Daily
-        td Maple Products Demonstrations (maple sugar house)
-      tr
-        td 12pm - 12am
-        td Midway Open (approximately)
-      tr
-        td 1pm - 4pm
-        td Milking Parlor Demonstrations
-      tr
-        td 1pm - 6pm
-        td Cairo Northern Clowns (walk around entertainment) (W-Sat only)
+    panel.panel-default
+      .panel-heading.pointer-hand(data-toggle='collapse', href='#daily')
+        h2.text-center Daily Activities
+      #daily.panel-collapse.collapse
+        p Please Note: Most exhibits will be removed on Saturday night at 10.
+        table.table.table-striped.table-hover
+          tr
+            td 10am - 10pm
+            td Children’s Barnyard Open
+          tr
+            td 10am - 10pm
+            td 4-H & Youth Building Open
+          tr
+            td 10am - 10pm
+            td Antique Equipment Building Open
+          tr
+            td 9am - 9pm
+            td Maple Sugar House Open
+          tr
+            td 10am - 6pm
+            td Twist O’ Wool Guild Demos (Twist O’ Wool Guild tent)
+          tr
+            td 10am - 10pm
+            td Forest Festival Exhibits & Demonstrations (forestry building)
+          tr
+            td 10am - 10pm
+            td Home & Garden Building Open with continuous craft demos
+          tr
+            td 10am - 10pm
+            td Lucien Paquette Exhibit Building Open
+          tr
+            td 10am - 5pm
+            td Wood Carving (antique equipment area)
+          tr
+            td Daily
+            td Maple Products Demonstrations (maple sugar house)
+          tr
+            td 12pm - 12am
+            td Midway Open (approximately)
+          tr
+            td 1pm - 4pm
+            td Milking Parlor Demonstrations
+          tr
+            td 1pm - 6pm
+            td Cairo Northern Clowns (walk around entertainment) (W-Sat only)
     
     hr
     panel.panel-default
         .panel-heading.pointer-hand(data-toggle='collapse', href='#tuesday')
-            h2.text-center Tuesday, August 6, 2019
+            h2.text-center Tuesday
             p.text-center.text-muted Opening Cerimony & Parade, Antique Pulls, Dinners & Shows
         #tuesday.panel-collapse.collapse
           h3 Morning
-          table.table
+          table.table.table-striped.table-hover
             tr
               td 8:30
               td Western Only 4-H and Open Youth Junior Horse Show (horse area)
@@ -84,7 +88,7 @@ block content
               td Puppy Love (Connor Home Stage in Paquette Bldg)
             
           h3 Afternoon
-          table.table
+          table.table.table-striped.table-hover
             tr
               td 12:00
               td Dig For Treasure! (youth activity area) - FREE
@@ -182,11 +186,11 @@ block content
     
     panel.panel-default
         .panel-heading.pointer-hand(data-toggle='collapse', href='#wednesday')
-          h2.text-center Wednesday, August 7, 2019
+          h2.text-center Wednesday
           p.text-center.text-muted Agricultral Shows & Demos, Caber Toss, Karaoke , and The Demolition Derby
         #wednesday.panel-collapse.collapse
           h3 Morning
-          table.table
+          table.table.table-striped.table-hover
             tr
               td 8:30
               td English Only 4-H and Open Youth Jr. & Sr. Horse Show (horse area)
@@ -213,7 +217,7 @@ block content
               td Tom Joyce, The Magic Man (bandstand)
             
           h3 Afternoon
-          table.table
+          table.table.table-striped.table-hover
             tr
               td 12:00
               td Midway Opens (approximately, All day/night bracelet-$20)
@@ -295,11 +299,11 @@ block content
   
     panel.panel-default
         .panel-heading.pointer-hand(data-toggle='collapse', href='#thursday')
-          h2.text-center Thursday, August 8, 2019
+          h2.text-center Thursday
           p.text-center.text-muted Tractor Pull & The Demolition Derby
         #thursday.panel-collapse.collapse
           h3 Morning
-          table.table
+          table.table.table-striped.table-hover
             tr
               td 8:00
               td Annual ACFFD Open Horse Show (horse area)
@@ -329,7 +333,7 @@ block content
               td Puppy Love (Connor Home Stage in Paquette Bldg)
       
           h3 Afternoon
-          table.table
+          table.table.table-striped.table-hover
             tr
               td 12:00
               td Midway Opens (approximately)
@@ -414,11 +418,11 @@ block content
     
     panel.panel-default
         .panel-heading.pointer-hand(data-toggle='collapse', href='#friday')
-          h2.text-center Friday, August 9, 2019
+          h2.text-center Friday
           p.text-center.text-muted More Shows, Armwrestling and Pulling Competitions
         #friday.panel-collapse.collapse
           h3 Morning
-          table.table
+          table.table.table-striped.table-hover
             tr
               td 8:30
               td Exhibitors’ Breakfast (dining hall)
@@ -445,7 +449,7 @@ block content
               td Puppy Love (Connor Home Stage in Paquette Bldg)
             
           h3 Afternoon
-          table.table
+          table.table.table-striped.table-hover
             tr
               td 12:00
               td Dig For Treasure! (youth activity area) - FREE
@@ -545,11 +549,11 @@ block content
     
     panel.panel-default
         .panel-heading.pointer-hand(data-toggle='collapse', href='#saturday')
-          h2.text-center Saturday, August 10, 2019
+          h2.text-center Saturday
           p.text-center.text-muted Dairy Show, Pulling Competitions & more!
         #saturday.panel-collapse.collapse
           h3 Morning
-          table.table
+          table.table.table-striped.table-hover
             tr
               td 9:00
               td Open Dairy Show-Guernsey & Brown Swiss
@@ -585,7 +589,7 @@ block content
               td Puppy Love (Connor Home Stage in Paquette Bldg)
             
           h3 Afternoon
-          table.table
+          table.table.table-striped.table-hover
             tr
               td 12:00
               td Midway Opens (approximately)
