@@ -7,12 +7,14 @@ block vars
 block content
   .text-center
     h1 General Information
+    hr
     //- a.btn.btn-primary(href="/files/Field-Days-2019_booklet.pdf") Download Handbook
     p Use the buttons below to get more information
   .fixed-width
     .btn-group.btn-group-lg.btn-group-justified(role="group")
       a.btn.btn-default(href="admission") Admissions Fee
-      a.btn.btn-default(href="/files/Rules-Regulations.pdf") Rules and Regulations
+      //- this seems to be ok as a pdf
+      a.btn.btn-default(href="/files/Rules-Regulations.pdf" target="blank") Rules and Regulations
     hr
     .btn-group-lg.btn-group-justified(role="group")
       a.btn.btn-default(href="map") Map

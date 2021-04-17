@@ -79,13 +79,19 @@ p {
   white-space: break-spaces;
 }
 
+hr {
+  border-width: thick 0 0 0;
+  border-style: dotted;
+  border-color: @brand-dark;
+}
+
 .markdown-content {
   h1 {
     text-align: center;
   }
   h2 {
     margin-top: 40px;
-    border-bottom: black 1px dotted;
+    border-bottom: @brand-dark 1px dashed;
   }
 }
 
