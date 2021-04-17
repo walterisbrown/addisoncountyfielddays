@@ -54,5 +54,3 @@ general knowledge of poultry. The breeding/registration of the bird does not cou
 
 1. Showmanship will be scored based on each participant’s personal professional
 appearance, cleanliness of their exhibit, knowledge and ability to handle the bird(s).
-
-

@@ -17,3 +17,6 @@ if ('serviceWorker' in navigator) {
     } 
   })
 }
+
+// Style tables in markdown content
+$('.markdown-content table').addClass('table table-striped table-hover');
