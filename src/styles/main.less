@@ -6,13 +6,16 @@
 @import url('https://fonts.googleapis.com/css?family=Rye&display=swap');
 
 body {
-  font-size: 20px;
+  font-size: 2em;
 }
 
+.navbar-header img {
+  max-width: 5.5em;
+}
 a.navbar-brand {
   color: #FFF;
   font-family: 'Rye', cursive;
-  font-size: 1.8em;
+  font-size: 1.5em;
   font-stretch: 100%;
   padding-left: 10px;
 }
@@ -88,16 +91,47 @@ hr {
 .markdown-content {
   h1 {
     text-align: center;
+    text-transform: capitalize;
   }
   h2 {
-    margin-top: 40px;
-    border-bottom: @brand-dark 1px dashed;
+    margin-top: 3em;
+    border-bottom: @brand-dark .1em dashed;
+  }
+  h3 {
+    text-decoration: @brand-dark .1em dashed underline;
+    text-underline-position: under;
+  }
+
+  h2, h3, h4:not(.panel-title), h5, h6 {
+    text-transform: capitalize;
+    margin-top: 2em;
+  }
+
+  h4.panel-title {
+    font-size: 1.2em;
+  }
+
+  // ensure proper scroll to position on anchor
+  // see https://stackoverflow.com/a/24298427/1978759
+  [id]::before {
+    content: '';
+    display: block;
+    height:      85px;
+    margin-top: -85px;
+    visibility: hidden;
   }
 }
 
 @media (max-width: @screen-md) {
+  body {
+    font-size: 1.5em;
+  }
+  .navbar-header .navbar-toggle {
+    margin-right: 1.5em;
+  }
   a.navbar-brand {
-    font-size: 1em;
+    font-size: 1.5em;
+    padding-top: 1em;
     max-width: 70%;
   }
   #container.container {

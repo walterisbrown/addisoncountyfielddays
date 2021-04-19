@@ -17,7 +17,7 @@ toc_start = `
     <div class="panel-heading" role="tab" id="headingOne">
       <h4 class="panel-title">
         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#toc" href="#toc" aria-expanded="false" aria-controls="toc">
-        Table of Contents
+        Table of Contents <small> (click to expand)</small>
         </a>
       </h4>
     </div>
