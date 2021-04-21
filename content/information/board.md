@@ -8,7 +8,7 @@ Description: The folks who work behind the scenes to make the fair happen. Thank
 ## Main Contact
 <address>
     <strong>Addison County Fair & Field Days, Inc.</strong>
-    <br /> Middlebury,Vermont 05753<br />
+    <br /> New Haven,Vermont 05742<br />
     <abbr title="Phone">Phone:</abbr> 802-545-2557<br />
     <abbr title="Phone">Fax:</abbr> 802-329-2113
 </address>
@@ -34,7 +34,7 @@ Brenda Deering, 545-2279
 - Megan Sutton, 545—2475
 -  Mike Reed, 759-2054
 -  Bruce Putnam, 349-6107
--  Neil Allen, 989-5167
+-  Cindy Kayhart, 343-3862
 - James Weening, 349—0932
 
 ### BUSINESS MANAGER: 
