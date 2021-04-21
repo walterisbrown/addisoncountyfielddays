@@ -3,9 +3,13 @@ Title: OPEN HORSE SHOW
 Description: Exibit information and entry rules
 */
 
+# Horse Shows
+[[TOC]]
+
+
+
 # OPEN HORSE SHOW
 
-[[TOC]]
 
 Thursday, 8:00 am. — Rain or Shine 
 
@@ -139,3 +143,9 @@ a fun class ie: command class, Simon Says, etc. To be announced at the show. ***
 
 ***Novice Rider is an individual over 18 years old and in their frst year of showing and will only
 be competing against others at the walk/trot.
+
+
+DRAFT HORSE SHOW
+Friday, August 9, 2019 — 9:30 am. — Saturday, August 10, 2019 — 9:30 am.
+JUDGE: Rocky Lyons * SUPERINTENDENT: Kathy Nisun, 349-8971
+ANNOUNCER: John Hutton *Ringmaster: Fri. Gary Cherrier — Sat. Terry Malone; *SECRETARY: Kathy Kennett, Phone 802-759-2015, Cell 802-349-5671
