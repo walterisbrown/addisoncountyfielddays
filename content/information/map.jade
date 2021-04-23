@@ -7,8 +7,20 @@ block vars
 
 block content
   .text-center
-    h1 Map of Grounds
+    h1 Maps of Grounds
+    hr
+
+    p
+      a.btn.btn-sm.btn-default(href="#full-map") Skip to Full Map
+    
+
+
+    a(href="/files/Fair_Map_v1.jpg" target="_blank")
+      img.img-responsive(src="/files/Fair_Map_v1.jpg")
     
     hr
-    
-    img.img-responsive(src="/files/2018-map.jpg")
+
+    h2 Full Map
+
+    a(href="/files/2018-map.jpg" target="_blank")
+      img.img-responsive#full-map(src="/files/2018-map.jpg")

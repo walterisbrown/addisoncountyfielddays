@@ -1,4 +1,4 @@
-`/*
+/*
 Title: Sugarmakers
 Description: Exibit information and entry rules
 */
