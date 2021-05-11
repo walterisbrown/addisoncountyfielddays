@@ -3,8 +3,6 @@ Title: Admin
 Description: Example of markdown
 */
 
-
-
 ## How to make a change to the site?
 
 1. Create an account on [Github](https://github.com/join)(it's free) and log in.
