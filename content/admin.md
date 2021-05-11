@@ -5,7 +5,7 @@ Description: Example of markdown
 
 
 
-## How to make a change?
+## How to make a change to the site?
 
 1. Create an account on [Github](https://github.com/join)(it's free) and log in.
 1. head to the repositories content folder: https://github.com/jamesjnadeau/addisoncountyfielddays/tree/master/content
@@ -17,6 +17,7 @@ Description: Example of markdown
 1. After hitting save, James will be notified and he'll push the changes to the site after review.
 1. If you don't hear back from me within 2 business days, please reach out via the site contact form with your github username and I'll look into what happened.
 
+![Link to Video of the process](https://drive.google.com/file/d/1sjjoB5lQZVEPULdWgXJq1SfcaBKqECA0/view)
 
 # This is a "static site"
 
