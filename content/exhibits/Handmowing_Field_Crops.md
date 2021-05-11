@@ -3,14 +3,15 @@ Title: Field Crops & Handmowing
 Description: Exibit information and entry rules for Field Crops & Handmowing at the Addison County Fair and Field Days.
 */
 
+# Field Crops & Handmowing
+
 [[TOC]]
 
-
-# FIELD CROPS
+## FIELD CROPS
 
 ENTRY DEADLINE: Monday before the fair - ALL Products in by 12:00 Noon
 
-## Rules
+### Rules
 1. Limit one (1) entry per farm in each class. All entries must be produced on the exhibitor’s farm.
 2. Bring exhibits to the north end of the 4-H Exhibit Building on Monday morning between
 8:00 a.m. and 12:00 noon. This is the only time to enter. Judging begins at 1:00 p.m.
@@ -25,23 +26,23 @@ ENTRY DEADLINE: Monday before the fair - ALL Products in by 12:00 Noon
 4. Proper moisture content for storage.
 5. Conformation of size and uniformity.
 
-## CLASSES - FIELD CROPS, FORAGE & GRAIN
-WHOLE PLANTS
+### CLASSES - FIELD CROPS, FORAGE & GRAIN
+#### WHOLE PLANTS
 1.  Corn Plants - 3 whole plants with roots.
 2.  Soybeans - 10 plants with roots.
 3.  Cereal Grains - 20 stems (wheat, barley, oat, rye)
-SILAGE CROPS
+#### SILAGE CROPS
 4.  Corn Silage - 1 quart jar.
 5.  Corn Snaplage or Ground ear corn - 1 quart.
 6.  Grass Haylage - 1 quart jar.
 7.  Legume Haylage (alfalfa, clover)- 1 quart jar.
 8.  Baled/Wrapped Silage Hay
-DRY HAY 
+#### DRY HAY 
 9.  1st Cut Legume Hay (alfalfa, clover)- 1 slice of bale.
 10. 1st Cut Grass Hay - 1 slice of bale.
 11. 2nd Cut Legume Hay (alfalfa, clover)- 1 slice of bale.
 12. 2d Cut Grass Hay - 1 slice of bale.
-GRAIN CROPS
+#### GRAIN CROPS
 13. Corn Grain Whole Kernal - 1 quart jar.
 14. Corn Grain Ground - 1 quart jar.
 15. Soybean Grain - 1 quart jar.
@@ -50,8 +51,8 @@ GRAIN CROPS
 
 ---
 
-# HAND MOWING CONTEST
-## RULES
+## HAND MOWING CONTEST
+### RULES
 
 1. Entries accepted from anyone.
 2. IMPORTANT - Please mail entries to Judd Markowski, 1724 East Street, Bridport, VT
@@ -67,7 +68,7 @@ all safety precautions.
 6. Judging will be based on time, width of cut, evenness of stubble.
 7. Decision of the judges is final.
 
-## CLASSES
+### CLASSES
 
 1. 15-foot strip – YOUTH (16 AND UNDER)
 1. 15-foot strip – WOMEN, ages 17 - 59
