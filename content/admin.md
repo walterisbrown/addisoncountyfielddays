@@ -5,7 +5,7 @@ Description: Example of markdown
 
 
 
-## How to make a change?
+## How to make a change to the site?
 
 1. Create an account on [Github](https://github.com/join)(it's free) and log in.
 1. head to the repositories content folder: https://github.com/jamesjnadeau/addisoncountyfielddays/tree/master/content
