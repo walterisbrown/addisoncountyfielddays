@@ -5,7 +5,6 @@ Description: Exibit information and entry rules for Field Crops & Handmowing at 
 
 [[TOC]]
 
-
 # FIELD CROPS
 
 ENTRY DEADLINE: Monday before the fair - ALL Products in by 12:00 Noon
@@ -26,22 +25,22 @@ ENTRY DEADLINE: Monday before the fair - ALL Products in by 12:00 Noon
 5. Conformation of size and uniformity.
 
 ## CLASSES - FIELD CROPS, FORAGE & GRAIN
-WHOLE PLANTS
+# WHOLE PLANTS
 1.  Corn Plants - 3 whole plants with roots.
 2.  Soybeans - 10 plants with roots.
 3.  Cereal Grains - 20 stems (wheat, barley, oat, rye)
-SILAGE CROPS
+# SILAGE CROPS
 4.  Corn Silage - 1 quart jar.
 5.  Corn Snaplage or Ground ear corn - 1 quart.
 6.  Grass Haylage - 1 quart jar.
 7.  Legume Haylage (alfalfa, clover)- 1 quart jar.
 8.  Baled/Wrapped Silage Hay
-DRY HAY 
+# DRY HAY 
 9.  1st Cut Legume Hay (alfalfa, clover)- 1 slice of bale.
 10. 1st Cut Grass Hay - 1 slice of bale.
 11. 2nd Cut Legume Hay (alfalfa, clover)- 1 slice of bale.
 12. 2d Cut Grass Hay - 1 slice of bale.
-GRAIN CROPS
+# GRAIN CROPS
 13. Corn Grain Whole Kernal - 1 quart jar.
 14. Corn Grain Ground - 1 quart jar.
 15. Soybean Grain - 1 quart jar.
