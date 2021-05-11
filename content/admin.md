@@ -17,7 +17,7 @@ Description: Example of markdown
 1. After hitting save, James will be notified and he'll push the changes to the site after review.
 1. If you don't hear back from me within 2 business days, please reach out via the site contact form with your github username and I'll look into what happened.
 
-[Link to Video of the above process](https://drive.google.com/file/d/1sjjoB5lQZVEPULdWgXJq1SfcaBKqECA0/view)
+[Link to Video of the above process](https://drive.google.com/file/d/1avMoWopB3Uo-SvHJ8wrU96j2a8CLlm42/view)
 
 # This is a "static site"
 
