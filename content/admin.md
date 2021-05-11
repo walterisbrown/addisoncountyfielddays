@@ -13,9 +13,11 @@ Description: Example of markdown
 1. Find the Pencil ✏ icon at the top right, in the gray horizontal bar above the actual text of the page. Click on this icon to being making edits.
 1. Edit the page, please note you can use the preview button.
 1. When done, scroll to the bottom and enter a commit message about the changes your making, why they are needed, and anything else relevant to the change. Click commit when you're ready
-1. On the next page, hit the green button to create a pull request. You'll have to scroll down a bit and hit the button a second time to ensure it sticks.
-1. After hitting save, James will be notified and he'll push the changes to the site after review.
-1. If you don't hear back from me within 2 business days, please reach out via the site contact form with your github username and I'll look into what happened.
+1. On the next page, hit the green button to start the process of creating a pull request. 
+2. You'll be presented with a form that is prefilled with your original commit. Add any extra infromation here I might need to know about when to push this live or who to conact once it is live.
+3. You'll have to scroll down a bit and hit green button again to confirm and create your pull request.
+4. After finishing the pull request, the page should change again and a test version of the site will begin to build
+5. James will be notified and he'll push the changes to the site after review. If you need help, please use the site contact form and I'll reach out and offer help.
 
 [Link to Video of the above process](https://drive.google.com/file/d/1avMoWopB3Uo-SvHJ8wrU96j2a8CLlm42/view)
 
