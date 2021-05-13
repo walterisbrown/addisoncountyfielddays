@@ -9,8 +9,7 @@ Description: Exibit information and entry rules
 [[TOC]]
 
 DIRECTOR: Tricia Foster, 233-2821
-Pam Gevry, 759-2238, Cell: 373
--8069
+Pam Gevry, 373-8069
 
 
 A wonderful place for children of all ages, 9 days to 99 years. See young animals of the
@@ -24,13 +23,14 @@ this year.
 If you have an animal or bird you think might be of interest, please contact Pam before
 August 1st.
 
-All animals eligible for the rabies vaccine MUST have their RABIES immunization before July
-1st of the year to be entered and shots must be current. In addition, all equine must have a
+All animals eligible for the rabies vaccine MUST have their RABIES immunization at least 30 days
+before the fair and shots must be current. All out of state equine must have a
 negative coggin test. 
 
-Poultry must be state pollorum-typhoid tested. (Which will be done at the
-fairgrounds upon arrival by the state veterinarian). Animals must show proof to the barnyard
-staff at the time of the fair, before animals can be allowed to remain in the Children’s Barnyard.
+Poultry must be state pollorum-typhoid tested(Which will be done at the
+fairgrounds upon arrival by the state veterinarian). Sheep and goats must have scrapie tags or
+be microchipped.  All other livestock must have a state approved 840 or metal ID tag which can
+be acquired thru the state.  
 
 Please Note: copies of negative coggin and pollorum-typhoid test results and current rabies
 shots need to be on file at the barn during the fair.
@@ -71,7 +71,7 @@ Entries may be entered in the following:
 5.Group Division(Under 18) must be attended 2 hours or more a day by a group of at least
 one adult and 2 children.
 
-### Judging Judging
+### Judging
 
 Exhibits will be judged 0n the following criteria:
 1. Clean & neat appearance ofhandler & overall health ofanimal
