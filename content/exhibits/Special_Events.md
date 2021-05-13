@@ -35,37 +35,39 @@ Sign up in the Butterfield Arena starts at 2:30 p.m. on the 10th Youth and Adult
 
 Wednesday, 4:00 p.m. - LOCATION: Children’s Barnyard
 
-SUPERINTENDENT: Jennifer Kennett 
+SUPERINTENDENT: Jennifer Kennett  
 
-Rabbit Showmanship is a collective measure of handler skill and rabbit care. All rabbits must be vaccinated against rabies. Please mail the entry form to: Pam Gevry, 3851 VT Route 22A, Addison, VT 05491
+Rabbit Showmanship is a collective measure of handler skill and rabbit care. Please mail the entry form to: Pam Gevry, 3851 VT Route 22A, Addison, VT 05491
 
 Judging will be based on the following criteria (appropriate for age): • Clean, neat and professional appearance of both exhibitor and rabbit • Knowledge of parts of rabbit • General Questions on feed, grooming, care and diseases • Examination of Rabbit 
 
 • Rabbits should be exhibited using a harness for the safety of each rabbit. 
 Classes: Primary (8-10), Junior (ages 11-13) and Senior (ages 14-18) Based on entries, classes will be adjusted and divided evenly. 
 
-Preparation for this contest is like any other. Practicing with your rabbit ahead of time will earn you more points on the day of the contest. Please use an animal that is familiar with being handled and the procedures described. 
+Preparation for this contest is like any other. Practicing with your rabbit ahead of time will earn you more points on the day of the contest. Please use an animal that is familiar with being handled and the procedures described. All rabbits must arrive in good health and will be checked in with the superintendent.
+We strongly recommend that you bring your rabbit for display for the whole fair week.
 
 
-## YOUTH ACTIVITIES
+## FREE YOUTH ACTIVITIES
 DIRECTOR: Tricia Foster, 233-2821
 
-SUPERINTENDENT: Pam Gevry, 759-2238
+SUPERINTENDENT: Pam Gevry, 373-8069
 
-Various free youth activities will be held in the tent by the Children' Barnyard every day (see schedule for times). Some examples of games are face painting, try your luck games, bubble making
+Various free youth activities will be held in the tent by the Childrens Barnyard every day (see schedule for times). Some examples of games are face painting, try your luck games, bubble making
 and many more! No entry fee or presign up is necessary.
 
 ## EGG JUDGING
 DIRECTOR: Tricia Foster, 233-2821; 
 
-SUPERINTENDENT: Pam Gevry, 759-2238, Cell 373-8069
+SUPERINTENDENT: Pam Gevry, 373-8069
 
 Eggs must be in place by 8:00 p.m. on Monday and remain on display until 9:00 p.m. Saturday.
 
 For both divisions please bring a fun and creative container to display eggs in during the fair
 
-### SECTION 1 OPEN (ADULTS) OVER 18 Fresh, Uniform & Clean Eggs are judged on freshness
-and hairline cracks by candling and for uniformity, cleanliness, quality and display method. 
+### SECTION 1 OPEN ADULTS (OVER 18)
+Fresh, Uniform & Clean Eggs are judged on freshness and hairline cracks by candling and for 
+uniformity, cleanliness, quality and display method. 
 One dozen limit per class per exhibitor
 
 | Class | 1st | 2nd | 3rd |
