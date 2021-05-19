@@ -7,7 +7,7 @@ Description: Exibit information and entry rules
 
 [[TOC]]
 
-**DIRECTOR:** Neil Allen
+**DIRECTOR:** Cindy Kayhart
 **SUPERINTENDENT:** Robin Severy
 
 - Tuesday — 9:00 a.m. — Conformation 
@@ -16,13 +16,13 @@ Description: Exibit information and entry rules
 [Entry Form](/files/Field_Days_Entry-Forms.pdf#page=3)
 
 ## ENTRY RULES
-1. CLASS FEE: $2.00 per class for the following (*) classes, Conformation *1 thru
+1. CLASS FEE: $2.00 per class for the following (*) classes, 
 
     CLASS  FEE:  $2.00  per  class  for  the  following  (*)  classes
     - Conformation  *1  thru *12
     - Showmanship and Fitting Classes *1 thru *6.
     
-1. 4-H Dairy Entries are due July 18
+1. 4-H Dairy Entries are due July 19
 
     Mail entries and fees to: 
 
@@ -34,11 +34,11 @@ Description: Exibit information and entry rules
 
 1. Cattle  must  be  on  the  grounds  no  later  than  2:00  p.m.,  Monday.  Cattle  may  leave  no earlier than 9:00 p.m. on Saturday. 
 
-1. Animals  to  be  exhibited  must  have  been  cared  for  by  the  exhibitor  since  May  1st, and  listed  on  their  current  approval  forms  and/or  lease  contracts  and  signed for animals over 2 years old.
+1. Animals  to  be  exhibited  must  have  been  cared  for  by  the  exhibitor  since  May  1st, and  listed  on  their  current  approval  forms  and/or  lease  contracts  and  signed by the Extension representative by April 30th. Exceptions are accepted on agreement of the Superintendent. Past approval forms must be included for animals over 2 years old.
 
-1. Each animal must be positively identified by either a state metal ear tag, AIN tag(840), registration papers or photo to match approval forms.
+1. Each animal must be positively identified by either a state metal ear tag, AIN tag(840), or registration papers to match approval forms.
 
-1. All exhib    itors and youth showing will be at least 8 years of age as of January 1st of the year of the show and under 19 as of Jan. 1st of the year of the show.
+1. All exhibitors and youth showing will be at least 8 years of age as of January 1st of the year of the show and under 19 as of Jan. 1st of the year of the show.
 
 1. All participants must enter both the Fitting & Showing class as well as the Conformation classes.  All  4-H  members  are  elipate  in  all  classes.    There  are  Special awards that will be awarded to Addison County 4-H members only.
 
@@ -69,7 +69,7 @@ A Universal Dairy Health Form for 4-H Animals must be available for inspection a
 
 1. Rabies vaccination with veterinarians certification to verify the vacination atleast 30 days before the fair begins.  Rabies vaccinations are good for only one year
 1. Vaccination required for shipping fever (respitory diesease)
-1. Animals showing any signs, symtops, suspicions or evidence of any infections disease, sickness  or  disorder  (including,  but  not  limited  to,  mange,  warts,  pinkeye,  ringworm, scabies,  foot  rot)  shall  be  barred  from  the  grounds  upon  arrival  and/or  at  any  time during the show when such is detected.
+1. Animals showing any signs, symtops, suspicions or evidence of any contagious disease, sickness  or  disorder  (including,  but  not  limited  to,  mange,  warts,  pinkeye,  ringworm, scabies,  foot  rot)  shall  be  barred  from  the  grounds  upon  arrival  and/or  at  any  time during the show when such is detected.
 1. All animals over 6 months of age must have no horns, horn stubs 1 inch only.
 1. Dairy Leaders and Superintendents will inspect animals for diseases and horns. 
 1. Dairy animals will be located and tied in the 4-H Dairy Building according to instruction of the superintendents and/or the 4-H leader.  No animal is allowed out of the stall area without being haltered and under control.  
@@ -102,23 +102,23 @@ posted at fair time, the punishment can include, but is not restricted to the fo
 
 CONFORMATION CLASSES (Tuesday) $2.00/class
 
-1. Spring Calf — born between March 1 of this year,  and April 30 of this year, 
-2. Winter Calf — born between December 1, of previous year and February 28, of this year.
-3. Fall Calf — born between September 1, of previous year and November 30, of this year.
-4. Summer Yearling Heifer— born between June 1, of previous year and August 31, of previous year.
-5. Spring Yearling Heifer — born between March 1, of previous year and May 31, of previous year.
-6. Winter Yearling Heifer — born between December 1, two years ago and February 29, two years ago.
-7. Fall Yearling Heifer— born between September 1, three years ago and November 30, three years ago.
+1. Spring Calf — born between March 1 , 2021,  and April 30 , 2021 
+2. Winter Calf — born between December 1, 2020 and February 28, 2021.
+3. Fall Calf — born between September 1, 2020 and November 30, 2020.
+4. Summer Yearling Heifer— born between June 1, 2020 and August 31, 2020.
+5. Spring Yearling Heifer — born between March 1, 2020 and May 31, 2020.
+6. Winter Yearling Heifer — born between December 1, 2019 and February 29, 2020.
+7. Fall Yearling Heifer— born between September 1, 2019 and November 30, 2019.
 
 ### Junior Champions
 
-1. Two Year Old Cow — milking — born between September 1, 2016 and August 31, 2017.
-1. Three Year Old Cow — born between September 1, 2015 and August 31, 2016.
-1. Four Year Old and Over — born before September 1, 2015.
+1. Two Year Old Cow — milking — born between September 1, 2018 and August 31, 2019.
+1. Three Year Old Cow — born between September 1, 2017 and August 31, 2018.
+1. Four Year Old and Over — born before September 1, 2017.
 
-1. Young Dry Cow Class — under 5 years born after August 31, 2014.
+1. Young Dry Cow Class — under 5 years born after August 31, 2016.
 
-1. Aged Dry Cow born before 9/1/2014.
+1. Aged Dry Cow born before 9/1/2016.
 
 ###  Senior Champions, Grand Champions & Supreme Champion
 
@@ -127,33 +127,33 @@ registration paper or past approval forms listing ownership.
 
 1. Dam and Daughter — One cow & her daughter. May be from 2 members.
 
-1. Produce of Dam — Two offspring of | cow. May be from 3 members.
+1. Produce of Dam — Two offspring of | cow. May be from 2 members.
 
 1. Members Herd Exhibited by 1 member — Arthur Williams Award — 3 animals, any
 age, same breed, any breeds.
 
 1. Club Herd — 5 animals — of which at least two must be from classes 1-7. Opento all clubs.
 
-###  SHOWMANSHIP & FITTING CLASSES (Taursiay) 
+###  SHOWMANSHIP & FITTING CLASSES (Thursday) 
 
 $2.00/class
 
-- Novice Class Division A: Member 8 years of age (as of January 1, 2018) who has never
+- Novice Class Division A: Member 8 years of age (as of January 1, 2021) who has never
 shown before.
 
-- Novice Class Division B: Member 9-12 years of age (as of January 1, 2019) and under
+- Novice Class Division B: Member 9-12 years of age (as of January 1, 2021) and under
 who have not shown an animal before. NOTE: Superintendents reserve the right to
 divide classes according to size.
 
-- Junior Division : 11 years of age and under as of January 1, 2019
+- Junior Division : 11 years of age and under as of January 1, 2021
 Junior Champion Showman-All First Place showmen compete from Junior Division
 Showmanship classes.
 
-- Intermediate Division: 12 to 14 years of age as of Jan 1, 2019.
+- Intermediate Division: 12 to 14 years of age as of Jan 1, 2021.
 
 - Intermediate Champion Showman & All First Place Winners from Intermediate classes.
 
-- Senior Division: Age 15 to 18 years as of January 1, 2019.
+- Senior Division: Age 15 to 18 years as of January 1, 2021.
 
 - Senior Champion Showman--All First Place winners from Senior Showmanship division
 classes. (In the event that the First Place winner in this class is a previous winner, then
@@ -171,7 +171,7 @@ Awards will be given away on Saturday (during lunchbreak of open show in Animal 
 
 Mr. George Highter donated a rotating and permanent trophy to the winner of the Senior
 Showmanship Division in the 4-H Dairy Show. This trophy may only be won once by an
-individual. Permanent trophy donated by Mr. & Mrs. Norman Audet.
+individual. Permanent trophy donated by Blue Spruce Farm in memory of Mary Rose and Norman Audet.
 
 #### MILK AND HONEY GENETICS AWARD
 Skip and Ruth Maynard donated a permanent and rotating trophy to the 4-H member who is
@@ -199,7 +199,7 @@ conformation.
 K. Pope and Sons of Shoreham donated this award to the Best Fall Calf in conformation.
 
 #### PERRY BROOK FARM AND FAMILY AWARD
-Lorenzo and Amy Quesnel donated this award to the Best Summer Yearling shown.
+Lorenzo and Amy Quesnel and family donated this award to the Best Summer Yearling shown.
 
 #### BRISSON’S DAONA FARM AWARD
 The Family of Harris and Lauretta Brisson donated this award for the Best Spring Yearling shown.
@@ -221,7 +221,7 @@ Champion in each of the dairy breeds for Addison County 4-H members.
 Cargill Award is awarded to all of the Senior Champions.
 
 #### POULIN FEEDS AWARD
-This award is donated each year to the Breed Champion in each of the dairy breeds for
+This award is donated each year to the Grand Champion in each of the dairy breeds for
 Addison County 4-H members.
 
 #### JOYCE & FRANCIS HAGGARTY AWARD
@@ -230,7 +230,7 @@ for Addison County 4-H members.
 
 #### ERIK BARNES MEMORIAL-GRAND CHAMPION AYRSHIRE
 This is in memory of Erik Barnes of Orwell, a Mt. Independence 4-H member who was an
-avid Ayrshire 4-H Showman for Addison County 4-H members.
+avid Ayrshire 4-H Showman.
 
 #### REGINALD MORSE AWARD
 
@@ -243,7 +243,7 @@ For Best Bred and Owned Ayrshire of Show given in memory of 4-H leader and Ayrsh
 breeder by Shoreham Early Bird 4-H Club.
 
 #### ALICE QUESNEL MEMORIAL AWARD
-Sponsored by Paul Quesnel and family for the Best Dam & Daughter of the Show.
+Sponsored by Victor Quesnel family for the Best Dam & Daughter of the Show.
 
 #### SEVERY FAMILY AWARD
 Sponsored for Best Produce of Dam of Show.
@@ -280,7 +280,7 @@ paid to the club treasury.
 
 ### MARY ROSE AND NORMAN AUDET MEMORIAL HERDSMANSHIP AWARD
 
-A $25.00 cash award presented each year to the most outstanding club in Addison County
+A cash award presented each year to the most outstanding club in Addison County
 
 4-H in the Herdsmanship 4-H Club event. To be presented on Saturday, during lunch break, in
 the Animal Show Arena. Sponsored by Elaine & Brian Desforges.
@@ -296,36 +296,3 @@ will be awarded on Saturday.
 
 
 
-## PEEWEE DAIRY SHOWMANSHIP
-
-SUPERINTENDENT: Robin Severy, 897-2680
-
-Friday, 12:30 p.m. — Animal Show Arena
-
-This is a show planned especially for youngsters at least 3 and under 8 1/2 years of age
-who ate too young to show 4-H with any breed of dairy calf. For safety reasons, exhibitor
-ages will be enforced. The emphasis is on fun and learning with identical ribbons and t-shirts
-awarded to all.
-
-A big thank you goes out to the Chalker Farm for donating the t-shirts!
-
-1. MANDATORY PRE-REGISTRATION by August 1. 
-Send entries (no cost) to: Robin Severy, 142 Hemenway Hill Road, Shoreham, VT 05770
-Email: rsevery@shoreham.net or call in the information to 897-2680. Please include:
-
-    - Name of Exhibitor
-    - parents names, mailing address, telephone #
-    - child’s birthdate
-    - calf name if shared with another peewee. 
-Exhibitors and one parent will be sent passes before the fair.
-
-2. Calves must be vaccinated for shipping fever at least two weeks before the show and
-
-rabies vaccinated as per your veterinarian.
-
-3. It is suggested that the calves be young (Spring calves) but not too young (as in milk fed baby calves). No cows. 
-
-1. PeeWee exhibitors should be able to show in the ring unassisted
-if they are over 6 years old.
-
- 
