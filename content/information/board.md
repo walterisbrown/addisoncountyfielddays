@@ -10,7 +10,8 @@ Description: The folks who work behind the scenes to make the fair happen. Thank
     <strong>Addison County Fair & Field Days, Inc.</strong>
     <br /> New Haven,Vermont 05742<br />
     <abbr title="Phone">Phone:</abbr> 802-545-2557<br />
-    <abbr title="Phone">Fax:</abbr> 802-329-2113
+    <abbr title="Fax">Fax:</abbr> 802-329-2113<br />
+     <abbr title="Email">Email:</abbr> Fielddays@gmavt.net
 </address>
 
 ## Board Members
