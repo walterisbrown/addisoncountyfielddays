@@ -7,8 +7,8 @@ Description: Exibit information and entry rules for the Addison County Fair And 
 [[TOC]]
 
 ## Times & Schedule
+Tuesday, starting at 7:00 pm.
 Wednesday, starting at 7:00 pm.
-Thursday, starting at 7:00 pm.
 
 ### Wednesday
 - 6 & 8 CYLINDER DEMOLITION DERBY
