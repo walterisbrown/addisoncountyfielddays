@@ -6,12 +6,16 @@ Description: The folks who work behind the scenes to make the fair happen. Thank
 # Board of Directors
 
 ## Main Contact
-<address>
-    <strong>Addison County Fair & Field Days, Inc.</strong>
-    <br /> New Haven,Vermont 05742<br />
-    <abbr title="Phone">Phone:</abbr> 802-545-2557<br />
+
+<address itemscope="" itemtype="http://schema.org/NGO">
+    <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" >
+        <strong itemprop="streetAddress" >Addison County Fair & Field Days, Inc.</strong>
+        <br /> <span itemprop="addressLocality">New Haven</span>,<span itemprop="addressRegion">VT</span> 05742
+    </div>
+    <br />
+    <a href="tel:8025452557" itemprop="telephone" ><abbr title="Phone" >Phone:</abbr> 802-545-2557</a><br />
     <abbr title="Fax">Fax:</abbr> 802-329-2113<br />
-     <abbr title="Email">Email:</abbr> Fielddays@gmavt.net
+    <a href="mailto:Fielddays@gmavt.net"  itemprop="email"><abbr title="Email">Email:</abbr> Fielddays@gmavt.net</a>
 </address>
 
 ## Board Members
