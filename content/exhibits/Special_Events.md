@@ -13,7 +13,7 @@ Saturday, 1:00 p.m - L0CATI0N: Butterfield Arena
 
 DIRECT0R: Diane Norris, 989-4295 
 
-Sign up in the Butterfield Arena Noon to 1:00 on the 10th New for 2019- Sling Shots will be provided by Rack ‘N Reel -Ribbons and Prizes will be awarded-CLASSES 5 and 6 year olds 7 to 9 year olds 10 to 13 year olds 14 to 17 year olds Adult-18 and older 
+Sign up in the Butterfield Arena Noon to 1:00. Sling Shots will be provided by Rack ‘N Reel -Ribbons and Prizes will be awarded-CLASSES 5 and 6 year olds 7 to 9 year olds 10 to 13 year olds 14 to 17 year olds Adult-18 and older 
 
 ## TURKEY CALLING CONTEST
  
@@ -99,7 +99,7 @@ forest resources. Visit this attraction on Cedar Island, behind the Emergency Se
 
 ## PEDAL TRACTOR PULL
 Thursday, 11:00 a.m. — Location: Show Tent.
-DIRECTOR: Neil Allen, (802) 989-5167
+DIRECTOR: Benj Deppman, (802)734-1381
 
 Youth ages 4-10 Both girls & boys combined. 
 
@@ -110,7 +110,7 @@ The youngster's version of the real thing. Come on down and watch the fun and ch
 
 ## VERMONT PRODUCTS DINNER
 > "A Taste of Vermont"
-Tuesday, August 6, 2019 — Three Seatings: 5:15, 6:00 & 6:45 p.m.
+Tuesday, August 10, 2021 — Three Seatings: 5:15, 6:00 & 6:45 p.m.
 
 LOCATION: the Dining Hall 
 
@@ -124,20 +124,6 @@ Tickets for adultsare just $10; children under 10 years are $5.
 Tickets will be on sale starting July 1st, by calling the Field Days office at 545-255 or by email at fielddays at gmavt.net.
 
 See the ad in the Addison Independent for additional area businesses that will have tickets available.
-
-## RE/MAX TETHERED HOT AIR BALLOON RIDES
-
-Two Evenings (Weather Permitting): 
-- Friday
-- Saturday
-
-SPONSORED BY: RE/MAX North Professionals & The Gridley Group • LOCATION: Behind the Tractor Pad by the Horse Ring.
-
-Our hot air balloon stands nearly 70'tall and 60' wide, so come and take a tethered ride in this "gentle giant"! You will be getting a"bird's eye view"of this very special part of Addison County.
-
-**BRING YOUR CAMERA FOR SPECTACULAR PICTURES OF THE FAIR GROUNDS!**
-
-A nominal fee will be charged, with all proceeds to benefit Addison County Fair & Field Days. Look for the Red, White and Blue Balloon!
 
 
 ## ARMWRESTLING
@@ -234,7 +220,7 @@ Location: Show Tent
 Come, sing your heart out at the Karoake Talent Night. A true talent night, no screens with words, just the music, you and a microphone. Chance to win great prizes from our celebrity judges.
 Adult and kids divisions. Come sing, have fun and be a STAR.
 
-## PETERSON QUALITY MALT LADIES IR0N SKILLET toss
+## LADIES IR0N SKILLET toss
 Wednesday, 1 p.m. — LOCATION: Tractor Pad
 
 SUPERINTENDENT: Benj Deppman, 734-1381
@@ -250,7 +236,7 @@ for the throw!
 - 18 years and older. 
 
 
-## PETERSON QUALITY MALT MEN's CABER Toss
+## MEN's CABER Toss
 Wednesday, 12:00 p.m. — LOCATION: Tractor Pad
 
 SUPERINTENDENT: Benj Deppman, 734-1381
