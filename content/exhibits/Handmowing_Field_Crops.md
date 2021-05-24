@@ -9,7 +9,7 @@ Description: Exibit information and entry rules for Field Crops & Handmowing at 
 
 ## FIELD CROPS
 
-ENTRY DEADLINE: Monday before the fair - ALL Products in by 12:00 Noon
+ENTRY DEADLINE: August 9, 2021 - Monday before the fair - ALL Products in by 12:00 Noon
 
 ### Rules
 1. Limit one (1) entry per farm in each class. All entries must be produced on the exhibitor’s farm.
