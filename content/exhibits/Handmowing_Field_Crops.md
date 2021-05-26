@@ -41,7 +41,7 @@ ENTRY DEADLINE: August 9, 2021 - Monday before the fair - ALL Products in by 12:
 9.  1st Cut Legume Hay (alfalfa, clover)- 1 slice of bale.
 10. 1st Cut Grass Hay - 1 slice of bale.
 11. 2nd Cut Legume Hay (alfalfa, clover)- 1 slice of bale.
-12. 2d Cut Grass Hay - 1 slice of bale.
+12. 2nd Cut Grass Hay - 1 slice of bale.
 #### GRAIN CROPS
 13. Corn Grain Whole Kernal - 1 quart jar.
 14. Corn Grain Ground - 1 quart jar.
