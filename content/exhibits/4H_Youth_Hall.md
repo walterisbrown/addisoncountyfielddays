@@ -91,8 +91,7 @@ within the club exhibit space all at once and left there for the entire fair.
 
 ### REMOVAL OF EXHIBITS
 Any exhibit removed from the Youth Hall prior to 9:00 p.m. Saturday
-will forfeit any premiums awarded to that exhibit. After removing exhibits, the table needs to
-be dismantled and put away before receiving premiums. Premiums will be available at 9:00
+will forfeit any premiums awarded to that exhibit. Premiums will be available at 9:00
 p.m. Saturday. The Youth Exhibit Hall will be open from 10 a.m. - noon on Sunday for removal of
 exhibits and premiums will be available then. If this option is used the Superintendent needs
 to be notified Saturday night. Any club/group who fails to clear out their exhibit area by noon,
