@@ -1,6 +1,6 @@
 /*
 Title: CLASSES FOR 4-H AND OTHER YOUTH
-Description: Exibit information and entry rules
+Description: Exhibit information and entry rules
 */
 
 
@@ -26,15 +26,15 @@ Field Days. Field Days is a very important part of the 4-H program and 4-H has a
 the challenge of maintaining these buildings. The Foundation’s purpose is to raise money in
 support of the Addison County Educational 4-H program. The maintenance and improvement
 of the 4-H facilities at Field Days is a major expense. People wishing to help 4-H may contact
-any Addison 4-H Foundation Trustee Alan Curler, Elaine Desforges, Kathy Nisun, Shelley Smith,
-Jake Jacobs, Martha Seifert, Laurie Bertrand, Jeff Lester, Megan Sutton, Becky Allen, Janet
-Piper, Andrea Warren and Patrick Reen.
+any Addison 4-H Foundation Trustee Elaine Desforges, Kathy Nisun, Shelley Smith,
+Jake Jacobs, Martha Seifert, Laurie Bertrand, Jeff Lester,  Janet Piper, Kari Smith, 
+Victor Bolduc, Andrea Warren, Sara Kurtz, Ashley Audet, and Patrick Reen.
 
 ## 4-H Pass Policy
 
-1. 4-H members and 4-H leaders will be awarded a colored Field Days Bracelet for 2019.
+1. 4-H members and 4-H leaders will be awarded a colored Field Days Bracelet for 2021.
 Each organizational leader is to submit a list of active members and leaders for their club
-at any time before July 31, 2019 to 4-H Fair Passes, UVM Extension, 23 Pond Lane, Suite
+at any time before July 31, 2021 to 4-H Fair Passes, UVM Extension, 23 Pond Lane, Suite
 300, Middlebury, VT 05753 or email Martha Seifert.
 4-H members are to receive their pass from their 4-H leader as soon as
 available.
@@ -60,7 +60,7 @@ All youth are encouraged to exhibit their talents in the Youth Hall. Any non-pro
 oriented group is invited to display exhibits. Exhibits may be created by groups, clubs or individuals.
 Articles may be exhibited even if they do not fit into a standard category. All exhibit space must be
 pre-registered with Martha Seifert, UVM Extension Office, 23 Pond Lane, Suite 300, Middlebury,
-VT 05753 (or 388-4969), by July 31, 2019.
+VT 05753 (or 388-4969), by July 31, 2021.
 
 All exhibits must have been produced, made or grown by the exhibitor(s) in the current
 year, and are exhibited at the exhibitor’s risk.
@@ -68,7 +68,7 @@ year, and are exhibited at the exhibitor’s risk.
 ### ENTRY TAGS 
 
 All exhibits will have an entry tag securely attached, filled out by the exhibitor
-or group/club leader, with age as of 1/1/19 and number of years in the project. Please
+or group/club leader, with age as of 1/1/2021 and number of years in the project. Please
 complete both sides of the entry tag. Tags will be available at the Youth Hall at setup
 time. Cloverbuds will have separate club tags.
 
@@ -85,15 +85,14 @@ category sheets. Only necessary people will be allowed in the building during ju
 members can remain during judging except for designated teen leaders.
 
 ### SET-UP
-The Youth Hall will only be open from noon to 6pm, Sunday to receive exhibits and
+The Youth Hall will only be open from noon to 6 p.m., Sunday to receive exhibits and
 set up displays. Judging will begin at 9:00 a.m. on Monday. Individual exhibits will be set up
 within the club exhibit space all at once and left there for the entire fair.
 
 ### REMOVAL OF EXHIBITS
 Any exhibit removed from the Youth Hall prior to 9:00 p.m. Saturday
-will forfeit any premiums awarded to that exhibit. After removing exhibits, the table needs to
-be dismantled and put away before receiving premiums. Premiums will be available at 9:00
-p.m. Saturday. The Youth Exhibit Hall will be open from 10am - noon on Sunday for removal of
+will forfeit any premiums awarded to that exhibit. Premiums will be available at 9:00
+p.m. Saturday. The Youth Exhibit Hall will be open from 10 a.m. - noon on Sunday for removal of
 exhibits and premiums will be available then. If this option is used the Superintendent needs
 to be notified Saturday night. Any club/group who fails to clear out their exhibit area by noon,
 Sunday, will forfeit any premium that has been earned by that exhibit.
@@ -110,11 +109,11 @@ area. Educational table top exhibits will be displayed separately from club exhi
 space is reserved for posters and photographs.
 
 ### Judging Criteria:
-- Exhibit attracts and holds viewer’s interest.
-- Exhibit tells a story and/or shows accomplishments.
-- Quality and workmanship ir The exhibit.
-- Balanced, creative display. k:
-- Effective use of space.
+- Exhibit attracts and holds viewer’s interest
+- Exhibit tells a story and/or shows accomplishments
+- Quality and workmanship in The exhibit
+- Balanced, creative display
+- Effective use of space
 
 
 ### Premiums: 
@@ -129,13 +128,14 @@ prepare educational exhibits. This is an excellent opportunity to show some phas
 in which you have been involved. **Both table top and backboard must be utilized as
 a 3 dimensional display.** A single or series of posters is not an educational exhibit! Items
 should be secured down so they don’t fall over or be blown off by the wind.
+
 ### Judging Criteria
-- Attracts attention and holds interest.
-- Conveys message — instructional.
-- Displays effective title.
-- Displays club/individual name.
-- Subject is suitable, timely and important.
-- General appearance and workmanship of exhibit.
+- Attracts attention and holds interest
+- Conveys message — instructional
+- Displays effective title
+- Displays club/individual name
+- Subject is suitable, timely and important
+- General appearance and workmanship of exhibit
 
 ### Premiums: 
 1. Best of Show Rosette = $20
@@ -155,12 +155,12 @@ may be done more than once.
 
 ### Judging Criteria
 
-- Holds interest. 
-- Entertaining oreducational.
-- Enjoyable and timely subject. 
-- Interactive with public.
-- Explanatory material used where needek? 
-- Overall appearance.
+- Holds interest
+- Entertaining or educational
+- Enjoyable and timely subject
+- Interactive with public
+- Explanatory material used where needed
+- Overall appearance
 
 ### Premiums
 
@@ -208,14 +208,14 @@ Produce should be arranged in an attractive container.
 Exhibit 4-6 items for small produce, 1–3 for larger
 produce.
 
-Judging Criteria — Vegetables
+Judging Criteria — Vegetables Or Fruits
 - Variety of vegetables exhibited
 - Uniformity in size, shape, color and maturity
 - Quality — peak condition for eating purposes
 - Condition — free from disease, insect damage, cuts, bruises, or growth cracks
 
 Foods and vegetables used in exhibits must stand the test of time. Exhibits which become
-unattractive will be removed Le. . .a foul smell, mold, etc. .
+unattractive will be removed ie. . .a foul smell, mold, etc. .
 
 
 ## ART EXHIBIT
@@ -240,7 +240,7 @@ stained glass, clay or plaster, novelties, baskets, pottery, etc.
 Exhibitors may display potted, fresh and/or dried arrangements which have been designed by
 youth in your own container. It is acceptable and encouraged to replace wilted flowers with fresh ones.
 
-### Judging Criteria 
+### Judging Criteria - Flowers
 - Design — including balance, harmony and scale
 - Workmanship, Creativity, Choice of container
 - Condition of flowers, free from disease and not overmature
@@ -261,19 +261,17 @@ Minimum size: 14 inches by 22 inches. May be any medium: marker, watercolor, ink
 acrylic, charcoal, oils or collage, but not three-dimensional. Please attach poster entry tag to
 poster. Posters will be exhibited on the poster display at all times. **No Foam Boards**
 
-### Judging Criteria
+### Judging Criteria - Posters
 - Extra points will be given for those done by hand
 - General appearance and lettering
 - Attracts interest
 - Conveys message
-- Subject suitable, timely and important.
+- Subject suitable, timely and important
 
 ### Premiums 
 1. Rosette - $5
 1. Blue Ribbon $2
 1. Red Ribbons $1
-
-
 
 ## WOODWORKING/ELECTRICAL EXHIBIT
 Articles made of wood and/or that use electrical circuitry in their construction may be
@@ -284,7 +282,7 @@ Superintendent upon arrival.
 
 ## AGRICULTURE RELATED OR SCENIC DIORAMA
 Don’t let the name scare you. These are models and miniature scene displays arranged on a
-board with 3 dimensional figures. Maximum size of 2’ x 4’. Must be on a firm base. Examples:
+board with 3 dimensional figures. Maximum size of 2 feet by 4 feet. Must be on a firm base. Examples:
 a farm scene or layout, garden plots, horse show or sugarbush scene. Please attach a 3 x 5 card
 with title, brief description of your project, and your name. Be imaginative and creative in your
 use of materials.
@@ -292,9 +290,12 @@ use of materials.
 ## CHRISTMAS TREE ORNAMENT CONTEST
 Youth may enter an original handmade ornament that will be displayed on a tree in the
 Youth Exhibit Hall. Ornaments must be created by youth.
-### Judging Criteria
-- Workmanship - Creativity
-- Age ofexhibitor - Appropriate use Ofcolor.
+
+### Judging Criteria - Christmas Tree Ornament
+- Workmanship
+- Creativity
+- Age ofexhibitor
+- Appropriate use of color
 
 ## SMALL ANIMAL EXHIBIT
 

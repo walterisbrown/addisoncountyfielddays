@@ -42,7 +42,7 @@ Judging is Monday at 11 am. Look for drop-off times at: www.addisoncountymaple.o
 ### Entry Tags
 NAME, ADDRESS, PHONE N0. REQUIRED and if appropriate, grade of syrup or recipe must be included with each entry. All entries become the property of ACMSA.
 
-Use only new, unused containers for all maple products. Always use only hot water to clean maple equipment and containers. Do not use dish soap or other kinds of soap when cleaning and preparing maple equipment or containers as soap will flavor the syrup or contents of the container. No containers or dishes will be returned to the exhibitor. Ribbons, dishes and any prize money Will be available after 6 p.m. on Saturday night.
+Use only new, unused containers for all maple products. Always use only hot water to clean maple equipment and containers. Do not use dish soap or other kinds of soap when cleaning and preparing maple equipment or containers as soap will flavor the syrup or contents of the container. No containers or dishes will be returned to the exhibitor. Ribbons and any prize money will be available after 6 p.m. on Saturday night.
 
 ### Classes
 1. Maple Syrup: USING NEW GRADING SYSTEM, 1 full pint of:
@@ -71,7 +71,7 @@ Show: Special Best of Show Rosette awarded for best entry overall.
 
 ### Backyard Amateur Sugarmakers
 
-If you hang 100 buckets or less, you may enter one (1) pint of syrup in the Amateur Sugarmakers Contest. Amateurs syrup will bejudged on density, flavor and clarity.
+If you hang 25 taps or less, you may enter one (1) pint of syrup in the Amateur Sugarmakers Contest. Amateurs syrup will bejudged on density, flavor and clarity. The judges request that you grade the syrup (it may be any grade), though entries are not judged on grade.
 
 ### Blake Roy Memorial Fund
-Blake Roy was a Field Days lVlaple Judge for many years with a special interest in quality control. A $25 premium plus a Blake Roy Ribbon will be awarded in the Golden Color/Delicate Taste, Amber Color/Rich Taste, Dark Color/Robust Taste, and Very Dark Color/Strong Taste classes.
+Blake Roy was a Field Days Maple Judge for many years with a special interest in quality control. A $25 premium plus a Blake Roy Ribbon will be awarded in the Golden Color/Delicate Taste, Amber Color/Rich Taste, Dark Color/Robust Taste, and Very Dark Color/Strong Taste classes.
