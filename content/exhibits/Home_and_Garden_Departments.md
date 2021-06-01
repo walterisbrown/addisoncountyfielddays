@@ -199,13 +199,13 @@ potholders)
 1. Othertechnique or combination oftechniques
 
 #### BASKETRY
-1. Splint woven (?at material)
-1. Twined 0r woven with round material
+1. Splint woven (flat material)
+1. Twined or woven with round material
 1. Coiled basket
 1. Other
 
 #### RUGS
-1. Traditi0nally hooked rug
+1. Traditionally hooked rug
 1. Punch-needle hooked rug
 1. Other hooked item: pillow, picture, etc.
 1. Braided rug
@@ -234,30 +234,32 @@ potholders)
 1. Decorative wood burning
 1. Other wood item, not listed above
 
-####  LACE-ANY ITEM, FRAMED or an EMBELLISHMENT
-1. Knitted
-1. Crocheted
-1. Bobbin Lace
-1. Tatting
-
 ####  CERAMICS
 1. Hand Built
 1. Wheel Thrown
 
 ####  PAPER CRAFTS
 1. Quilling
-1. Note Cards
-1. Origami
+2. Paper Mache
+3. Note Cards
+4. Origami
+
+#### RECYCLED CRAFTS - MUST BE 75% RECYCLED MATERIALS
+1. Metal
+2. Wood
+3. Plastic
+4. Paper
+5. Fabric
+6. Other or combination of materials
 
 #### OPEN & UNCLASSIFIED
 1. Natural materials crafts
 1. Wreaths (except Christmas)
 1. Polymer clay
-1. Recycled crafts, scrapworks (must be 75% recycled materials).
-1. Technique NOT LISTED elsewhere — surprise us!
-1. Leatherwork
-1. Professional Handicraft Display - not judged and may include promotional materials.
-1. Macreme
+2. Leatherwork
+3. Macrame
+4. Technique NOT LISTED elsewhere — surprise us!
+6. Professional Handicraft Display - not judged and may include promotional materials.
 
 ### SPONSORED AWARDS
 
@@ -302,8 +304,8 @@ certi?cate for the most outstanding quilt by youth.
 entry in Embroidery & Needlepoint.
 1. Rae Dwight Award~$25.00 for an Outstanding entry in
 Embroidery 8: Needlepoint by a youth 18 or under.
-1. Rose Ann Farese Memorial award-$75 for innovative
-modem stitching.
+1. Rose Ann Farese Memorial award-$100 for innovative
+modern stitching.
 
 #### BEADWORK:
 1. Bethany Barry Award ~ $75.00 Outstandingly Creative
@@ -313,13 +315,9 @@ bead embellishment of a handicraft.
 1. The Oxford Rug Hooking School Award ~ $50.00 - Most
 Outstanding entry in Hooking and Braiding.
 
-#### DOLLS & MINIATURES:
-1. Bethany Barry award- $75 for the most creative
-handmade doll.
-
 #### WOODWORK:
-1. Brown Novelty Company ~ Three $50.00 - for Outstanding
-entries in Woodworking & Woodcarving — Category XIV
+1. Jack Brown Award ~ Three $50.00 prizes- for Outstanding
+entries in Woodworking & Woodcarving
 (Three individuals, preferably one exhibited by a youth).
 
 #### OVERALL HANDICRAFTS:
@@ -332,8 +330,10 @@ years & under).
 1. A Grand Prize of $100.00 will be awarded to THE MOST
 OUTSTANDING ENTRY in the Handicrafts Department.
 
-#### OPEN AND UNCLASSIFIED:
-1 . Bethany Barry Award $75 forthe most creative shopping bag
+#### RECYCLED CRAFTS:
+1. Bethany Barry Award $100.00 for the most creative 
+reuse of face masks.
+3. Bethany Barry Award $75.00 forthe most creative shopping bag
 made out of recycled materials.
 
 
