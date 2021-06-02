@@ -8,8 +8,8 @@ Description: Exibit information and entry rules
 
 
 ## Tractor Pulling
-1. Tuesday, 1:00 pm.
-1. Friday, 12:00 pm.
+1. Thursday, 1:00 pm.
+1. Friday, 5:30 pm.
 1. Saturday,  11:00 am.
 
 SPONSORED BY: VT Tractor Pullers Assoc. 
@@ -26,150 +26,193 @@ CONTACT
 1. Shawn Beeman, 802-324-3626
 
 
-### Tuesday (afternoon show) start pulling 1 :OO p.m. weigh in
-#### Youth (Ages 8 1. 14)
-950# Trophies only
-#### Adult Stock (Age 15+) 1. Multi Cylinder
+### Thursday (afternoon show) 
+Start pulling 1:00 p.m.
+#### Youth (ages 8-14)
+950#  Trophies only
+#### Adult Stock (Ages 15+) Single Cylinder
 1100# $30-$20-$15-$10-$5
-#### Adult Stock (Age 15+) 1. Single Cylinder
-1100# $30-$20-$15-$10-$5
-#### Adult Stock (Age 15+) 1. Multi Cylinder
+#### Adult Stock (Ages 15+) Multi Cylinder
+1100# $30-$20-$15-$10-$5 
+#### Adult Stock (Ages 15+) Single Cylinder
 1200# $30-$20-$15-$10-$5
-#### Adult Stock (Age 15+) 1. Single Cylinder
+#### Adult Stock (Ages 15+) Multi Cylinder
 1200# $30-$20-$15-$10-$5
-#### ANTIQUE
-1. 3000# $40-$30-$20-$20-$10
-1. 3500# $40-$30-$20-$20-$10
-1. 4000# $40-$30-$20-$20-$10
-1. 4500# $40-$30-$20-$20-$10
-1. 5000# $40-$30-$20-$20-$10
-1. 5500# $40-$30-$20-$20-$10
+#### Sport Stock
+1050#  $35-$30-$25-$20-$15
 
-### Tuesday (evening show) start pulling 6:30 p.m.
+#### Antique
+3000# $40-$30-$20-$20-$10
+
+3500# $40-$30-$20-$20-$10
+
+4000# $40-$30-$20-$20-$10
+
+4500# $40-$30-$20-$20-$10
+
+5000# $40-$30-$20-$20-$10
+
+5500# $40-$30-$20-$20-$10
+
+
+### Thursday (evening show) 
+Start pulling 6:00 p.m.
+
 #### ATV
-1. 1150# Stock 1. trophies only
-1. 1250# Stock 1. trophies only
-1. 1300# Stock 1. trophies only
+1150# Stock- trophies only
 
-##### Youth (Ages 8 1. 14)
-1050# Trophies only
+1250# Stock- trophies only
 
-##### Sport Stock
-1050# $35-$30-$25-$20-$15
+1300# Stock- trophies only
 
-##### Super Stock Open
-1100# $50-$45-$35-$25-$20
-
-##### Pro Diesel
-1100# $55-$50-$40-$30-$25
-
-##### Sport Stock
-1250# $35-$30-$25-$20-$15
-
-##### Super Stock Open
-1200# $50-$45-$35-$25-$20
-
-##### Pro Diesel
-1200# $55-$50-$40-$30-$25 
-
-#### ANTIQUE (3mph)
-1. 6000# $40-$30-$20-$20-$10
-1. 7000# $40-$30-$20-$20-$10
-1. 8000# $40-$30-$20-$20-$10
-1. 9000# $40-$30-$20-$20-$10
-1. 10,500# $40-$30-$20-$20-$10
-
-#### ENHANCED ANTIQUE (7mph)
-1. 6000# $40-$30-$20-$20-$10
-1. 7000# $40-$30-$20-$20-$10
-
-#### FARMSTOCK
-
-1. 8000# $50-$40-$30-$20-$10
-1. 9000# $50-$40-$30-$20-$10
-1. 11500# $50-$40-$30-$20-$10
-1. 13000# $50-$40-$30-$20-$10
-1. 15000# $50-$40-$30-$20-$10
-1. 16500# $50-$40-$30-$20-$10
-1. 11K Hot $105-$90-$70-$50-$35
+#### Youth (ages 8-14)
+1050#  Trophies only
+#### Super Stock Open
+1100#  $50-$45-$35-$25-$20
+#### Pro Diesel
+1100#  $55-$50-$40-$30-$25
+#### Sport Stock
+1150#  $35-$30-$25-$20-$15
+#### Super Stock Open
+1200#  $50-$45-$35-$25-$20
+#### Pro Diesel
+1200#  $55-$50-$40-$30-$25
+#### 4 Cylinder Mod  (2 hooks)
+(Purse TBD)
 
 
-#### 2.5 DIESEL WORK STOCK STREET LEGAL TRUCKS
-(2) hooks $40-$30-$20-$20-$10
 
-#### 2.6 DIESEL/ PRO-DIESEL TRUCKS
-(2) hooks $250-$200-$130-$90-$80
+#### Antique
+6000#  $40-$30-$20-$20-$10
 
-#### 2WD MINI TRUCK
-4200# $150-$125-$100-$75-$50
+7000#  $40-$30-$20-$20-$10
 
-### Friday (evening show) start time 6:00 p.m.
-#### WORK STOCK DIESEL STREET LEGAL TRUCKS
-(2) hooks $40-$30-$20-$20-$10
+8000#  $40-$30-$20-$20-$10
 
-#### VT V8 MINIS
-1. (1) hook Class A $300-$240-$156-$108-$96-$84-$72-$60-$48-$36
-1. (1) hook Class B $200-$160-$104-$72-$64-$56-$48-$40-$32-$24
+9000#  $40-$30-$20-$20-$10
 
-#### 2WD MINI TRUCK
-4400# $150-$125-$100-$75-$50
+10,500#  $40-$30-$20-$20-$10
 
-#### FARMSTOCK
-18000# $90, $80, $70, $60, $50
-20000# $90, $80, $70, $60, $50
-22,500# $90-$80-$70-$60-$50
-25,000# $90-$80-$70-$60-$50
-13K Hot $105-$90-$70-$50-$35
-15K Hot $105-$90-$70-$50-$35
-Open 4WD $90-$80-$70-$60-$50
+#### Enhanced Antique (7mph)
+6000#  $40-$30-$20-$20-$10
 
-##### NYPTA Sanctioned Super Farm at 7:00 p.m.
+7000#  $40-$30-$20-$20-$10
 
-### Saturday (day show) start pulling time of 11:00 a.m. weigh in
 
-#### STOCK STREET LEGAL TRUCKS
-(2) hooks Per truck limit
-1. 6000# $40-$30-$20-$20-$10
-1. 6500# $40-$30-$20-$20-$10
-1. 7000# $40-$30-$20-$20-$10
+### Friday (evening show) 
+Start time 5:30 p.m.
+#### Stock Street Legal Trucks (2 hooks per truck limit)
+6000#  $40-$30-$20-$20-$10
 
-#### MODIFIED STREET LEGAL TRUCKS
-(2) hooks Per truck limit
-1. 5800# $80-$70-$50-$40-$30
-1. 6200# $80-$70-$50-$40-$30
-1. 6500# $80-$70-$50-$40-$30
+6500#  $40-$30-$20-$20-$10
 
-#### SUPER STOCK 4 x 4 PICKUP TRUCKS
-(1) hook 5800# $300-$240-$156-$108-$96-$84-$72-$60-$48-$36
+7000#  $40-$30-$20-$20-$10
 
-#### ALTERED FARM
-1. 6500# $150-$120-$78-$54-$48
-1. 7500# $150-$120-$78-$54-$48
-1. 8500# $150-$120-$78-$54-$48
+#### Modified Street Legal Trucks (2 hooks per truck limit)
+5800#  $80-$70-$50-$40-$30
 
-#### STREET LEGAL SEMI TRACTOR TRAILERS
-1. (1) hook $130-$105-$80-$55-$30
-1. Pro Stock $200-$130-$90
+6200#  $80-$70-$50-$40-$30
 
-### Saturday (evening show) start pulling time 6:00 p.m. weigh in
+6800#  $80-$70-$50-$40-$30
 
-#### ALTERED FARM
-1. 9500# $288-$230-$150-$104-$92-$81-$69-$58-$46-$35
-1. 11,000# $288-$230-$150-$104-$92-$81-$69-$58-$46-$35
-1. 12,000# $288-$230-$150-$104-$92-$81-$69-$58-$46-$35
+#### Work Stock Diesel Street Legal Trucks (2 hooks) 
+$40-$30-$20-$20-$10
 
-#### SUPER STOCK 4 x 4 PICKUP TRUCKS
-(1) hook 6200# $300-$240-$156-$108-$96-$84-$72-$60-$48-$36
+#### 2.5 Diesel Work Stock Street Legal Trucks (2 hooks)  
+$40-$30-$20-$20-$10
+#### 2.6/3.0 Pro-Diesel Trucks (2 hooks)  
+$250-$200-$130-$90-$80
 
-#### VT V8 MINI MODIFIED
-1. (1) hook Class A $300-$240-$156-$108-$96-$84-$72-$60-$48-$36
-1. (1) hook Class B $200-$160-$104-$72-$64-$56-$48-$40-$32-$24
+#### 2WD Mini Truck
+4200#  $150-$125-$100-$75-$50
 
-#### STREET LEGAL SEMI TRACTOR TRAILERS
-1. (1) hook $130-$105-$80-$55-$30
-1. Pro Stock $200-$130-$90
+4400#  $150-$125-$100-$75-$50
 
-##### NYPTA Sanctioned Super Farm at 7:00 p.m.
+#### VT 8 Minis
+Class A (1 hook) $300-$240-$156-$108-$96-$84-$72-$60-$48-$36
+
+### NYTPA Sanctioned Super Farm and Limited Pro Tractors at 7:00 p.m.
+
+
+### Saturday (day show) start time at 11:00 a.m.
+#### Farmstock
+8000#  $50-$40-$30-$20-$10
+
+9000#  $50-$40-$30-$20-$10
+
+11,500#  $50-$40-$30-$20-$10
+
+13,000#  $50-$40-$30-$20-$10
+
+15,000#  $50-$40-$30-$20-$10
+
+16,500#  $50-$40-$30-$20-$10
+
+18,000#  $90-$80-$70-$60-$50
+
+20,000#  $90-$80-$70-$60-$50
+
+22,500#  $90-$80-$70-$60-$50
+
+25,000#  $90-$80-$70-$60-$50
+
+#### Open 4WD  
+$90-$80-$70-$60-$50
+
+#### Hot Farm
+9,500 Hot  (Purse TBD)
+
+11K Hot  $105-$90-$70-$50-$35
+
+#### Altered Farm
+6500#  $150-$120-$78-$54-$48
+
+7500#  $150-$120-$78-$54-$48
+
+8500#  $150-$120-$78-$54-$48
+
+#### Super Stock 4x4 Pickup Trucks (1 hook)
+6000#  $300-$240-$156-$108-$96-$84-$72-$60-$48-$36
+
+#### Street Legal Semi Tractor Trailers
+
+(1 hook)  $130-$105-$80-$55-$30
+
+Pro Stock  $200-$130-$90
+
+#### Single Engine Mod Tractors  (1 hook) 
+(Purse TBD)
+
+
+### Saturday (evening show) start time 6:00 p.m.
+#### Hot Farm
+15K Hot  $105-$90-$70-$50-$35
+
+13K Hot  $105-$90-$70-$50-$35
+
+#### Altered Farm
+9500#  $288-$230-$150-$104-$92-$81-$69-$58-$46-$35
+
+11,000#  $288-$230-$150-$104-$92-$81-$69-$58-$46-$35
+
+12,000#  $288-$230-$150-$104-$92-$81-$69-$58-$46-$35
+
+#### Super Stock 4x4 Pickup Trucks (1 hook)
+6200#  $300-$240-$156-$108-$96-$84-$72-$60-$48-$36
+
+#### VT 8 Minis
+Class A (1 hook) $300-$240-$156-$108-$96-$84-$72-$60-$48-$36
+
+#### Street Legal Semi Tractor Trailers
+(1 hook)  $130-$105-$80-$55-$30
+
+#### Pro Stock  
+$200-$130-$90
+
+#### Single Engine Mod Tractors  (1 hook) (Purse TBD)
+
+#### NYTPA Sanctioned Super Farm and Limited Pro Tractors at 7:00 p.m.
+
 
 
 ## VTPA GENERAL RULES
