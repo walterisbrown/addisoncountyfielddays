@@ -44,13 +44,15 @@ will be reduced by one half. Ribbons will be awarded in ALL classes.
 
 ## 4-H & OTHER YOUTH POULTRY SHOWMANSHIP
 SUPERINTENDENT:  Wayne Marcelle, 802-233-9534
+
 Saturday, August 14, 2021 10:00am  Children's Barnyard Area
+
 $1.00 per bird per class(limit of 1 bird per child for each class)
 
 ### Judging Criteria
--Exhibitors will be evaluated on their level of professionalism; bird care and cleanliness; and
+- Exhibitors will be evaluated on their level of professionalism; bird care and cleanliness; and
 general knowledge of poultry. The breeding/registration of the bird does not count. 
--The bird’s cleanliness, condition, freedom from parasites, health and vigor are important. 
--Participants must be prepared to answer basic questions regarding the breed, variety and care of their bird(s). 
--Showmanship will be scored based on each participant’s personal professional
+- The bird’s cleanliness, condition, freedom from parasites, health and vigor are important. 
+- Participants must be prepared to answer basic questions regarding the breed, variety and care of their bird(s). 
+- Showmanship will be scored based on each participant’s personal professional
 appearance, cleanliness of their exhibit, knowledge and ability to handle the bird(s).
