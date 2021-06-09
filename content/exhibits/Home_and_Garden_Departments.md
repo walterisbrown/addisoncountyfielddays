@@ -36,9 +36,9 @@ DIRECTOR: Megan Sutton, 545-2475
 
 ## GENERAL GUIDLINES
 
-1. All entries will be accepted on Monday, August 5, from 9:00 a.m. to 12:30 p.m. Entries
+1. All entries will be accepted on Monday, August 9, from 9:00 a.m. to 12:30 p.m. Entries
 in the Handicrafts, Foods, Garden Products, Art & Photography departments will also be
-accepted on Sunday, August 4th, from 1:00 p.m. to 4:00 p.m. Note that all items will
+accepted on Sunday, August 8th, from 1:00 p.m. to 4:00 p.m. Note that all items will
 be judged on Monday afternoon.
 1. Exhibitors of all ages are welcome and do not need to be residents of Addison County.
 With the exception of the Commercial contests in the Flower Show and Garden Products
@@ -54,12 +54,12 @@ department. The Awards Ceremony will be held Saturday at 5:00 p.m. in the Home a
 Garden Building. Winners will be notified and are encouraged to attend.
 1. Items are entered for display at your own risk. Our building is locked overnight and security
 is provided but not guaranteed.
-1. All entries are to remain in place until 9:00 p.m. Saturday, August 10th. Items may
+1. All entries are to remain in place until 9:00 p.m. Saturday, August 14th. Items may
 be picked up between 9:00 p.m. and 10:00 p.m. Saturday, or from 10:00 a.m. to 1:00 p.m.
-on Sunday, August 11th. Please bring your receipts when you pick up your items. Prizes not
+on Sunday, August 15th. Please bring your receipts when you pick up your items. Prizes not
 picked up at these times will be forfeited.
-1. Due to the change in our pass policy, Addison County Field Days is sponsoring
-premiums in the Home and Garden Departments for the top 3 scores in each class, not
+1. Addison County Field Days is sponsoring
+2. premiums in the Home and Garden Departments for the top 3 scores in each class, not
 including those who win another prize.
 
 ## DEPARTMENT: HG 1-HANDICRAFTS
@@ -290,7 +290,7 @@ outstanding garment sewn by a youth.
 QUILTING:
 1. The Quilters’Corner at Middlebury Sew’N’Vac- $25 and
 a $25 gift certi?cate, for the most outstanding quilt.
-1. The Quilters’Comer at Middlebury Sew’N’Vac— $25 and
+1. The Quilters’Corner at Middlebury Sew’N’Vac— $25 and
 a $25 gift certi?cate, for the most outstanding quilt
 quilted by a professional on a commercial machine.
 1. The Quilters’Corner at Middlebury Sew’N’Vac— $25 and
@@ -345,9 +345,9 @@ SUPERINTENDENT: TBA
 
 These Rules apply along with and in addition to the General Rules for the Home 8:
 Garden Department, and the General Rules of Addison County Fair & Field Days. Entries will be
-accepted at the HOME & GARDEN CENTER BUILDING on Monday, August 5th between
+accepted at the HOME & GARDEN CENTER BUILDING on Monday, August 9th between
 9:00 am. & 12:30 pm. Entries forthis department will, also, be accepted on Sunday,
-August 4th between 1-4 pm.
+August 8th between 1-4 pm.
 
 THIS ART EXHIBITION IS FOR AMATEURS. (A professional artist is one who creates
 with intent to sell; exhibits at a recognized gallery, or who derives their living
@@ -417,10 +417,10 @@ C. TraveI/Architecture
 
 ###  PHOTO CHALLENGE
 
-2020: Best Color Photo Children with their pets
+2021: Best Color Photo Children with their pets
 
 We invite amateur and professional artists and craftsmen to display work that does
-not ?t the categories and criteria outlined above. Items such as large art pieces,
+not fit the categories and criteria outlined above. Items such as large art pieces,
 sculpture, work that was not completed in the last year and not shown at the
 fair in a previous year, and items of folk art can be displayed, but not judged, as
 space allows.
@@ -453,7 +453,7 @@ of the superintendents for more detailed criteria.
 1. People’s Choice Award-Photography
     - All ages $25
 
-In addition, Woody Jackson, Judith Larson, Helen Freismuth, Phyllis Romine, and one
+In addition, Woody Jackson, Judith Larson, Helen Freismuth, and one
 anonymous donor have helped underwrite prizes.
 
 # FLOWER SHOW
@@ -465,10 +465,10 @@ SUPERINTENDENTS: Lynn Clohessy, 989-2752
 Please read carefully. These Rules apply along with and in addition to the General
 Rules for the Home & Garden Department and the General Rules of Addison County Fair & Field
 Days. Entries will be accepted at the HOME 8: GARDEN CENTER BUILDING on Monday, August
-5th between 9:00 am. & 12:30 pm.
+9th between 9:00 am. & 12:30 pm.
 
 1. Exhibitors must bring their own containers.
-2. All ?oral arrangements will bejudged on horticultural perfection as well as artistic
+2. All floral arrangements will bejudged on horticultural perfection as well as artistic
 arrangement.
 3. Due to limited space, no Floral arrangement will be accepted that exceeds
 12”xi8”
@@ -585,7 +585,7 @@ Please read carefully.
 
 These Rules apply along with and in addition to the General Rules for the Home & Garden Department, and the General Rules of Addison County Fair 8: Field Days.
 
-Entries will be accepted at the HOME & GARDEN CENTER BUILDING on Monday, August 5th between 9:00 am. & 12:30 pm. Entries will also be accepted on Sunday, August 4th between 1 & 4pm. 
+Entries will be accepted at the HOME & GARDEN CENTER BUILDING on Monday, August 9th between 9:00 am. & 12:30 pm. Entries will also be accepted on Sunday, August 8th between 1 & 4pm. 
 
 Judging takes place Monday afternoon. Items entered on Sunday will not be as fresh as those entered on Monday.
 
@@ -689,7 +689,7 @@ and in addition to the General Rules for the Home & Garden
 Department, and the General Rules of Addison County Fair
 & Field Days.
 
-1. A Commercial Gardener is de?ned as any
+1. A Commercial Gardener is defined as any
 person or persons growing produce for pro?t.
 2. Exhibitors will be allotted an empty 4ft. by 3ft. area
 each, to create a display of their produce using their
@@ -911,6 +911,7 @@ Field Days director or superintendent involved in Foods & Handicrafts Department
         <li>2016 Geralyn McBride</li>
         <li>2017 Mary Howard</li>
         <li>2018 Nancy Pecca</li>
+        <li>2019 Debbie Whitman</li>
     </ul>
 </details>
 
@@ -930,13 +931,14 @@ name on a displayed plaque.
     View Past Winners <small>(click here)</small>
     </summary>
     <ul>
-        <li>2012 RoseCurran </li>
+        <li>2012 Rose Curran </li>
         <li>2013 Emily Moore</li>
         <li>2014 Meredith Foster</li> 
         <li>2015 Jennie Foster</li>
         <li>2016 Cailean Sorce</li>
-        <li>2017 Grace ToIles</li>
+        <li>2017 Grace Tolles</li>
         <li>2018 Hanna Moore</li>
+        <li>2019 Grace Tolles</li>
     <ul>
 <details>
 
