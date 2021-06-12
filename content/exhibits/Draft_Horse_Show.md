@@ -22,16 +22,17 @@ Ringmaster:
 
 SECRETARY: Kathy Kennett,  Phone 759-2015, Cell 349-5671
 
-<!-- 
+
 We are very excited to be in our eighteenth year as a North American Classic Six qualifying show.
--->
+
 
 All draft horses and draft ponies are welcome. We will have Haflinger Classes again this
 year. 
 
-Classes will proceed in numerical order beginning at 9:30 a.m. on Friday and 9:30
-a.m. on Saturday. 
+Classes will proceed in numerical order beginning at 9:30 a.m. on Friday and 9:30a.m. on Saturday.
+
 Six ribbons will be awarded in each class. 
+
 Stalls will be available after 7 p.m. Thursday. 
 
 Stalls are limited (156) so we cannot offer tack stalls. Stalls will be reserved based on date entries received by the Secretary. A $25.00 per stall deposit is required. $15.00 will be refunded per stall when cleaned and checked. Please call if unable to attend as we do have a limited number of stalls. If stalls fill we will keep a waiting list. Sawdust may or may not be available (depending if it is all gone). Shavings will be available to purchase ahead of time at $5.00 per bag.
