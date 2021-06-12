@@ -10,7 +10,7 @@ Description: Exibit information and entry rules for the Draft Horse Show
 
 Friday, 9:30 am. — Saturday, 9:30 am.
 
-JUDGE: Rocky Lyons
+JUDGE: TBA
 
 SUPERINTENDENT: Kathy Nisun, 349-8971
 
@@ -22,27 +22,28 @@ Ringmaster:
 
 SECRETARY: Kathy Kennett,  Phone 759-2015, Cell 349-5671
 
-<!-- 
-We are very excited to be in our seventeenth year as a North American Classic Six qualifying show.
--->
+
+We are very excited to be in our eighteenth year as a North American Classic Six qualifying show.
+
 
 All draft horses and draft ponies are welcome. We will have Haflinger Classes again this
 year. 
 
-Classes will proceed in numerical order beginning at 9:30 a.m. on Friday and 9:30
-a.m. on Saturday. 
+Classes will proceed in numerical order beginning at 9:30 a.m. on Friday and 9:30a.m. on Saturday.
+
 Six ribbons will be awarded in each class. 
+
 Stalls will be available after 7 p.m. Thursday. 
 
 Stalls are limited (156) so we cannot offer tack stalls. Stalls will be reserved based on date entries received by the Secretary. A $25.00 per stall deposit is required. $15.00 will be refunded per stall when cleaned and checked. Please call if unable to attend as we do have a limited number of stalls. If stalls fill we will keep a waiting list. Sawdust may or may not be available (depending if it is all gone). Shavings will be available to purchase ahead of time at $5.00 per bag.
 
 Entry Fees are $5.00 per class except as noted. Post entries are double entry fees. No refunds
-without a vet certificate. Pre-entries due by August 1.
+without a vet certificate. Pre-entries due by August 1, 2021.
 
 Send entries to: Kathy Kennett, 1716 VT Route 22A, Panton, VT 05491
 Email: kkennett@together.net Phone: 759-2015. During Fair Cell Phone: 349-5671
 
-1. All exhibitors will be requried to show proof of rabies vaccination dated between August 1st of last year to July 1st. Current Negative Coggins will also be required for all horses.
+1. All exhibitors will be requried to show proof of rabies vaccination dated between August 13, 2020 and July 1, 2021. Current Negative Coggins will also be required for all horses.
 1. Out of state must have health papers
 1. Passes will be mailed to exhibitors whose entries have arrived early enough that there 
 is sufficient time for return mail. Exhibitors will receive 1 person pass per horse per day
@@ -68,6 +69,7 @@ conformation and way of going will be considered.
 7. Classes 3-11 and 33-45 are for show animals.
 8. Haflingers & Pony Drafts may enter the youth classes as well as their own titled classes
 and classes 31 and 32.
+9. Junior Exhibitor Age as of January 1.
 
 ## Schedule 
 
@@ -113,6 +115,8 @@ and classes 31 and 32.
 
     (No fee)
     
+    All breeds combined.
+    
     The highest placing Belgian will receive the Bernard Moeykins Award sponsored by Bob and Nancy Lennox.    (1st & 2nd place winners from classes, 3, 4, & 5 are eligible.) All breeds combined.
     
 1. ### Lactating Mare
@@ -122,28 +126,32 @@ and classes 31 and 32.
     
     Prizes: $50, $40, $25, $20, $10, $5
 
-1. ### Dry Mares,
+1. ### Dry Mares, 3 and over
     Entry Fee: $5.00
     
-    3 and over. All breeds combined.
+    All breeds combined.
     
     Prizes: $50, $40, $25, $20, $10, $5
 
-1. ### Mares, 
+1. ### Mares, Haflinger and Pony Drafts
     Entry Fee: $5.00
     
-    Haflinger and Pony Drafts. All ages
+    All ages
     
     Prizes: $50, $40, $25, $20, $10, $5
 
-1. ### Senior Champion Mare. All breeds combined.
+1. ### Senior Champion Mare. 
     
     No entry fee
+    
+    All breeds combined.
     
     1st & 2nd place winners from classes 7- 8 are eligible.
     
-1. ### Grand Champion Mare. All breeds combined.
+1. ### Grand Champion Mare. 
     No entry fee
+    
+    All breeds combined.
     
     1st & 2nd place winners from classes 6, 9, & 10 are eligible
     
@@ -158,7 +166,7 @@ and classes 31 and 32.
     
     Prizes: $130, $80, $55, $45, $35, $30
 
-1. ### 4 Abreast Haflinger and Pony Drafts 
+1. ### 4 Abreast, Haflinger and Pony Drafts 
     Entry Fee: $20.00
     
     Prizes: $130, $80, $55, $45, $35, $30
@@ -172,7 +180,7 @@ and classes 31 and 32.
 
     Prizes: $50, $40, $25, $20, $10, $5
 
-1. ### Ladies’ Cart Haflinger and Pony Drafts (HHPCS)
+1. ### Ladies’ Cart, Haflinger and Pony Drafts (HHPCS)
     
     Entry Fee: $5.00
     
@@ -198,13 +206,15 @@ and classes 31 and 32.
     
     Prizes: $50, $40, $25, $20, $10, $5 
 
-1. ### Classic Cart Series Class. 
+1. ### Classic Cart Series Class 
     Entry Fee: $ 40.00
     
     Prizes: $400, $275, $150, $100, $50, $25
     
-1. ### Men’s Cart, show division. All breeds combined. 
+1. ### Men’s Cart, show division  
     Entry Fee: $5.00
+    
+    All breeds combined. The highest placing Belgian to receive the Russell C. Carpenter Memorial Award
     
     Prizes: $50, $40, $25, $20, $10, $5
     
@@ -220,7 +230,7 @@ and classes 31 and 32.
     
     Prizes: $130, $80, $55, $45, $35, $30 
 
-1. ###  Tandem Hitch Haflinger and Pony Drafts. 
+1. ###  Tandem Hitch, Haflinger and Pony Drafts. 
     
     Entry Fee: $20.00
     
@@ -233,7 +243,7 @@ and classes 31 and 32.
     
     Prizes: $130, $80, $55, $45, $35, $30
 
-1. ### Unicorn Hitch Haflinger and Pony Drafts. 
+1. ### Unicorn Hitch, Haflinger and Pony Drafts. 
     
     Prizes: $130, $80, $55, $45, $35, $30 
     
@@ -315,7 +325,7 @@ and classes 31 and 32.
     Entry Fee: $5.00
     
      Prizes: $50, $40, $25, $20, $10, $5
-    1. ### Grand Champion Gelding
+1. ### Grand Champion Gelding
     No entry fee. 
 
     1st & 2nd place winners of other Gelding classes are eligible
@@ -346,8 +356,10 @@ and classes 31 and 32.
 
     Prizes: $50, $40, $25, $20, $10, $5 
 
-1. ### Stallions, Halflinger and Pony Drafts All ages. 
+1. ### Stallions, Halflinger and Pony Drafts  
     Entry Fee: $5.00
+    
+    All ages.
 
     Prizes: $50, $40, $25, $20, $10, $5
 
@@ -499,6 +511,8 @@ This award is given by the family of Bernard Moeykens from Tari-Wey Stables in S
 VT. This award is given in recognition of Bernard, a life long Vermont Horseman, who
 had devoted many years to breeding and raising quality Belgian Draft Horses. He
 especially appreciated a high caliber filly.
+1. ### THE RUSSELL C. CARPENTER MEMORIAL AWARD
+This award is given to the winner or highest placing Belgian in the Men's Cart Show Division. Russell was a businessman, friend to all, selfless public servant, family man and draft horse enthusiast with his family as Donnell Belgians.
 1. ### OUTSTANDING BELGIAN/PERCHERON/CLYDE/SHIRE & FARM YOUTH
 Awarded to the high point youth in each age group.
 
