@@ -9,10 +9,10 @@ Description: Exibit information and entry rules
 
 1. Entry fee - $2.00 per class. 
 
-1. Mail entries to: Janelle Ashley, 33 North Main Street, Whiting,
+1. Mail entry fees to: Janelle Ashley, 33 North Main Street, Whiting,
 VT 05778, Tel. 989-9528. 
 
-1. Entries must be returned by Friday, July 30, 2019.
+1. Entries must be completed by Friday, July 30, 2019. Enter each class online at https://sites.google.com/view/acffdgoatshow/home
 
 1. Exhibitors must provide their own feed and bedding. 
 Sawdust & straw is provided.
@@ -21,7 +21,7 @@ entries between noon and 9:00 p.m. on Monday before the fair. After check in, on
 scratches can be made. Animals must remain in the grounds until 9:00 p.m. on Saturday. All animals must be removed by 10:00 a.m. Sunday after the fair.
 Exhibitors are responsible for taking down and stacking their own pens and cleaning their
 area.
-1. Barn Meeting for all exhibitors Tuesday, August 6th at 6:00 p.m. in the Show Tent.
+1. Barn Meeting for all exhibitors Tuesday, August 10th at 6:00 p.m. in the Show Tent.
 
 ### HEALTH REGULATIONS: 
 1. All goats must have health certificates and MUST be free of visual
