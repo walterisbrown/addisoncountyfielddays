@@ -25,7 +25,7 @@ damage to oxen, drivers, or any equipment or articles sent to the show.
 6. Prizes: 1st-$160, 2nd-$120, 3rd-$100, 4th-$80, 5th-$70, 6th-$60.
 
 ### Classes
-1. 2100 lbs and under
+1. 2000 lbs and under
 2. 2,400 pounds
 3. 2,800 pounds
 4. 3,200 pounds
