@@ -386,7 +386,7 @@ complete prior to arriving with your entry.
 A. Oil
 B. Acrylic
 C. Waterco|or
-D. Prints -Wood/Lino|eum Block, Monoprints, Etching
+D. Prints -Wood/Linoleum Block, Monoprints, Etching
 E. Charcoal
 F. Pen and Ink Including gel pens
 G. Pastel
@@ -430,30 +430,30 @@ presentation, composition, technique and expression/creativity. You may call one
 of the superintendents for more detailed criteria.
 
 ### SPONSORED AWARDS
-1. Best Entry in Art - All ages $25 gift certi?cate Main Street Stationary
+1. Best Entry in Art - All ages $25 gift certificate Main Street Stationary
 1. Best Color Rendering
-    - Adult $25 Gift Certi?cate Middlebury Frame Shop
+    - Adult $25 Gift Certificate Middlebury Frame Shop
     - Youth 4-12 years Art Supplies
     - Youth 13—18 years Art Supplies
 1. Best Black and White Rendering
-    - Adult $25 Gift Certi?cate Otter Creek Framing
+    - Adult $25 Gift Certificate Otter Creek Framing
     - Youth 4-12 years Art Supplies
     - Youth 13-18 years Art Suppliesy
 1. Best Entry in Folk Art
-    - Adult $25 Gift Certi?cate Vermont Folklife Center
+    - Adult $25 Gift Certificate Vermont Folklife Center
     - Youth 4-18 Laurel Lynn”Tigger”Folk Art Award
 1. Best Photograph
     - Adult $50 Nancy Snow Kurrelmeyer Photography Award
     - Youth 4-12 $25 Abi Sessions Photography Award
     - Youth 13-18 $25 Anonymous Donor
 1. Photo Challenge
-    - $25 gift certi?cate Kinney Drugs ALL AGES
+    - $25 gift certificate Kinney Drugs ALL AGES
 1. People’s Choice Award-Art
     - $25 ALL AGES
 1. People’s Choice Award-Photography
     - All ages $25
 
-In addition, Woody Jackson, Judith Larson, Helen Freismuth, and one
+In addition, Woody Jackson, Helen Freismuth, and one
 anonymous donor have helped underwrite prizes.
 
 # FLOWER SHOW
@@ -666,16 +666,16 @@ Special Rosettes will be awarded to the Premier Home Gardener and Outstanding Yo
 1. Open and unclassi?ed
 
 #### MISCELLANEOUS
-1. Basketarrangement
+1. Basket arrangement
 1. BiGGEST fruit or vegetable
-1. Herbs — any 3 varieties, in 3”p0ts or freshly cut
+1. Herbs — any 3 varieties, in 3” pots or freshly cut
 in transparent bags
 1. Decorated vegetable
-1. Scarecrow — under4”tall, must be freestanding or ready to hang
+1. Scarecrow — under 4' tall, must be freestanding or ready to hang
 
 #### SPONSORED AWARDS:
 1.  Middlebury AGWAY, Farm & Garden Center
-Award: $30.00 gift certi?cate for the Premier Home
+Award: $30.00 gift certificate for the Premier Home
 Gardener.
 1.  Peg Allen Award: $30 for Most Outstanding Youth
 Exhibitor( 18 years and under ).
@@ -706,10 +706,8 @@ Reminder: Entries must be completely removed between
 9—9:30 pm. on Saturday or 10—12 pm. on Sunday.
 
 # FOODS
-SUPERINTENDENTS: 
-    - Elizabeth Curran, 349-3825; 
-    - Rose Curran, 623-6324; Rick E?and 623-7911
-
+SUPERINTENDENTS: TBA
+    
 ## RULES
 **ALL these classes are for AMATEURS. No Professionals.**
 
@@ -722,23 +720,15 @@ Sunday will not be as fresh as those received on Monday when they are to bejudge
 superintendents are hoping by opening up this time slot on Sundays that more families will be
 able to compete for the FOODS department prizes.
 
-## FREE RAFFLE 
-For each food item entered in the FOOD department, an entry
-will be entered into a drawing for 1 of 3 prizes.
-An individual can only win one of the three prizes, this prize does not add points to your score
-for any other prizes or awards in the Home and Garden Building. These prizes will be drawn
-on Monday during thejudging times and can be picked up with awards on Saturday.
-In an attempt to decrease food waste in the Foods Department the superintendents in FOODS
-will be only displaying a single serving of your entry for the week. 
 
-You are welcome to pick up the remainder of your entry after the judges ?nish theirjudging. Pick up time is Monday between 5 pm. & 7 pm. Remaining entries will be offered as samples on Tuesday.
+You are welcome to pick up the remainder of your entry after the judges finish theirjudging. Pick up time is Monday between 5 pm. & 7 pm. Remaining entries will be offered as samples on Tuesday.
 1. All foods must be”MADE FROM SCRATCH". No boxed mixes of any kind including cake mixes,
 pie crusts, etc. will be accepted in any category.
-2. "‘""'NEW** EXCEPTION: All must be made from scratch EXCEPT for the DECORATED CAKE and
-CUPCAKE category D entries. These will NOT BETASTED butjustjudged on appearance.
+2. EXCEPTION: All must be made from scratch EXCEPT for the DECORATED CAKE and
+CUPCAKE category D entries. These will NOT BE TASTED - only judged on appearance.
 3. EVERY entry must include a LEGIBLE recipe, written or printed on PLAIN paper or PLAIN
 cardstock, these will become the property of the FOODS Department. Pies must include
-recipes for both crust and ?lling. Cakes must include recipe for both cake and frosting.
+recipes for both crust and filling. Cakes must include recipe for both cake and frosting.
 4. Your entry will be transferred to plates provided by the fair, please use disposable plates or
 pans if you are not planning on picking up your dishes on Monday evening as we don’t have
 room to store them.
@@ -764,7 +754,7 @@ check-in staff, if the RULES have not been followed (ie. using a pre—packaged 
 1. Loaf
 1. Fruited Loaf (other than apple)
 1. Specialty / Unusual Loaf
-1. Muf?ns (4)
+1. Muffins (4)
 1. Biscuits (4)
 1. Scones (4)
 1. Donuts (4)
@@ -793,7 +783,6 @@ check-in staff, if the RULES have not been followed (ie. using a pre—packaged 
 1. Rolled (4)
 1. Filled (4)
 1. NO BAKES (4)
-1. Cookie Challenge (6) (SEE RECIPE AND RULES FOLLOWING)
 1. Misc. Cookies (4)
 ###  DESSERT PIES orTARTS
 1. Pie (other than apple)
@@ -822,7 +811,6 @@ Special rules: Entrants will show proof of using King Arthur Flour by either bri
 1. Caramels (6)
 1. Misc. Candies (6)
 ### CANNING (2 jars each)
-There are no longer any BALL canning awards offered from the company.
 Special rules: 
     - Exhibitors name MUST NOT be attached to entry. 
     - Must have been produced within the last 12 months and in clean jars. 
@@ -833,7 +821,10 @@ Special rules:
 1. SoftSpreads (Jelly/Jam) (2)
 1. Pickles (2)
 1. Misc. Canning (2)
-1. Syrup (2) "‘“"'NEW"‘""‘
+
+### SPONSORED AWARDS:
+To be announced
+
 
 
 # ANNUAL LEONA THOMPSON BOWL AWARD
