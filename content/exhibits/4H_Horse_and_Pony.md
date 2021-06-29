@@ -10,7 +10,7 @@ Description: Exibit information and entry rules
 
 ## RULES & REGULATIONS
 
-1. Age: 18 and under as of January 1, 2019.
+1. Age: 18 and under as of January 1, 2021.
 2. ENTRY FEE: $2.00 per class. $2.00 per number ($1.00 refunded at end of show).
 Number goes to each rider. If you scratch a class and enter a new one, you must pay
 another $2.00. No refunds, no exceptions. All classes must be paid for before receiving
@@ -22,8 +22,7 @@ combine/divide/add to or cancel any class or classes. Exhibitors will be notifie
 exhibitors receive a ribbon. Blue (excellent), red (good), or white (fair) ribbon. Those
 receiving blue will be placed 1st, 2nd, 3rd, 4th, etc.
 5. Trail classes and western riding will be posted at the secretary’s booth as soon as
-possible before the classes. VOUCHERS FOR PREMIUMS WILL BE GIVEN OUT AT THE END
-OF THE DAY.
+possible before the classes. 
 6. Beginners & Advanced Beginners can show on Monday, and/or Tuesday only. No animal
 can be classified as a pony on one day and as a horse on the next. Decisions are made by
 the exhibitors when the animal enters its first class that is divided horse & pony.
@@ -47,7 +46,7 @@ management.
 15. Large ponies small ponies show together. Ponies are 14.2 hands and under. Questionable
 ponies will be measured.
 16. Exhibitors must be neatly dressed while showing. Appropriate boots and ASTM/SEI
-approved helmets are a must.
+approved helmets are a must for exhibitors 18 years and under showing in 4-H or open classes.
 17. Addison County Fair & Field Days, Inc. and management assumes no responsibility for
 any injury to horse, pony or damage to any vehicle or equipment or injury to any rider.
 18. Please have your new 4-H papers available when you pick up your numbers and show
@@ -74,28 +73,28 @@ Show management. Active 4-H members & leaders will be admitted to the grounds
 free every day upon presentation of 4-H passes (Parents may purchase one season
 pass per child for $15.00. Two children showing (and staying) entitles parents to 2
 passes. Parents, please do not request passes for your child who is 16 and over & drives;
-passes are intended to get young children in & out of Field Days). PLEASE NOTE: All
+passes are intended to get young children in & out of Field Days). **PLEASE NOTE: All
 4-H passes (Leaders, Members, Parents) must be picked up through the
 extension office or through your Leader! Your car passes will only be given
-out by show management.
+out by show management.**
 
 25. PREMIUMS: $9.00=Blue, $7.00=Red and $4.00=White, for the following Classes.
-Premiums in the 5 core classes as part of the Championship.
+Premiums in the 5 core classes as part of the Championship. Vouchers for premiums are given out at the end of the day.
 26. Stalls will be requested and occupied by Addison 4-H members and youth, they are
 given priority on stalls. A $5.00 stall fee (not refunded) must be paid in advance and
 be accompanied by a filled in entry blank. Do not call for stalls. The stalls must be left
 clean and checked by Show management before you leave. ***All 4-Her’s need to
 vacate the stalls on Wednesday night. Anyone staying in the stalls after Wednesday will
-need to pay a new stall fee of $15.00 ($5.00 refunded after stall has been checked by
+need ****to pay a new stall fee of $15.00 ($5.00 refunded after stall has been checked by
 management for cleaning).****Only one horse per stall except for nursing foals.
-27. An adult chaperone (defined as a parent/guardian or 4-H leader, or
+27.**** An adult chaperone (defined as a parent/guardian or 4-H leader, or
 designated person over 18) must be on the grounds and in the horse area at
 all times, in charge of both horses/ponies & youth. This applies to all youth
-exhibitors, both 4-H and open.
-28. WASH horses at the wash rack only. Do not attach hoses to barn faucets.
+exhibitors, both 4-H and open.****
+28. **WASH horses at the wash rack only.** Do not attach hoses to barn faucets.
 29. Electricity may be used for clippers only. Absolutely no electric extension cords permitted.
-30. ALL Addison County 4-H Horse club members are expected to work on the shows
-Monday, Tuesday or Wednesday.
+30. **ALL** Addison County 4-H Horse club members are expected to work on the shows
+Monday, Tuesday or Wednesday.****PLEASE PLAN ON IT***
 
 
 31. No alcoholic beverages or drugs are allowed. Those in possession of either will be required
@@ -104,9 +103,9 @@ to leave, and all prizes won will be forfeited. Parents/guardians will be held r
 COME FIRST SERVED BASIS. You need to fill out a camper form and send it in with your
 entry blank, a site will be assigned to you, if none are available you will be notified by
 management. $35/night $150 a week.
-33. Do not arrive before 3:00 p.m. on Sunday with your horse/pony and/or camper.
+33.**** Do not arrive before 3:00 p.m. on Sunday with your horse/pony and/or camper.****
 34. Make all checks payable to Addison County Fair & Field Days.
-35. Entries close with the postmark of July 30, 2019.
+35. Entries close with the postmark of July 30, 2021.
 36. No hay allowed in front of stalls during Field Days.
 37. NO ONE SHALL APPROACH A JUDGE WITH REGARD TO A DECISION UNLESS
 HE FIRST OBTAINS PERMISSION FROM THE SHOW COMMITTEE, WHO SHALL
@@ -118,57 +117,50 @@ CLASSES
 
 
 1. 4-H Beginner Fitting, Grooming & Showmanship Pony
-1. Open Beginner Fitting, Grooming & Showmanship Pony
-1. 4-H Beginner Fitting, Grooming & Showmanship Horse
-1. Open Beginner Fitting, Grooming & Showmanship Horse
-1. Lead Line Fitting, Grooming & Showmanship (ages 5-8 years, assisted by someone 14 or over)
-1. Championship Fitting, Grooming, & Showmanship BEGINNERS (1st & 2nd place winners from classes 1, 2, 3, & 4)
-1. 4-H Advanced Beginner Fitting, Grooming & Showmanship Pony
-1. Open Advanced Beginner Fitting, Grooming & Showmanship Pony
-1. 4-H Advanced Beginner Fitting, Grooming & Showmanship Horse
-1. Open Advanced Beginner Fitting, Grooming & Showmanship Horse
-1. Adult Walk/Trot Fitting 18 yrs and older (Must not be showing in a cantering class at
-anytime during field days)
-1. Championship Fitting, Grooming, & Showmanship ADVANCED BEGINNERS (1st & 2nd place winners from classes 6, 7, 8, & 9)
-1. Leadline, (English and Western), ages 5-8 years, assisted by someone 14 yrs or older.
-1. Beginner Pony Equitation
-1. Advanced Beginner Pony Equitation
-1. Beginner Horse Equitation
-1. Advanced Beginner Horse Equitation
-1. Adult Walk/Trot Equitation
-1. Beginner Pony Pleasure
-1. Advanced Beginner Pony Pleasure
-1. Beginner Horse Pleasure
-1. Advanced Beginner Horse Pleasure
-1. Adult Walk/Trot Pleasure
-1. Costume Class
-1. 4-H Beginner Project Up Pony
-1. 4-H Advanced Beginner Project Up Pony
-1. 4-H Beginner Project Up Horse
-1. 4-H Advanced Beginner Project Up Horse
-1. Open Beginner Project Up Pony
-
-1. Open Advanced Beginner Project Up Pony
-1. Open Beginner Project Up Horse
-1. Open Advanced Beginner Project Up Horse
-1. Adult Walk/Trot Project Up
-1. Therapeutic Riding – (To be done after lunch, usually around 12:30/1:00P.M.)
-1. Beginner Pony Trail
-1. Advanced Beginner Pony Trail
-1. Beginner Horse Trail
-1. Advance Beginner Horse Trail
-1. Leadline Trail
-1. Therapeutic Riding Trail
-1. Adult Walk/Trot Trail
+2. Open Beginner Fitting, Grooming & Showmanship Pony
+3. Lead Line Fitting, Grooming & Showmanship (ages 5-8 years, assisted by someone 14 or over)
+         Championship Fitting, Grooming, & Showmanship BEGINNERS (1st & 2nd place winners from classes 1, 2, 3, & 4)
+4. 4-H Advanced Beginner Fitting, Grooming & Showmanship Pony
+5. Open Advanced Beginner Fitting, Grooming & Showmanship Pony
+6. Adult Walk/Trot Fitting 18 yrs and older (Must not be showing in a cantering class at anytime during field days)
+         Championship Fitting, Grooming, & Showmanship ADVANCED BEGINNERS (1st & 2nd place winners from classes 6, 7, 8, & 9)
+7. Leadline, (English and Western), ages 5-8 years, assisted by someone 14 yrs or older.
+8. Beginner Equitation
+9. Advanced Beginner Equitation
+10. Adult Walk/Trot Equitation
+11. Beginner Pleasure
+12. Advanced Beginner Pleasure
+13. Adult Walk/Trot Pleasure
+14. 4-H Beginner Project Up 
+15. 4-H Advanced Beginner Project Up 
+16. Open Beginner Project Up 
+17. Open Advanced Beginner Project Up Pony
+18. Adult Walk/Trot Project Up
+19. Therapeutic Riding – (To be done after lunch, usually around 12:30/1:00P.M.)
+20. Costume Class to be done after lunch
+21. Sack Race
+22. Simon Says
+23. Boot Race
+24. Red Light/Green Light
+25. 3 Legged Race
+26.Judge's Choice
+27. Beginner Trail
+28. Advance Beginner Trail
+29. Leadline Trail
+30. Therapeutic Riding Trail
+31. Adult Walk/Trot Trail
 
 **Benefit Class to be done directly after lunch, $5 donation, pay at the gate, or more if rider
 would like, to help a local charity or rider. Open to beginners and up. This will be a fun class ie:
 command class, Simon Says, etc. To be announced at the show.**
 
-- Level 1: The rider requires impairment that would interfere with riding independently in a group.
+**Theraputic Riding**
+
+ The rider requires impairment that would interfere with riding independently in a group.
 The side walkers can have physical contact with the rider for safety purposes only. The assistants
 can give verbal and physical cues to the rider to help them understand the task and safety.
-- Level 2: The rider requires one person assisting, due to a physical or cognitive impairment that
+OR
+The rider requires one person assisting, due to a physical or cognitive impairment that
 would interfere with riding independently in a group. The assistant can provide physical and
 verbal cues to rider to help them understand task and for the safety to help them understand
 the task and for safety.
@@ -177,8 +169,7 @@ All trail classes to be held in the designated area. Exhibitors are responsible 
 through the trail class in the time span allowed. Times to be announced.
 
 CHAMPIONSHIPS: All divisions. Classes to count are Fitting, Project Up, Equitation, Pleasure &
-Trail. We are also offering two day championships. You would have to show Monday in English and
-Tuesday in Western!
+Trail.
 
 
 ## WESTERN ONLY 4-H AND OPEN YOUTH HORSE SHOW CLASSES
@@ -200,44 +191,41 @@ Beginners and Advanced Beginners
 9. Open Junior Fitting, Grooming & Showmanship
 10. Open Senior Fitting, Grooming & Showmanship
 11. Adult Fitting, Grooming & Showmanship
-Championship Fitting, Grooming, & Showmanship
-
-1. Juniors and Seniors (1st & 2nd place winners of classes 7, 8, 9 & 10)
-1. Lead Line - English & Western (Ages 5-8 yrs old - assisted by someone 14 or older)
-1. Beginner Equitation
-1. Advanced Beginner Equitation
-1. Junior Equitation
-1. Senior Equation
-1. Adult Walk/Trot Equitations
-1. Adult Equitations
-1. Beginner Pleasure
-1. Advanced Beginner Pleasure
-1. Junior Pleasure
-1. Senior Pleasure
-1. Adult Walk/Trot Pleasure
-1. Adult Pleasure
-1. Costume Class
-1. Western Pattern (Jr/Sr/Adult)
-1. 4-H Beginner Project Up
-
-1. 4-H Advanced Beginner Project Up
-1. 4-H Junior Project Up
-1. 4-H Senior Project Up
-1. Open Beginner Project Up
-1. Open Advanced Beginner Project Up
-1. Open Junior Project Up
-1. Open Senior Project Up
-1. Adult Walk/Trot Project Up
-1. Adult Project Up
-1. Therapeutic Riding (To be done after lunch, usually around 12:30/1:00 p.m.)
-1. Beginner Trail
-1. Advanced Beginner Trail
-1. Junior Trail
-1. Senior Trail
-1. Lead Line Trail
-1. Therapeutic Riding Trail
-1. Adult Walk/Trot Trail
-1. Adult Trail
+Championship Fitting, Grooming, & Showmanship (1st & 2nd place winners of classes 7, 8, 9 & 10)
+12. Lead Line - English & Western (Ages 5-8 yrs old - assisted by someone 14 or older)
+13. Beginner Equitation
+14. Advanced Beginner Equitation
+15. Junior Equitation
+16. Senior Equation
+17. Adult Walk/Trot Equitations
+18. Adult Equitations
+19. Beginner Pleasure
+20. Advanced Beginner Pleasure
+21. Junior Pleasure
+22. Senior Pleasure
+23. Adult Walk/Trot Pleasure
+24. Adult Pleasure
+25. Costume Class
+26. Western Pattern (Jr/Sr/Adult)
+27. 1. 4-H Beginner Project Up
+28. 1. 4-H Advanced Beginner Project Up
+29. 4-H Junior Project Up
+30. 4-H Senior Project Up
+31. Open Beginner Project Up
+32. Open Advanced Beginner Project Up
+33. Open Junior Project Up
+34. Open Senior Project Up
+35. Adult Walk/Trot Project Up
+36. Adult Project Up
+37. Therapeutic Riding (To be done after lunch, usually around 12:30/1:00 p.m.)
+38. Beginner Trail
+39. Advanced Beginner Trail
+40. Junior Trail
+41. Senior Trail
+42. Lead Line Trail
+43. Therapeutic Riding Trail
+44. Adult Walk/Trot Trail
+45. Adult Trail
 
 **Benefit Class to be done directly after lunch $5 donation, pay at the gate, or more if rider would like, to help a local charity or rider. Open to beginners and up. This will be a fun class ie:
 command class, simon says, etc. To be announced at the show.**
@@ -251,47 +239,43 @@ See Explanation on Monday’s Class List
 #### CHAMPIONSHIPS
 All divisions, Classes to count are Fitting, Project Up, Equitation, Pleasure, & Trail.
 
-We are also offering two day championships. For Beginner, Advanced Beginner, and Adult Walk Trot you would have to show Monday in English and Tuesday in Western, and for Juniors, Seniors,
-and Adults you would need to show Tuesday in Western and Wednesday in English!
 
 ## ENGLISH ONLY 4-H AND OPEN YOUTH HORSE SHOW
 ### CLASSES
 
 
 1. 4-H Junior Fitting
-1. 4-H Senior Fitting
-1. Open Junior Fitting
-1. Open Senior Fitting
-1. Adult Fitting
-1. Championship Fitting Class, 1st & 2nd place winners in classes 1,2,3, & 4
-1. Junior Equitation
-1. Senior Equitation
-1. Adult Equitation
-1. Equitation Pattern
-1. Junior Pleasure Horse
-1. Senior Pleasure Horse
-1. Adult Pleasure
-1. Roadhack
-1. Addison County Pleasure, open to all Addison County Residents showing in a previous pleasure class
-1. Dressage Suitability
-1. 4-H Junior Project Up
-1. 4-H Senior Project Up
-1. Open Junior Project Up
-1. Open Senior Project Up
-1. Adult Project Up
-1. Jr/Sr Equitation over fences 18 inches
-1. Adult Equitation over fences 18 inches
-1. Jr/Sr Hunter over fences 18 inches
-1. Adult Hunter over fences 18 inches
-1. Jr/Sr Equitation over fences 2.6 feet
-1. Adult Equitation over fences 2.6 feet
-1. Jr/Sr Hunter over fences 2.6 feet
-1. Adult Hunter over fences 2.6 feet
-1. Junior Trail
-1. Senior Trail
-1. Therapeutic Riding Trail
-1. Adult Trail
-1. Therapeutic Riding - To be done after lunch, usually around 12:30/1:00 p.m.
+2. 1. 4-H Senior Fitting
+3. Open Junior Fitting
+4. Open Senior Fitting
+5. Adult Fitting  Championship Fitting Class, 1st & 2nd place winners in classes 1,2,3, & 4
+6. Junior Equitation
+7. Senior Equitation
+8.  Adult Equitation
+9. Equitation Pattern
+10. Junior Pleasure Horse
+11. Senior Pleasure Horse
+12. Adult Pleasure
+13. Roadhack
+14. Addison County Pleasure, open to all Addison County Residents showing in a previous pleasure class
+15. Dressage Suitability
+16. 4-H Junior Project Up
+17. 4-H Senior Project Up
+18. Open Junior Project Up
+19. Open Senior Project Up
+20. Adult Project Up
+21. Therapeutic Riding - To be done after lunch, usually around 12:30/1:00 p.m.
+22. Jr/Sr/Adult Equitation over fences 18 inches
+23. Jr/Sr/Adult Hunter over fences 18 inches
+24. Jr/Sr/Adult Equitation over 2 feet
+25. Jr/Sr/Adult Hunter over 2 feet
+26. Jr/Sr/Adult Equitation over 2.6 feet
+27. Jr/Sr/Adult Hunter over 2.6 feet
+28. Junior Trail
+29. Senior Trail
+30. Therapeutic Riding Trail
+31. Adult Trail
+
 
 
 **Benefit Class to be done directly after lunch $5 donation, pay at the gate, or more if
@@ -305,5 +289,4 @@ through the trail class in the time span allowed. Times to be announced at the s
 
 #### CHAMPIONSHIPS: 
 All divisions, Classes to count are Fitting, Project Up, Equitation, Pleasure &
-Trail. We are also offering two days Championships so you would need to show Tuesday
-in Western and Wednesday in English to qualify.
+Trail.
