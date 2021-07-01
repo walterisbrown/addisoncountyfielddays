@@ -574,14 +574,14 @@ Saturday or 10-12 pm. on Sunday.
 
 SUPERINTENDENTS:
 - Peg Allen, 623-6211; 
-- Linda Barrett, 758-2235
+- Linda Barrett, 545-2263
 
 
 ### RULES: 
 
 Please read carefully.
 
-**HOME GARDENING DIVISION is for AMATIIERS**
+**HOME GARDENING DIVISION is for AMATEURS**
 
 These Rules apply along with and in addition to the General Rules for the Home & Garden Department, and the General Rules of Addison County Fair 8: Field Days.
 
