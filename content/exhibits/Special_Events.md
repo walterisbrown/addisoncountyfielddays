@@ -114,7 +114,7 @@ Tuesday, August 10, 2021 — Three Seatings: 5:15, 6:00 & 6:45 p.m.
 
 LOCATION: the Dining Hall 
 
-COORDINATOR: Linda Barrett, 758-2235
+COORDINATOR: Linda Barrett, -545-2263
 
 Take a break from the sun or rain! Come into the Field Days Dining Hall and enjoy a sit-down meal with family and friends! Restaurants and food producers from Addison County and beyond will
 present a delicious buffet for your dining pleasure. 
