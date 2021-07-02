@@ -475,24 +475,24 @@ arrangement.
 4. All plants will be judged on health and development. Plant classesi — 4 must be
 owned and maintained a minimum of six months. Exception: Summer container.
 5. This Flower Show is for amateurs only.
-6. a. All ?oral arrangements must have been done by the exhibitor.
+6. a. All floral arrangements must have been done by the exhibitor.
 b. Children’s arrangements must have been done by the child, re?ecting ability
 appropriate for the age of the exhibitor.
 
 ### CATEGORIES & GLASSES (NOTE CHANGES)
 ####  FLORAL ARRANGEMENT CLASSES: not to exceed 12”x 18”
 1. Centerpiece (To be viewed from all sides)
-2. Bouquet of mixed wild ?owers
-3. Bouquet of mixed garden ?owers
+2. Bouquet of mixed wild flowers
+3. Bouquet of mixed garden flowers
 4. Gladiolus
 5. Arrangement of any single variety of garden ?ower
-6. Dried ?oral arrangement
-7. Miniature arrangement, not more than 5”x S”inc|uding all props and plant materials
+6. Dried floral arrangement
+7. Miniature arrangement, not more than 5”x S”including all props and plant materials
     - Dried plant material
     - Fresh plant material
-8. Holiday arrangement-fresh, dried, and/or arti?cial, may include accessories
+8. Holiday arrangement-fresh, dried, and/or artificial, may include accessories
 9. Unique Vase or Container Arrangement
-1. Open & unclassi?ed - can include groupings and scenes
+1. Open & unclassified - can include groupings and scenes
 
 #### PLANT CLASSES: Pot size limited to 10” or less
 1. African Violets
@@ -511,12 +511,12 @@ appropriate for the age of the exhibitor.
 2. Bouquet of mixed garden ?owers
     -  ages 4—8
     -  ages 9—18
-3. Single ?oral arrangement using a child’s toy
+3. Single floral arrangement using a child’s toy
     -  ages 4-8
     -  ages 9-18
 4. House Plants
     -  ages 4-18
-5. Miniature arrangement, not more than 5”x5”including all props and plant material
+5. Miniature arrangement, not more than 5”x5” including all props and plant material
 6. Scene or grouping using a child’s toy up to 12”x i8”
 7. Fairy Garden
     - ages 4-8
@@ -525,7 +525,7 @@ appropriate for the age of the exhibitor.
 ### SPONSORED AWARDS:
 A. Law Firm of Fred Peet Award: $30.00 for Most Outstanding Exhibit by Youth (18
 and under)
-B. Middlebury AGWAY, Farm & Garden Center Award: $30.00 gift certi?cate for
+B. Middlebury AGWAY, Farm & Garden Center Award: $30.00 gift certificate for
 Most Outstanding Exhibitor.
 C. Cole’s Flowers: $30.00 for Most Unique Design by Adult.
 D. Shallow Rock Greenhouse Award: $30.00 for Most Outstanding Plant Entry.
@@ -538,12 +538,12 @@ by Youth aged 4-8 years.
 Please read carefully. These Rules apply along with and in addition to the General
 Rules for the Home & Garden Department and the General Rules of Addison County Fair &
 Field Days.
-1. A Commercial Flower Exhibitor is de?ned as any person or persons growing
-?owers for pro?t.
+1. A Commercial Flower Exhibitor is defined as any person or persons growing
+?owers for profit.
 2. Exhibitors will be allotted an empty 4ft. by 3ft. area each, to create a pleasing display of
 ?owers using their own display materials and incorporating a farm or business sign.
 3. Each Exhibitor’s space will bejudged on overall attractiveness, creativity of display, and
-condition & quality of ?owers.
+condition & quality of flowers.
 4. PRIZES: ist - $100.00; 2nd - $80.00; 3rd — $60.00
 All other entries will receive $50.1. Special Ribbons will also be awarded.
 5. Each Exhibitor will be issued a season pass. Exhibitors are encouraged to maintain
@@ -553,10 +553,10 @@ Saturday or 10-12 pm. on Sunday.
 
 ## COMMERCIAL NURSERY SHOW
 ### RULES
-Please read carefullyihese Rules apply along with and in addition to the General Rules forthe
+Please read carefullyihese Rules apply along with and in addition to the General Rules for the
 Home & Garden Department, and the General Rules of Addison County Fair & Field Days.
-1. A Commercial Nursery Exhibitor is de?ned as any person or persons producing trees,
-shrubs, annuals, perennials or other outdoor landscape plants for pro?t. This display
+1. A Commercial Nursery Exhibitor is defined as any person or persons producing trees,
+shrubs, annuals, perennials or other outdoor landscape plants for profit. This display
 must include a minimum of 3 tree(s) or shrub(s) with optional addition of
 annuals or perennials. Use of Vermont grown plant material is encouraged.
 2. Exhibitors will be allotted an empty 8ft. by 3ft. deep area each, to create a pleasing display of
