@@ -10,7 +10,7 @@ Description: Exibit information and entry rules
 
 Thursday, 8:00 am. — Rain or Shine 
 
-JUDGE: Jennifer Woodruff; 
+JUDGE: Deb Danforth; 
 
 TRAIL JUDGE: Karen Malzac
 
@@ -18,7 +18,7 @@ CO-MANAGERS:
 - Jessica Stuart, Essex Junction, VT, 802-233-3013; 
 - Bailee Layn, Bristol, VT, 802-922-1653,
 
-Entries close by postmark of July 30, 2019. Day stabling only: 
+Entries close by postmark of July 31, 2021. Day stabling only: 
 
 First come, frst served basis @$15.00(box). 
 $5.00 refunded if left clean and checked by show management.
@@ -55,11 +55,11 @@ them, thereby releasing Addison County Fair & Field Days from any damage whatsoe
 10. The management will act as stewards at this show and their decision is fnal.
 11. Hard hats required in all hunt seat classes.
 12. RABIES CERTIFICATES REQUIRED. IT MUST BE ISSUED AND SIGNED BY A LICENSED
-VETERINARIAN AT LEAST 30 DAYS(JULY 1, 2019) PRIOR TO THIS SHOW. ATTACH A COPY
+VETERINARIAN AT LEAST 30 DAYS(JULY 2, 2021) PRIOR TO THIS SHOW. ATTACH A COPY
 TO YOUR ENTRY –IT WILL NOT BE RETURNED. HORSES CANNOT BE UNLOADED WITHOUT
 PROOF OF SHOTS. THIS IS A VERMONT STATE FAIRS MANDATE. NAME OF HORSE SHOULD
 BE THE SAME ON ENTRY BLANK AND RABIES CERTIFICATE.
-13. All ages are 1/1/2019.
+13. All ages are 1/1/2021.
 14. Lunch break to be announced.
 15. Health certifcate & negative Coggins required for all out-of-state horses.
 16. NO ONE SHALL APPROACH A JUDGE WITH REGARD TO A DECISION UNLESS
