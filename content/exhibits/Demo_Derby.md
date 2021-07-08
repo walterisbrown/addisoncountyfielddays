@@ -10,12 +10,12 @@ Description: Exibit information and entry rules for the Addison County Fair And 
 Tuesday, starting at 7:00 pm.
 Wednesday, starting at 7:00 pm.
 
-### Wednesday
+### Tuesday
 - 6 & 8 CYLINDER DEMOLITION DERBY
 - 4 CYLINDER & MlNl-VAN DEMOLITION DERBY
 - TRUCKS DEMOLITION DERBY
 
-### Thursday
+### Wednesday
 - 6 & 8 CYLINDER DEMOLITION DERBY
 - 4 CYLINDER & MlNl-VAN DEMOLITION DERBY
 
