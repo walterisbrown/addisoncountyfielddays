@@ -268,7 +268,7 @@ potholders)
 Knitting & Crocheting categories.
 1. Patricia Henecke Award from Twist O’Wool Guild ~ $25.00 for Most Outstanding entry of Socks Category 
 1. Deb Kinder McClay Award ~ $20.00 for an outstanding crocheted or knit baby item demonstrating creative use of color and design.
-1. Yarn & Yoga ~ $25.00 gift certifcate -Top Youth winner, 18 year & under, in Knitting & Crocheting categories.
+1. Hermit Thrush Fiber Co. ~ $25.00 gift certifcate -Top Youth winner, 18 year & under, in Knitting & Crocheting categories.
 
 
 #### HANDSPUN YARN:
@@ -465,60 +465,69 @@ SUPERINTENDENTS: Lynn Clohessy, 989-2752
 Please read carefully. These Rules apply along with and in addition to the General
 Rules for the Home & Garden Department and the General Rules of Addison County Fair & Field
 Days. Entries will be accepted at the HOME 8: GARDEN CENTER BUILDING on Monday, August
-9th between 9:00 am. & 12:30 pm.
+9th between 9:00 am. & 12:30 pm. Floral entries are discouraged from being entered during 
+Sunday acceptance hours to ensure freshness. Plant classes are welcome both days.
 
 1. Exhibitors must bring their own containers.
 2. All floral arrangements will bejudged on horticultural perfection as well as artistic
 arrangement.
 3. Due to limited space, no Floral arrangement will be accepted that exceeds
-12”xi8”
-4. All plants will be judged on health and development. Plant classesi — 4 must be
+12”x18”
+4. All plants will be judged on health and development. Plant classes 11 — 14 must be
 owned and maintained a minimum of six months. Exception: Summer container.
-5. This Flower Show is for amateurs only.
-6. a. All floral arrangements must have been done by the exhibitor.
-b. Children’s arrangements must have been done by the child, re?ecting ability
+5. This Flower Show is for amateurs only. All floral arrangements must have been done by
+by the exhibitor.
+6. Children’s arrangements must have been done by the child, reflecting ability
 appropriate for the age of the exhibitor.
 
 ### CATEGORIES & GLASSES (NOTE CHANGES)
-####  FLORAL ARRANGEMENT CLASSES: not to exceed 12”x 18”
+### A. FLORAL ARRANGEMENT CLASSES: not to exceed 12”x 18”
 1. Centerpiece (To be viewed from all sides)
-2. Bouquet of mixed wild flowers
+2. Bouquet of mixed wildflowers
 3. Bouquet of mixed garden flowers
 4. Gladiolus
 5. Arrangement of any single variety of garden ?ower
 6. Dried floral arrangement
 7. Miniature arrangement, not more than 5”x S”including all props and plant materials
-    - Dried plant material
-    - Fresh plant material
+   a. Dried plant material
+   b. Fresh plant material
 8. Holiday arrangement-fresh, dried, and/or artificial, may include accessories
 9. Unique Vase or Container Arrangement
-1. Open & unclassified - can include groupings and scenes
+10. Open & unclassified - can include groupings and scenes
 
-#### PLANT CLASSES: Pot size limited to 10” or less
-1. African Violets
-2. House Plants
-3. Cactus and Succulents
-4. Dish Gardens
-5. Summer Plants - Pot size 12” or less: maintained minimum of 6 weeks.
-    - Summer Container Garden
-    - Summer Plant — single specimen
-    - Fairy Gardens
+### B. PLANT CLASSES: Pot size limited to 10” or less
+11. African Violets
+12. House Plants
+13. Cactus and Succulents
+14. Dish Gardens
+15. Summer Plants - Pot size 12” or less: potted and maintained by exhibitor a
+minimum of 6 weeks.
+    a. Summer Mixed Container
+    b. Summer Plant — single variety
+    c. Fairy Gardens
 
-#### CHILDREN'S CLASSES:
-1. Bouquet of mixed wild ?owers
+### C. CHILDREN'S CLASSES:
+16. Bouquet of mixed wildflowers
     -  ages 4—8
     -  ages 9-18
-2. Bouquet of mixed garden ?owers
+17. Bouquet of mixed garden flowers
     -  ages 4—8
     -  ages 9—18
-3. Single floral arrangement using a child’s toy
+18. Single floral arrangement using a child’s toy
     -  ages 4-8
     -  ages 9-18
-4. House Plants
-    -  ages 4-18
-5. Miniature arrangement, not more than 5”x5” including all props and plant material
-6. Scene or grouping using a child’s toy up to 12”x i8”
-7. Fairy Garden
+19. Miniature arrangement, not more than 5”x5” including all props and plant material
+20. Scene or grouping using a child’s toy up to 12”x 18”
+
+### D. CHILDREN'S PLANT CLASSES - Pot size 12” or less: potted and maintained by 
+### exhibitor a minimum of 6 weeks.
+21. Summer Mixed Container
+    -  ages 4—8
+    -  ages 9-18
+22. Summer Plant — single variety
+    -  ages 4—8
+    -  ages 9-18
+23. Fairy Garden
     - ages 4-8
     - ages 9—18
 
@@ -531,7 +540,7 @@ C. Cole’s Flowers: $30.00 for Most Unique Design by Adult.
 D. Shallow Rock Greenhouse Award: $30.00 for Most Outstanding Plant Entry.
 E. January Stearns - Realtor, Champlain Valley Properties: $25 for Best Entry
 by Youth aged 4-8 years.
-
+F. Heather Morse - Greentree Real Estate: $30.00 for Most Outstanding Adult Entry.
 
 ## COMMERCIAL FLOWER SHOW
 ### RULES
@@ -544,16 +553,16 @@ Field Days.
 ?owers using their own display materials and incorporating a farm or business sign.
 3. Each Exhibitor’s space will bejudged on overall attractiveness, creativity of display, and
 condition & quality of flowers.
-4. PRIZES: ist - $100.00; 2nd - $80.00; 3rd — $60.00
-All other entries will receive $50.1. Special Ribbons will also be awarded.
+4. PRIZES: 1st - $100.00; 2nd - $80.00; 3rd — $60.00
+All other entries will receive $50.00. Special Ribbons will also be awarded.
 5. Each Exhibitor will be issued a season pass. Exhibitors are encouraged to maintain
 freshness of their display throughout the week.
-Reminder: Entries must be completely removed between 9-9:30 pm. on
-Saturday or 10-12 pm. on Sunday.
+Reminder: Entries must be completely removed between 9-10:00 pm. on
+Saturday or 10-1:00 pm. on Sunday.
 
 ## COMMERCIAL NURSERY SHOW
 ### RULES
-Please read carefullyihese Rules apply along with and in addition to the General Rules for the
+Please read carefully. These Rules apply along with and in addition to the General Rules for the
 Home & Garden Department, and the General Rules of Addison County Fair & Field Days.
 1. A Commercial Nursery Exhibitor is defined as any person or persons producing trees,
 shrubs, annuals, perennials or other outdoor landscape plants for profit. This display
@@ -563,12 +572,12 @@ annuals or perennials. Use of Vermont grown plant material is encouraged.
 their plants, using their own display materials and incorporating a farm or business sign.
 3. Each Exhibitor’s space will be judged on overall attractiveness, creativity of display, and
 condition, & quality of plant material.
-4. PRIZES: ist - $100.00; 2nd - $80.00; 3rd - $60.00
+4. PRIZES: 1st - $100.00; 2nd - $80.00; 3rd - $60.00
 All other entries will receive $50.00 Special Ribbons will also be awarded.
 5. Each Exhibitor will be issued a season pass. Exhibitors are encouraged to maintain
 freshness of their display throughout the week.
-Reminder: Entries must be completely removed between 9-9:30 pm. on
-Saturday or 10-12 pm. on Sunday.
+Reminder: Entries must be completely removed between 9-10:00 pm. on
+Saturday or 10-1:00 pm. on Sunday.
 
 ## GARDEN PRODUCTS
 
@@ -594,10 +603,10 @@ Judging takes place Monday afternoon. Items entered on Sunday will not be as fre
 3. Damaged or unworthy fruit or vegetables will not be
 accepted.
 4. Thejudges will consider the following points:
-    -  Quality - fruit or vegetable must be in good condition, at its best for eating.
+    - Quality - fruit or vegetable must be in good condition, at its best for eating.
     - Quantity - must have the required amount.
     - Uniformity - uniform in size, color & maturity.
-    -  Condition — free from disease, insect damage, cuts and bruises, and from growth cracks. 
+    - Condition — free from disease, insect damage, cuts and bruises, and from growth cracks. 
 
 Special Rosettes will be awarded to the Premier Home Gardener and Outstanding Youth Gardener.
 
@@ -831,7 +840,7 @@ To be announced
 
 Carrying on a tradition started in 1974 by the Addison County Extension Homemakers
 Council, The Leona Thompson Bowl Award will be presented to the best all-around participant
-in the 2019 Field Days Foods and Handicrafts Departments.
+in the 2021 Field Days Foods and Handicrafts Departments.
 
 The pewter bowl trophy, displayed at Middlebury Sew-N-Vac in Middlebury, bears the
 names of proud winners of this coveted trophy honoring Leona Thompson, former Addison
