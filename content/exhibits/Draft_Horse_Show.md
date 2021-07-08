@@ -10,7 +10,7 @@ Description: Exibit information and entry rules for the Draft Horse Show
 
 Friday, 9:30 am. — Saturday, 9:30 am.
 
-JUDGE: TBA
+JUDGE:Dan Nisley, East Kellogg, Iowa
 
 SUPERINTENDENT: Kathy Nisun, 349-8971
 
