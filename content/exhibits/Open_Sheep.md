@@ -29,8 +29,8 @@ REGISTER ON LINE AT: https://sites.google.com/site/acffdsheepshow/
 
 ## Rules
 
-1. Entry fee — $2.00 per class. iViaiI entries to: Janelle Ashley, 33 North Main Street,
-Whiting, VT 05778, Tel. 989—9528. Entries must be returned by. Monday, July 22.
+1. Entry fee — $2.00 per class. Mail entries to: Janelle Ashley, 33 North Main Street,
+Whiting, VT 05778, Tel. 989—9528. Entries must be returned by Monday, July 22.
 2. Exhibitors must provide their own feed and bedding. Sawdust & straw can be purchased
 at the grounds.
 3. All animals must arrive on the grounds and be checked for health, registration and class
