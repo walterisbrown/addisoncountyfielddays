@@ -25,7 +25,7 @@ SUPERINTENDENT: Janelle Ashley, 989-9528,janellehashley@gmail.com;
 
 ASST. SUPERINTENDENT, Grace Kuehne
 
-REGISTER ON LINE AT: https://sites.googIe.com/site/acffdsheepshow/ W
+REGISTER ON LINE AT: https://sites.google.com/site/acffdsheepshow/
 
 ## Rules
 
