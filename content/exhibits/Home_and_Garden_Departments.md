@@ -730,7 +730,7 @@ superintendents are hoping by opening up this time slot on Sundays that more fam
 able to compete for the FOODS department prizes.
 
 
-You are welcome to pick up the remainder of your entry after the judges finish theirjudging. Pick up time is Monday between 5 pm. & 7 pm. Remaining entries will be offered as samples on Tuesday.
+You are welcome to pick up the remainder of your entry after the judges finish their judging. Pick up time is Monday between 5 pm. & 7 pm. Remaining entries will be offered as samples on Tuesday.
 1. All foods must be”MADE FROM SCRATCH". No boxed mixes of any kind including cake mixes,
 pie crusts, etc. will be accepted in any category.
 2. EXCEPTION: All must be made from scratch EXCEPT for the DECORATED CAKE and
@@ -778,7 +778,7 @@ check-in staff, if the RULES have not been followed (ie. using a pre—packaged 
 1. Cheesecake
 1. Cupcakes (frosted) (4)
 1. Special Needs (Gluten Free, Sugar Free, Etc.)
-1. Misc. Cake 0r Cupcakes (4)
+1. Misc. Cake or Cupcakes (4)
 ### DECORATED CAKES & CUPCAKES
 1. Youth Decorated Cupcakes (4)
 1. Adult Decorated Cupcakes (4)
@@ -809,10 +809,8 @@ check-in staff, if the RULES have not been followed (ie. using a pre—packaged 
 honey)
 ###  KING ARTHUR FLOUR CONTEST
 Special rules: Entrants will show proof of using King Arthur Flour by either bringing in an open bag or a UPC label from a bag when submitting entry. The food item will not be accepted for entry in these 2 classes without UPC proof.
-1. Creative Pizza Idea: (Be creative with design or shape or ingreidents or type or presentation have fun) Youth contest ages 18 and under
-1. Paris-Brest: Adult contest ages 19+
-### SPECIAL DIET BAKED GOODS *NEW*
-1. Special Diet Baked (Gluten Free, Sugar Free, Etc.)
+1. Coffee Cake - Any type: Youth contest ages 18 and under
+1. Coffee Cake - Any type: Adult contest ages 19+
 ### CANDIES
 1. Fudge (6)
 1. Brittle / Bark (4 servings)
