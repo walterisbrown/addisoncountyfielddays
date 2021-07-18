@@ -79,187 +79,206 @@ Items must be made by an individual completed
 within the last year.
 
 ### CATEGORIES & CLASSES
-
-#### KNITTING - 
-Please specify whether natural
-or synthetic fiber
-
 Please enter only items listed below.
+
+#### A.KNITTING - Please specify whether natural
+#### or synthetic fiber
 
 ##### Sweaters
 1. Adult
-1. Child
-1. Vest
+2. Child
+3. Vest
 
 ##### Infant items
-1. Baby Blanket
-1. Infant garment
-1. Baby hat, booties
-1. Toys
+4. Baby Blanket
+5. Infant garment
+6. Baby hat, booties
+7. Toys
 
 ##### Accessories
-1. Hats
-1. Scarves
-1. Mittens or gloves
-1. Socks or slippers
-1. Shawls
+8. Hats
+9. Scarves
+10. Mittens or gloves
+11. Socks or slippers
+12. Shawls
 
 ##### Home Décor
-1. Pillows
-1. Afghans
-1. Dishcloths
+13. Pillows
+14. Afghans
+15. Dishcloths
 
 ##### Felted (felled) knitting
-1. Mittens or slippers
-1. Bags
+16. Mittens or slippers
+17. Bags
 
 ##### Other
-1. Toys
-1. Crocheted items not listed above
+18. Toys
 
+#### B.CROCHETING - please specify whether natural 
+#### synthetic fiber
 
-#### HANDSPUN YARN
+#### Garments
+19. Adult
+20. Child
+21. Infant
+
+#### Accessories
+22. Hats
+23. Scarves
+24. Shawls
+25. Slippers
+
+#### Home Decor
+26. Afghans
+27. Tablecloths, Curtains
+28. Potholders, Dishcloths
+
+#### Other
+29. Toys
+30. Crocheted items not listed above
+
+#### C.HANDSPUN YARN
 
 ##### Knitted
-1. Garments
-1. Hats, Mittens, Socks
-1. Shawls, Scarves
+31. Garments
+32. Hats, Mittens, Socks
+33. Shawls, Scarves
 
 ##### Crocheted, any item
-1. Shawls, Scarves
+34. Shawls, Scarves
 
 ##### Woven
-1. Any item (commercial warp accepted)
+35. Any item (commercial warp accepted)
 
-##### Handspun skeins (washed and tied 202 skein)
-1. Bulky weight
-1. Worsted weight
-1. Sport weight or ?ner
-1. Yarn spun on a drop spindle
+##### Handspun skeins (washed and tied 2 oz. skein)
+36. Bulky weight
+37. Worsted weight
+38. Sport weight or ?ner
+39. Yarn spun on a drop spindle
 
-####  FELTING
+#### D.FELTING
 
 ##### Wet felt
-1. Garments —Hats, Slippers, etc.
-1. Flat pieces: Rugs, Scarves
-1. Toys, Sculptures
+40. Garments —Hats, Slippers, etc.
+41. Flat pieces: Rugs, Scarves
+42. Toys, Sculptures
 
 ##### Needle felting
-1. Toys, Sculptures
-1. Flat pieces
+43. Toys, Sculptures
+44. Flat pieces
 
-#### WEAVING
-1. Home Décor (blankets, rugs, towels,
+#### E.WEAVING
+45. Home Décor (blankets, rugs, towels,
 potholders)
-1. Wearables (clothing, bags scarves)
-1. Bands and Belts
-1. Other woven items
+46. Wearables (clothing, bags scarves)
+47. Bands and Belts
+48. Other woven items
 
-####  SEWING
-1. Adult garment
-1. Child’s garment
-1. Stuffed toys
-1. Pillows, including patchwork
-1. Handbags, tote bags
-1. Any sewn piece not listed above
+#### F.SEWING
+49. Adult garment
+50. Child’s garment
+51. Stuffed toys
+52. Pillows, including patchwork
+53. Handbags, tote bags
+54. Any sewn piece not listed above
 
-####  QUILTS
+#### G.QUILTS
 
 ##### Hand-sewn and hand-quilted
-1. Piecework
-1. Applique
-1. Embroidered
+55. Piecework
+56. Applique
+57. Embroidered
 
-##### Machine pieced 0r appliqued
-1. Hand quilted
-1. Quilted on a home machine
-1. Commercially quilted
+##### Machine pieced or appliqued
+58. Hand quilted
+59. Quilted on a home machine
+60. Commercially quilted
 
 ##### Quilted items
-1. Pillows
-1. Wall Hangings
-1. Other quilted items
-1. Tied quilts
+61. Pillows
+62. Wall Hangings
+63. Other quilted items
+64. Tied quilts
 
-#### EMBROIDERY and NEEDLEPOINT
-1. Cross-stitch - framed picture
-1. Cross-stitch - other item
-1. Crewel work - any item
-1. Machine embroidery - any item
-1. Needlepoint — any item
-1. Punch needle embroidery - framed picture
-1. Punch needle embroidery — other item
-1. Creative Modern Stitchery
+#### H.EMBROIDERY and NEEDLEPOINT
+65. Cross-stitch - framed picture
+67. Cross-stitch - other item
+68. Crewel work - any item
+69. Machine embroidery - any item
+70. Needlepoint — any item
+71. Punch needle embroidery - framed picture
+72. Punch needle embroidery — other item
+73. Creative Modern Stitchery
 
-#### BEADWORK
-1. Strung beads
-1. Woven beads
-1. Crocheted or knitted
-1. Beads with wire
-1. Othertechnique or combination oftechniques
+#### I.BEADWORK
+74. Strung beads
+75. Woven beads
+76. Crocheted or knitted
+77. Beads with wire
+78. Other technique or combination of techniques
 
-#### BASKETRY
-1. Splint woven (flat material)
-1. Twined or woven with round material
-1. Coiled basket
-1. Other
+#### J.BASKETRY
+79. Splint woven (flat material)
+80. Twined or woven with round material
+81. Coiled basket
+82. Other
 
-#### RUGS
-1. Traditionally hooked rug
-1. Punch-needle hooked rug
-1. Other hooked item: pillow, picture, etc.
-1. Braided rug
-1. Toothbrush rug
-1. Penny Rug
+#### K.RUGS
+83. Traditionally hooked rug
+84. Punch-needle hooked rug
+85. Other hooked item: pillow, picture, etc.
+86. Braided rug
+87. Toothbrush rug
+88. Penny Rug
 
-#### CHRISTMAS CRAFTS
-1. Ornaments
-1. Wreaths
-1. Stockings
-1. Tree skirts
-1. Nativities
-1. Other
+#### L.CHRISTMAS CRAFTS
+89. Ornaments
+90. Wreaths
+91. Stockings
+92. Tree skirts
+93. Nativities
+94. Other
 
-#### DOLLS and MINIATURES
-1. Dolls
-1. Doll houses
-1. Room displays or dioramas
-1. Individual pieces
+#### M.DOLLS and MINIATURES
+95. Dolls
+96. Doll houses
+97. Room displays or dioramas
+98. Individual pieces
 
-####  WOODWORKING
-1. Toys, models
-1. Furniture
-1. Three-dimensional carving
-1. Decorative carving
-1. Decorative wood burning
-1. Other wood item, not listed above
+#### N.WOODWORKING
+99. Toys, models
+100. Furniture
+101. Three-dimensional carving
+102. Decorative carving
+103. Decorative wood burning
+104. Other wood item, not listed above
 
-####  CERAMICS
-1. Hand Built
-1. Wheel Thrown
+#### O.CERAMICS
+105. Hand Built
+106. Wheel Thrown
 
-####  PAPER CRAFTS
-1. Quilling
-2. Paper Mache
-3. Note Cards
-4. Origami
+#### P.PAPER CRAFTS
+107. Quilling
+108. Paper Mache
+109. Note Cards
+110. Origami
 
-#### RECYCLED CRAFTS - MUST BE 75% RECYCLED MATERIALS
-1. Metal
-2. Wood
-3. Plastic
-4. Paper
-5. Fabric
-6. Other or combination of materials
+#### Q.RECYCLED CRAFTS - MUST BE 75% RECYCLED MATERIALS
+111. Metal
+112. Wood
+113. Plastic
+114. Paper
+115. Fabric
+116. Other or combination of materials
 
-#### OPEN & UNCLASSIFIED
-1. Natural materials crafts
-1. Wreaths (except Christmas)
-1. Polymer clay
-2. Leatherwork
-3. Macrame
-4. Technique NOT LISTED elsewhere — surprise us!
-6. Professional Handicraft Display - not judged and may include promotional materials.
+#### R.OPEN & UNCLASSIFIED
+117. Natural materials crafts
+118. Wreaths (except Christmas)
+119. Polymer clay
+120. Leatherwork
+121. Macrame
+122. Technique NOT LISTED elsewhere — surprise us!
+123. Professional Handicraft Display - not judged and may include promotional materials.
 
 ### SPONSORED AWARDS
 
