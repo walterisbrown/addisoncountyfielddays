@@ -8,33 +8,14 @@ Description: Exibit information and entry rules
 
 [[TOC]]
 
-# BAKED BEAN BONANZA
+DIRECTOR: Megan Sutton, 545-2475
 
-Event held on the last day of the fair, Saturday at 10am.
-
-SUPERINTENDENT: Peg Allen, 623-6211
-
-Bring a pot of yourfavorite Baked Beans and recipe on a 5x8 card to the Greenhouse/
-Picnic area on Saturday, at 10:00 am. Official judging will begin then.
-All entrants must be present to win.
-
-From 12:00 noon until 1 pm. the entrants should be prepared to hand out small samples of
-their beans to the public. 
-
-All entrants will receive a special ribbon.
-
-No pre-registration required. 
-
-One entry per person.
-
+## GENERAL GUIDLINES
 
 Welcome to the Home & Garden Departments. Our goal is to showcase and
 celebrate your skills in the domestic arts. Thank you for sharing your work with
 the fair community. For more information, please read the following guidelines:
 
-DIRECTOR: Megan Sutton, 545-2475
-
-## GENERAL GUIDLINES
 
 1. All entries will be accepted on Monday, August 9, from 9:00 a.m. to 12:30 p.m. Entries
 in the Handicrafts, Foods, Garden Products, Art & Photography departments will also be
@@ -63,14 +44,16 @@ picked up at these times will be forfeited.
 including those who win another prize.
 
 ## DEPARTMENT: HG 1-HANDICRAFTS
+SUPERINTENDENTS: Lee Greenewalt, 758-2598; Lynn Stewart Parker, 453-4372
 
 ### RULES
 Please read carefully. These Rules apply along
 with and in addition to the General Rules for the Home &
 Garden Department, and the General Rules of Addison
 County Fair & Field Days. Entries will be accepted at the HOME
-& GARDEN CENTER BUILDING on MONDAY, between
-9:00 a.m. & 12:30 p.m.
+& GARDEN CENTER BUILDING on MONDAY, August 9th between
+9:00 a.m. & 12:30 p.m. Entries for this department will also be accepted on Sunday, August 8th between
+1 - 4 pm. These classes are for amateurs.  See the definition untion H&G Rules.
 
 Unworthy, soiled or worn items will not be
 accepted or judged.
@@ -81,7 +64,7 @@ within the last year.
 ### CATEGORIES & CLASSES
 Please enter only items listed below.
 
-#### A.KNITTING - Please specify whether natural
+#### A. KNITTING - Please specify whether natural
 #### or synthetic fiber
 
 ##### Sweaters
@@ -114,7 +97,7 @@ Please enter only items listed below.
 ##### Other
 18. Toys
 
-#### B.CROCHETING - please specify whether natural 
+#### B. CROCHETING - please specify whether natural 
 #### synthetic fiber
 
 #### Garments
@@ -137,7 +120,7 @@ Please enter only items listed below.
 29. Toys
 30. Crocheted items not listed above
 
-#### C.HANDSPUN YARN
+#### C. HANDSPUN YARN
 
 ##### Knitted
 31. Garments
@@ -156,7 +139,7 @@ Please enter only items listed below.
 38. Sport weight or ?ner
 39. Yarn spun on a drop spindle
 
-#### D.FELTING
+#### D. FELTING
 
 ##### Wet felt
 40. Garments —Hats, Slippers, etc.
@@ -167,14 +150,14 @@ Please enter only items listed below.
 43. Toys, Sculptures
 44. Flat pieces
 
-#### E.WEAVING
+#### E. WEAVING
 45. Home Décor (blankets, rugs, towels,
 potholders)
 46. Wearables (clothing, bags scarves)
 47. Bands and Belts
 48. Other woven items
 
-#### F.SEWING
+#### F. SEWING
 49. Adult garment
 50. Child’s garment
 51. Stuffed toys
@@ -182,7 +165,7 @@ potholders)
 53. Handbags, tote bags
 54. Any sewn piece not listed above
 
-#### G.QUILTS
+#### G. QUILTS
 
 ##### Hand-sewn and hand-quilted
 55. Piecework
@@ -200,7 +183,7 @@ potholders)
 63. Other quilted items
 64. Tied quilts
 
-#### H.EMBROIDERY and NEEDLEPOINT
+#### H. EMBROIDERY and NEEDLEPOINT
 65. Cross-stitch - framed picture
 67. Cross-stitch - other item
 68. Crewel work - any item
@@ -210,20 +193,20 @@ potholders)
 72. Punch needle embroidery — other item
 73. Creative Modern Stitchery
 
-#### I.BEADWORK
+#### I. BEADWORK
 74. Strung beads
 75. Woven beads
 76. Crocheted or knitted
 77. Beads with wire
 78. Other technique or combination of techniques
 
-#### J.BASKETRY
+#### J. BASKETRY
 79. Splint woven (flat material)
 80. Twined or woven with round material
 81. Coiled basket
 82. Other
 
-#### K.RUGS
+#### K. RUGS
 83. Traditionally hooked rug
 84. Punch-needle hooked rug
 85. Other hooked item: pillow, picture, etc.
@@ -231,7 +214,7 @@ potholders)
 87. Toothbrush rug
 88. Penny Rug
 
-#### L.CHRISTMAS CRAFTS
+#### L. CHRISTMAS CRAFTS
 89. Ornaments
 90. Wreaths
 91. Stockings
@@ -239,13 +222,13 @@ potholders)
 93. Nativities
 94. Other
 
-#### M.DOLLS and MINIATURES
+#### M. DOLLS and MINIATURES
 95. Dolls
 96. Doll houses
 97. Room displays or dioramas
 98. Individual pieces
 
-#### N.WOODWORKING
+#### N. WOODWORKING
 99. Toys, models
 100. Furniture
 101. Three-dimensional carving
@@ -253,17 +236,17 @@ potholders)
 103. Decorative wood burning
 104. Other wood item, not listed above
 
-#### O.CERAMICS
+#### O. CERAMICS
 105. Hand Built
 106. Wheel Thrown
 
-#### P.PAPER CRAFTS
+#### P. PAPER CRAFTS
 107. Quilling
 108. Paper Mache
 109. Note Cards
 110. Origami
 
-#### Q.RECYCLED CRAFTS - MUST BE 75% RECYCLED MATERIALS
+#### Q. RECYCLED CRAFTS - MUST BE 75% RECYCLED MATERIALS
 111. Metal
 112. Wood
 113. Plastic
@@ -271,7 +254,7 @@ potholders)
 115. Fabric
 116. Other or combination of materials
 
-#### R.OPEN & UNCLASSIFIED
+#### R. OPEN & UNCLASSIFIED
 117. Natural materials crafts
 118. Wreaths (except Christmas)
 119. Polymer clay
@@ -289,41 +272,39 @@ Knitting & Crocheting categories.
 1. Deb Kinder McClay Award ~ $20.00 for an outstanding crocheted or knit baby item demonstrating creative use of color and design.
 1. Hermit Thrush Fiber Co. ~ $25.00 gift certifcate -Top Youth winner, 18 year & under, in Knitting & Crocheting categories.
 
-
 #### HANDSPUN YARN:
 1. Twist O’Wool Guild ~ Award $25.00 - for the Most
-Outstanding Item made from Hand Spun Yam.
-FELTING:
-1. Twist of Wool Guild award-SZS for most outstanding
+Outstanding Item made from Hand Spun Yarn.
+2. FELTING: Twist of Wool Guild award-SZS for most outstanding
 felted item, any technique
-WEAVING:
-1. Eleanor Boucher Memorial Award from Twist O’Wool
+3. WEAVING: Eleanor Boucher Memorial Award from Twist O’Wool
 Guild ~ $25.00 for most outstanding woven article
 (includes baskets).
 
 #### SEWING:
-1. Middlebury Sew ’N’Vac ~ $50.00 Gift Certi?cate - for
+1. Middlebury Sew ’N’Vac ~ $50.00 Gift Certificate - for
 Best Sewn Garment
-1. Middlebury Sew’N’Vac, $25 gift certi?cate for the most
+1. Middlebury Sew’N’Vac, $25 gift certificate for the most
 outstanding garment sewn by a youth.
-QUILTING:
-1. The Quilters’Corner at Middlebury Sew’N’Vac- $25 and
-a $25 gift certi?cate, for the most outstanding quilt.
-1. The Quilters’Corner at Middlebury Sew’N’Vac— $25 and
-a $25 gift certi?cate, for the most outstanding quilt
+
+### QUILTING:
+1. The Quilters’ Corner at Middlebury Sew’N’Vac- $25 and
+a $25 gift certificate, for the most outstanding quilt.
+1. The Quilters’ Corner at Middlebury Sew’N’Vac— $25 and
+a $25 gift certificate, for the most outstanding quilt
 quilted by a professional on a commercial machine.
-1. The Quilters’Corner at Middlebury Sew’N’Vac— $25 and
-a $25 gift certi?cate, for the most outstanding other
+1. The Quilters’ Corner at Middlebury Sew’N’Vac— $25 and
+a $25 gift certificate, for the most outstanding other
 quilted item (pillow, bag, wall hanging, etc.)
-1. The Quilters’Corner at Middlebury Sew’N’Vac— $25 gift
-certi?cate for the most outstanding quilt by youth.
+1. The Quilters’ Corner at Middlebury Sew’N’Vac— $25 gift
+certificate for the most outstanding quilt by youth.
 
 #### EMBROIDERY & NEEDLEPOINT:
-1. Rae Dwight Award~$50.00 for an Most Outstanding
+1. Rae Dwight Award ~ $50.00 for an Most Outstanding
 entry in Embroidery & Needlepoint.
-1. Rae Dwight Award~$25.00 for an Outstanding entry in
-Embroidery 8: Needlepoint by a youth 18 or under.
-1. Rose Ann Farese Memorial award-$100 for innovative
+1. Rae Dwight Award ~ $25.00 for an Outstanding entry in
+Embroidery & Needlepoint by a youth 18 or under.
+1. Rose Ann Farese Memorial award ~ $100 for innovative
 modern stitching.
 
 #### BEADWORK:
@@ -339,26 +320,26 @@ Outstanding entry in Hooking and Braiding.
 entries in Woodworking & Woodcarving
 (Three individuals, preferably one exhibited by a youth).
 
-#### OVERALL HANDICRAFTS:
-1. Golden Years Award ~ $25.00 for Outstanding Handicraft
-entered by an exhibitor over 80 years old (Marked over 80 on
-entryform).
-1. Jerry & Cheryl Connor Award ~ $50.00 for THE MOST
-OUTSTANDING YOUTH ENTRY in Handicrafts by a youth(18
-years & under).
-1. A Grand Prize of $100.00 will be awarded to THE MOST
-OUTSTANDING ENTRY in the Handicrafts Department.
-
 #### RECYCLED CRAFTS:
 1. Bethany Barry Award $100.00 for the most creative 
 reuse of face masks.
 3. Bethany Barry Award $75.00 forthe most creative shopping bag
 made out of recycled materials.
 
+#### OVERALL HANDICRAFTS:
+1. Golden Years Award ~ $25.00 for Outstanding Handicraft
+entered by an exhibitor over 80 years old (Marked over 80 on
+entryform).
+1. Jerry & Cheryl Connor Award ~ $50.00 for THE MOST
+OUTSTANDING YOUTH ENTRY in Handicrafts by a youthv (18
+years & under).
+1. A Grand Prize of $100.00 will be awarded to THE MOST
+OUTSTANDING ENTRY in the Handicrafts Department.
+
 
 # ART and PHOTOGRAPHY
 
-SUPERINTENDENT: TBA
+INTERIM SUPERINTENDENT: Megan Sutton 545-2475
 
 ## RULES
 
@@ -477,7 +458,7 @@ anonymous donor have helped underwrite prizes.
 
 # FLOWER SHOW
 
-SUPERINTENDENTS: Lynn Clohessy, 989-2752
+SUPERINTENDENT: Lynn Clohessy, 989-2752
 
 ## AMATEUR FLOWER SHOW
 ### RULES
@@ -706,7 +687,7 @@ in transparent bags
 Award: $30.00 gift certificate for the Premier Home
 Gardener.
 1.  Peg Allen Award: $30 for Most Outstanding Youth
-Exhibitor( 18 years and under ).
+Exhibitor (18 years and under).
 
 ## COMMERCIAL GARDENING DIVISION
 SUPERINTENDENT: Peg Allen, 623-6211
@@ -729,12 +710,12 @@ quality of produce.
 4. PRIZES: lst - $100.00; 2nd - $80.00; 3rd - $60.00
 All other entries will receive $50.00.
 Special Ribbons will also be awarded.
-5. Each Exhibitorwill be issued a season pass.
+5. Each Exhibitor will be issued a season pass.
 Reminder: Entries must be completely removed between
 9—9:30 pm. on Saturday or 10—12 pm. on Sunday.
 
 # FOODS
-SUPERINTENDENTS: TBA
+INTERIM SUPERINTENDENT: Megan Sutton, 545-2475
     
 ## RULES
 **ALL these classes are for AMATEURS. No Professionals.**
@@ -852,6 +833,23 @@ Special rules:
 To be announced
 
 
+### WANDA GOODYEAR MEMORIAL BAKED BEAN CONTEST
+(Formerly the Baked Bean Bonanza!)
+
+SUPERINTENDENT: Peg Allen, 623-6211. Saturday August 14th
+
+Bring a pot of your favorite Baked Beans and recipe on a 5x8 card to the north entrance of the
+Picnic Pavillion on Saturday, August 14th by 10:00 am. Official judging will commence at 10:00 am.
+All entrants must be present to win. Winners will be announced when judging is complete, at approximately noon.
+Each participant will serve sample after the winners are announced. 
+
+### No pre-registration required. One entry per person. 
+
+### PRIZES:
+1st prize - $100.00 for the Wanda Goodyear Memorial Award
+Additional prizes TBA
+
+
 
 # ANNUAL LEONA THOMPSON BOWL AWARD
 
@@ -861,7 +859,7 @@ in the 2021 Field Days Foods and Handicrafts Departments.
 
 The pewter bowl trophy, displayed at Middlebury Sew-N-Vac in Middlebury, bears the
 names of proud winners of this coveted trophy honoring Leona Thompson, former Addison
-County Extension Service Agent. Previous winners are:
+County Extension Service Agent. 
 
 
 ### Criteria and Rules
@@ -876,6 +874,7 @@ of Foods & Handicrafts Departments.
 6. Note: This award may not be won in two consecutive years and may not be won by any
 Field Days director or superintendent involved in Foods & Handicrafts Departments.
 7. An individual may win this award up to 3 times.
+
 
 
 <details>
@@ -932,6 +931,7 @@ Field Days director or superintendent involved in Foods & Handicrafts Department
     </ul>
 </details>
 
+
 # ANNUAL FRANCES MONROE YOUTH AWARD
 
 Frances Monroe was the Director of the Home & Garden Departments from 1986 to 2010. Frances
@@ -972,3 +972,6 @@ name on a displayed plaque.
 5. The top two scores in each department will determine the fnal score.
 6. In event of a tie, recipient of the AWARD will be decided by the Home & Garden
 committee.
+    
+
+    
