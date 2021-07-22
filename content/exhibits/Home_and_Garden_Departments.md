@@ -10,7 +10,7 @@ Description: Exibit information and entry rules
 
 DIRECTOR: Megan Sutton, 545-2475
 
-## GENERAL GUIDLINES
+## GENERAL GUIDELINES
 
 Welcome to the Home & Garden Departments. Our goal is to showcase and
 celebrate your skills in the domestic arts. Thank you for sharing your work with
@@ -39,11 +39,10 @@ is provided but not guaranteed.
 be picked up between 9:00 p.m. and 10:00 p.m. Saturday, or from 10:00 a.m. to 1:00 p.m.
 on Sunday, August 15th. Please bring your receipts when you pick up your items. Prizes not
 picked up at these times will be forfeited.
-1. Addison County Field Days is sponsoring
-2. premiums in the Home and Garden Departments for the top 3 scores in each class, not
+1. Addison County Field Days is sponsoring premiums in the Home and Garden Departments for the top 3 scores in each class, not
 including those who win another prize.
 
-## DEPARTMENT: HG 1-HANDICRAFTS
+# HANDICRAFTS
 SUPERINTENDENTS: Lee Greenewalt, 758-2598; Lynn Stewart Parker, 453-4372
 
 ### RULES
@@ -64,8 +63,7 @@ within the last year.
 ### CATEGORIES & CLASSES
 Please enter only items listed below.
 
-#### A. KNITTING - Please specify whether natural
-#### or synthetic fiber
+#### A. KNITTING - Please specify whether natural or synthetic fiber
 
 ##### Sweaters
 1. Adult
@@ -90,33 +88,32 @@ Please enter only items listed below.
 14. Afghans
 15. Dishcloths
 
-##### Felted (felled) knitting
+##### Felted (fulled) knitting
 16. Mittens or slippers
 17. Bags
 
 ##### Other
-18. Toys
+18. Knitted item not listed above
 
-#### B. CROCHETING - please specify whether natural 
-#### synthetic fiber
+#### B. CROCHETING - please specify whether natural or synthetic fiber
 
-#### Garments
+##### Garments
 19. Adult
 20. Child
 21. Infant
 
-#### Accessories
+##### Accessories
 22. Hats
 23. Scarves
 24. Shawls
 25. Slippers
 
-#### Home Decor
+##### Home Decor
 26. Afghans
 27. Tablecloths, Curtains
 28. Potholders, Dishcloths
 
-#### Other
+##### Other
 29. Toys
 30. Crocheted items not listed above
 
@@ -136,7 +133,7 @@ Please enter only items listed below.
 ##### Handspun skeins (washed and tied 2 oz. skein)
 36. Bulky weight
 37. Worsted weight
-38. Sport weight or ?ner
+38. Sport weight or finer
 39. Yarn spun on a drop spindle
 
 #### D. FELTING
@@ -146,18 +143,18 @@ Please enter only items listed below.
 41. Flat pieces: Rugs, Scarves
 42. Toys, Sculptures
 
-##### Needle felting
+#### Needle felting
 43. Toys, Sculptures
 44. Flat pieces
 
-#### E. WEAVING
+##### E. WEAVING
 45. Home Décor (blankets, rugs, towels,
 potholders)
 46. Wearables (clothing, bags scarves)
 47. Bands and Belts
 48. Other woven items
 
-#### F. SEWING
+##### F. SEWING
 49. Adult garment
 50. Child’s garment
 51. Stuffed toys
@@ -183,7 +180,7 @@ potholders)
 63. Other quilted items
 64. Tied quilts
 
-#### H. EMBROIDERY and NEEDLEPOINT
+##### H. EMBROIDERY and NEEDLEPOINT
 65. Cross-stitch - framed picture
 67. Cross-stitch - other item
 68. Crewel work - any item
@@ -266,37 +263,41 @@ potholders)
 ### SPONSORED AWARDS
 
 #### KNITTING & CROCHETING:
-1. Ervin Henecke Award from Twist O’Wool Guild ~ $25.00 — Most Outstanding NATURAL FIBER entry in
+1. Ervin Henecke Award from Twist O’Wool Guild ~ $25.00 for Most Outstanding NATURAL FIBER entry in
 Knitting & Crocheting categories.
 1. Patricia Henecke Award from Twist O’Wool Guild ~ $25.00 for Most Outstanding entry of Socks Category 
 1. Deb Kinder McClay Award ~ $20.00 for an outstanding crocheted or knit baby item demonstrating creative use of color and design.
 1. Hermit Thrush Fiber Co. ~ $25.00 gift certifcate -Top Youth winner, 18 year & under, in Knitting & Crocheting categories.
 
 #### HANDSPUN YARN:
-1. Twist O’Wool Guild ~ Award $25.00 - for the Most
+1. Twist O’Wool Guild Award ~ $25.00 for the Most
 Outstanding Item made from Hand Spun Yarn.
-2. FELTING: Twist of Wool Guild award-SZS for most outstanding
+
+#### FELTING 
+1. Twist of Wool Guild Award ~ $25.00 for most outstanding
 felted item, any technique
-3. WEAVING: Eleanor Boucher Memorial Award from Twist O’Wool
+
+#### WEAVING 
+1. Eleanor Boucher Memorial Award from Twist O’Wool
 Guild ~ $25.00 for most outstanding woven article
 (includes baskets).
 
 #### SEWING:
 1. Middlebury Sew ’N’Vac ~ $50.00 Gift Certificate - for
 Best Sewn Garment
-1. Middlebury Sew’N’Vac, $25 gift certificate for the most
+1. Middlebury Sew’N’Vac ~ $25.00 gift certificate for the most
 outstanding garment sewn by a youth.
 
-### QUILTING:
-1. The Quilters’ Corner at Middlebury Sew’N’Vac- $25 and
+#### QUILTING:
+1. The Quilters’ Corner at Middlebury Sew’N’Vac ~ $25 and
 a $25 gift certificate, for the most outstanding quilt.
-1. The Quilters’ Corner at Middlebury Sew’N’Vac— $25 and
+1. The Quilters’ Corner at Middlebury Sew’N’Vac ~ $25 and
 a $25 gift certificate, for the most outstanding quilt
 quilted by a professional on a commercial machine.
-1. The Quilters’ Corner at Middlebury Sew’N’Vac— $25 and
+1. The Quilters’ Corner at Middlebury Sew’N’Vac ~ $25 and
 a $25 gift certificate, for the most outstanding other
 quilted item (pillow, bag, wall hanging, etc.)
-1. The Quilters’ Corner at Middlebury Sew’N’Vac— $25 gift
+1. The Quilters’ Corner at Middlebury Sew’N’Vac ~ $25 gift
 certificate for the most outstanding quilt by youth.
 
 #### EMBROIDERY & NEEDLEPOINT:
@@ -323,7 +324,7 @@ entries in Woodworking & Woodcarving
 #### RECYCLED CRAFTS:
 1. Bethany Barry Award $100.00 for the most creative 
 reuse of face masks.
-3. Bethany Barry Award $75.00 forthe most creative shopping bag
+2. Bethany Barry Award $75.00 forthe most creative shopping bag
 made out of recycled materials.
 
 #### OVERALL HANDICRAFTS:
@@ -380,21 +381,22 @@ should be attached so that it does not show above the frame. Please note: there 
 be no materials at the Home and Garden Building for you to use. Framing should be
 complete prior to arriving with your entry.
 
-## CATEGORIES & GLASSES (NOTE CHANGES)
+### CATEGORIES & GLASSES 
 
-###  AMATEUR ART
-A. Oil
-B. Acrylic
-C. Waterco|or
-D. Prints -Wood/Linoleum Block, Monoprints, Etching
-E. Charcoal
-F. Pen and Ink Including gel pens
-G. Pastel
-H. Collage
-l. Other — ie: Mixed — Media, Including markers
-J. Pencil
+####  AMATEUR ART
 
-### AMATEUR FOLK ART — 
+ A. Oil
+ B. Acrylic
+ C. Waterco|or
+ D. Prints - Wood/Linoleum Block, Monoprints, Etching
+ E. Charcoal
+ F. Pen and Ink Including gel pens
+ G. Pastel
+ H. Collage
+ I. Other — ie: Mixed — Media, Including markers
+ J. Pencil
+
+#### AMATEUR FOLK ART — 
 Folk Art is not judged on artistic skill, but on the piece’s
 ability to express a feeling or evoke an image of a person’s culture or heritage. Folk
 Art can be in any medium and is often made of found or reused materials. Folk
@@ -405,17 +407,19 @@ culture, many pieces also serve a utilitarian function.
 Entrants in the Folk Art category may include a paragraph about their work. It may
 include what inspired the piece, their choice of materials, and/or what they are
 hoping to convey.
-A. Painted Surfaces
-B. Other Constructions
 
-### AMATEUR PHOTOGRAPHY — Black and White or Color in all classes. One entry
+ A. Painted Surfaces
+ B. Other Constructions
+
+#### AMATEUR PHOTOGRAPHY — Black and White or Color in all classes. One entry
 per class. All images should seek to capture a moment, convey a feeling or tell a
 story.
-A. Landscape/Nature
-B. PeopIe/Portrait
-C. TraveI/Architecture
 
-###  PHOTO CHALLENGE
+ A. Landscape/Nature
+ B. PeopIe/Portrait
+ C. TraveI/Architecture
+
+####  PHOTO CHALLENGE
 
 2021: Best Color Photo Children with their pets
 
@@ -430,7 +434,7 @@ presentation, composition, technique and expression/creativity. You may call one
 of the superintendents for more detailed criteria.
 
 ### SPONSORED AWARDS
-1. Best Entry in Art - All ages $25 gift certificate Main Street Stationary
+1. Best Entry in Art ~ All ages $25 gift certificate Main Street Stationary
 1. Best Color Rendering
     - Adult $25 Gift Certificate Middlebury Frame Shop
     - Youth 4-12 years Art Supplies
@@ -453,8 +457,8 @@ of the superintendents for more detailed criteria.
 1. People’s Choice Award-Photography
     - All ages $25
 
-In addition, Woody Jackson, Helen Freismuth, and one
-anonymous donor have helped underwrite prizes.
+In addition, Woody Jackson, Helen Freismuth, Robin Davis, Megan Sutton, and
+anonymous donors have helped underwrite prizes.
 
 # FLOWER SHOW
 
@@ -519,8 +523,7 @@ minimum of 6 weeks.
 19. Miniature arrangement, not more than 5”x5” including all props and plant material
 20. Scene or grouping using a child’s toy up to 12”x 18”
 
-### D. CHILDREN'S PLANT CLASSES - Pot size 12” or less: potted and maintained by 
-### exhibitor a minimum of 6 weeks.
+### D. CHILDREN'S PLANT CLASSES - Pot size 12” or less: potted and maintained by exhibitor a minimum of 6 weeks.
 21. Summer Mixed Container
     -  ages 4—8
     -  ages 9-18
@@ -532,18 +535,20 @@ minimum of 6 weeks.
     - ages 9—18
 
 ### SPONSORED AWARDS:
-A. Law Firm of Fred Peet Award: $30.00 for Most Outstanding Exhibit by Youth (18
+
+ A. Law Firm of Fred Peet Award: $30.00 for Most Outstanding Exhibit by Youth (18
 and under)
-B. Middlebury AGWAY, Farm & Garden Center Award: $30.00 gift certificate for
+ B. Middlebury AGWAY, Farm & Garden Center Award: $30.00 gift certificate for
 Most Outstanding Exhibitor.
-C. Cole’s Flowers: $30.00 for Most Unique Design by Adult.
-D. Shallow Rock Greenhouse Award: $30.00 for Most Outstanding Plant Entry.
-E. January Stearns - Realtor, Champlain Valley Properties: $25 for Best Entry
+ C. Cole’s Flowers: $30.00 for Most Unique Design by Adult.
+ D. Shallow Rock Greenhouse Award: $30.00 for Most Outstanding Plant Entry.
+ E. January Stearns - Realtor, Champlain Valley Properties: $25 for Best Entry
 by Youth aged 4-8 years.
-F. Heather Morse - Greentree Real Estate: $30.00 for Most Outstanding Adult Entry.
+ F. Heather Morse - Greentree Real Estate: $30.00 for Most Outstanding Adult Entry.
 
 ## COMMERCIAL FLOWER SHOW
-### RULES
+
+#### RULES
 Please read carefully. These Rules apply along with and in addition to the General
 Rules for the Home & Garden Department and the General Rules of Addison County Fair &
 Field Days.
@@ -561,7 +566,8 @@ Reminder: Entries must be completely removed between 9-10:00 pm. on
 Saturday or 10-1:00 pm. on Sunday.
 
 ## COMMERCIAL NURSERY SHOW
-### RULES
+
+#### RULES
 Please read carefully. These Rules apply along with and in addition to the General Rules for the
 Home & Garden Department, and the General Rules of Addison County Fair & Field Days.
 1. A Commercial Nursery Exhibitor is defined as any person or persons producing trees,
@@ -579,7 +585,7 @@ freshness of their display throughout the week.
 Reminder: Entries must be completely removed between 9-10:00 pm. on
 Saturday or 10-1:00 pm. on Sunday.
 
-## GARDEN PRODUCTS
+# GARDEN PRODUCTS
 
 SUPERINTENDENTS:
 - Peg Allen, 623-6211; 
@@ -699,7 +705,7 @@ Department, and the General Rules of Addison County Fair
 & Field Days.
 
 1. A Commercial Gardener is defined as any
-person or persons growing produce for pro?t.
+person or persons growing produce for profit.
 2. Exhibitors will be allotted an empty 4ft. by 3ft. area
 each, to create a display of their produce using their
 own display materials and incorporating a farm or
@@ -717,7 +723,7 @@ Reminder: Entries must be completely removed between
 # FOODS
 INTERIM SUPERINTENDENT: Megan Sutton, 545-2475
     
-## RULES
+### RULES
 **ALL these classes are for AMATEURS. No Professionals.**
 
 Please read carefully. These Rules apply along with, and in addition to, the General
@@ -747,7 +753,7 @@ Days.
 check-in staff, if the RULES have not been followed (ie. using a pre—packaged pie crust).
 
 ## CATEGORIES & GLASSES
-### RAISED BREADS
+### A. RAISED BREADS
 1. White Loaf
 2. Wheat Loaf
 3. Fruited Loaf (other than apple)
@@ -757,83 +763,83 @@ check-in staff, if the RULES have not been followed (ie. using a pre—packaged 
 7. Sweet Rolls (4)
 8. Misc. Yeast Bread / Rolls (4)
 9. Donuts Raised (4)
-1. Coffee Cake Raised
-1. Bagels (4)
-### QUICK BREADS & PASTRY
-1. Loaf
-1. Fruited Loaf (other than apple)
-1. Specialty / Unusual Loaf
-1. Muffins (4)
-1. Biscuits (4)
-1. Scones (4)
-1. Donuts (4)
-1. Coffee Cake
-1. Misc. Quick Bread
-### CAKES (not to exceed 10” in diameter)
-1. Layered (frosted)
-1. Loaf
-1. Sponge
-1. Angel
-1. Chiffon
-1. Cheesecake
-1. Cupcakes (frosted) (4)
-1. Special Needs (Gluten Free, Sugar Free, Etc.)
-1. Misc. Cake or Cupcakes (4)
-### DECORATED CAKES & CUPCAKES
-1. Youth Decorated Cupcakes (4)
-1. Adult Decorated Cupcakes (4)
-1. Youth Decorated Cake
-1. Adult Decorated Cake
-### COOKIES
-1. Brownies (4)
-1. Shortbread (4)
-1. Drop (4)
-1. Bar (4)
-1. Rolled (4)
-1. Filled (4)
-1. NO BAKES (4)
-1. Misc. Cookies (4)
-###  DESSERT PIES orTARTS
-1. Pie (other than apple)
-1. Tart (other than apple)
-1. Misc. (other than apple)
-###  APPLE BAKED GOODS
-1. Apple Pie
-1. Other Baked Item with Apples
-###  DAIRY FOODS 
+10. Coffee Cake Raised
+10. Bagels (4)
+### B. QUICK BREADS & PASTRY
+12. Loaf
+13. Fruited Loaf (other than apple)
+14. Specialty / Unusual Loaf
+15. Muffins (4)
+16. Biscuits (4)
+17. Scones (4)
+18. Donuts (4)
+19. Coffee Cake
+20. Misc. Quick Bread
+### C. CAKES (not to exceed 10” in diameter)
+21. Layered (frosted)
+22. Loaf
+23. Sponge
+24. Angel
+25. Chiffon
+26. Cheesecake
+27. Cupcakes (frosted) (4)
+28. Special Needs (Gluten Free, Sugar Free, Etc.)
+29. Misc. Cake or Cupcakes (4)
+### D. DECORATED CAKES & CUPCAKES
+30. Youth Decorated Cupcakes (4)
+31. Adult Decorated Cupcakes (4)
+32. Youth Decorated Cake
+33. Adult Decorated Cake
+### E. COOKIES
+34. Brownies (4)
+35. Shortbread (4)
+36. Drop (4)
+37. Bar (4)
+38. Rolled (4)
+39. Filled (4)
+40. NO BAKES (4)
+41. Misc. Cookies (4)
+### F. DESSERT PIES orTARTS
+42. Pie (other than apple)
+43. Tart (other than apple)
+44. Misc. (other than apple)
+### G. APPLE BAKED GOODS
+45. Apple Pie
+46. Other Baked Item with Apples
+### H. DAIRY FOODS 
 2 or more main ingredients must be a real dairy product
-1. Main Dish
-1. Baked Goods
-###  HONEY BAKED GOODS
-1. Honey Baked (must include at least 1/3 cup of VT
+47. Main Dish
+48. Baked Goods
+### I. HONEY BAKED GOODS
+49. Honey Baked (must include at least 1/3 cup of VT
 honey)
-###  KING ARTHUR FLOUR CONTEST
+### J. KING ARTHUR FLOUR CONTEST
 Special rules: Entrants will show proof of using King Arthur Flour by either bringing in an open bag or a UPC label from a bag when submitting entry. The food item will not be accepted for entry in these 2 classes without UPC proof.
-1. Coffee Cake - Any type: Youth contest ages 18 and under
-1. Coffee Cake - Any type: Adult contest ages 19+
-### CANDIES
-1. Fudge (6)
-1. Brittle / Bark (4 servings)
-1. Chocolates (6)
-1. Caramels (6)
-1. Misc. Candies (6)
-### CANNING (2 jars each)
+50. Coffee Cake - Any type: Youth contest ages 18 and under
+51. Coffee Cake - Any type: Adult contest ages 19+
+### K. CANDIES
+52. Fudge (6)
+53. Brittle / Bark (4 servings)
+54. Chocolates (6)
+55. Caramels (6)
+56. Misc. Candies (6)
+### L. CANNING (2 jars each)
 Special rules: 
     - Exhibitors name MUST NOT be attached to entry. 
     - Must have been produced within the last 12 months and in clean jars. 
     - N0 parafin accepted.
     - No jars will be opened for tasting. 
-1. Fruit (2)
-1. Vegetables (2)
-1. SoftSpreads (Jelly/Jam) (2)
-1. Pickles (2)
-1. Misc. Canning (2)
+57. Fruit (2)
+58. Vegetables (2)
+59. SoftSpreads (Jelly/Jam) (2)
+60. Pickles (2)
+61. Misc. Canning (2)
 
 ### SPONSORED AWARDS:
 To be announced
 
 
-### WANDA GOODYEAR MEMORIAL BAKED BEAN CONTEST
+# WANDA GOODYEAR MEMORIAL BAKED BEAN CONTEST
 (Formerly the Baked Bean Bonanza!)
 
 SUPERINTENDENT: Peg Allen, 623-6211. Saturday August 14th
