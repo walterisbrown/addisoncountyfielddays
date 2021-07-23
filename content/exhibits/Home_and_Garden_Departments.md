@@ -824,11 +824,13 @@ Special rules: Entrants will show proof of using King Arthur Flour by either bri
 55. Caramels (6)
 56. Misc. Candies (6)
 ### L. CANNING (2 jars each)
-Special rules: 
-    - Exhibitors name MUST NOT be attached to entry. 
-    - Must have been produced within the last 12 months and in clean jars. 
-    - N0 parafin accepted.
-    - No jars will be opened for tasting. 
+Special rules:
+    - Entries will be judged on appearance, packaging, and cleanliness of containers.
+    - Exhibitors name must not be attached to entry.
+    - Must have recipe and method of processing.
+    - Must have been produced within the last 12 months. 
+    - Parafin is not acceptable.
+    - Jars are not opened for judging. 
 57. Fruit (2)
 58. Vegetables (2)
 59. SoftSpreads (Jelly/Jam) (2)
