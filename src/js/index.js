@@ -20,3 +20,7 @@ if ('serviceWorker' in navigator) {
 
 // Style tables in markdown content
 $('.markdown-content table').addClass('table table-striped table-hover');
+
+$('.toggle-all-panels').on('click', function () {
+  $('.panel-collapse').collapse('show');
+});
