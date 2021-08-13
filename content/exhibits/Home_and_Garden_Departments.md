@@ -36,7 +36,7 @@ Garden Building. Winners will be notified and are encouraged to attend.
 1. Items are entered for display at your own risk. Our building is locked overnight and security
 is provided but not guaranteed.
 1. All entries are to remain in place until 9:00 p.m. Saturday, August 14th. Items may
-be picked up between 9:00 p.m. and 10:00 p.m. Saturday, or from 10:00 a.m. to 1:00 p.m.
+be picked up between 9:00 p.m. and 10:00 p.m. Saturday, or from 10:00 a.m. to 12:00 p.m.
 on Sunday, August 15th. Please bring your receipts when you pick up your items. Prizes not
 picked up at these times will be forfeited.
 1. Addison County Field Days is sponsoring premiums in the Home and Garden Departments for the top 3 scores in each class, not
@@ -442,10 +442,10 @@ of the superintendents for more detailed criteria.
 1. Best Black and White Rendering
     - Adult $25 Gift Certificate Otter Creek Framing
     - Youth 4-12 years Art Supplies
-    - Youth 13-18 years Art Suppliesy
+    - Youth 13-18 years Art Supplies
 1. Best Entry in Folk Art
     - Adult $25 Gift Certificate Vermont Folklife Center
-    - Youth 4-18 Laurel Lynn”Tigger”Folk Art Award
+    - Youth 4-18 Laurel Lynn ”Tigger” Folk Art Award
 1. Best Photograph
     - Adult $50 Nancy Snow Kurrelmeyer Photography Award
     - Youth 4-12 $25 Abi Sessions Photography Award
@@ -583,7 +583,7 @@ All other entries will receive $50.00 Special Ribbons will also be awarded.
 5. Each Exhibitor will be issued a season pass. Exhibitors are encouraged to maintain
 freshness of their display throughout the week.
 Reminder: Entries must be completely removed between 9-10:00 pm. on
-Saturday or 10-1:00 pm. on Sunday.
+Saturday or 10-12:00 pm. on Sunday.
 
 # GARDEN PRODUCTS
 
@@ -943,11 +943,12 @@ Field Days director or superintendent involved in Foods & Handicrafts Department
 # ANNUAL FRANCES MONROE YOUTH AWARD
 
 Frances Monroe was the Director of the Home & Garden Departments from 1986 to 2010. Frances
-and her committee greatly increased the number of exhibitors and she spearheaded the efort to
+and her committee greatly increased the number of exhibitors and she spearheaded the effort to
 erect the current building in 1994.
 Starting in 2012, the Home & Garden departments will honor the memory of FRANCES
 MONROE by awarding an outstanding youth, aged 13 through 18, with a memento and their
-name on a displayed plaque.
+name on a displayed plaque. As is the case with the Leona Thompson award, an individual may win
+this award up to 3 times.
 
 
 
@@ -977,8 +978,8 @@ name on a displayed plaque.
     - Blue Ribbon – 5 points
     - Red Ribbon – 3 points
     - White Ribbon – 1 point
-5. The top two scores in each department will determine the fnal score.
-6. In event of a tie, recipient of the AWARD will be decided by the Home & Garden
+5. The top two scores in each department will determine the final score.
+6. In the event of a tie, the recipient of the award will be decided by the Home & Garden
 committee.
     
 
