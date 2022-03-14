@@ -3,6 +3,8 @@ Title: Weddings
 Description: Have your wedding at the fair and field days grounds.
 */
 
+# Your special day at the fair!
+
 
 Looking for a natural setting for your wedding, well look no furter.  Addison County Fair & Field Days is the perfect place for you!
 
