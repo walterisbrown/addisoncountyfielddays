@@ -102,32 +102,29 @@ bedding or will be able to buy shavings at the fair.
 ## CLASSES
 Limit of one group per exhibitor in each group classes.
 
-1. Spring Heifer Calf born Feb 28, 2019-May 15, 2019
-2. Winter Heifer Calf born Dec. 1, 2018-Feb. 28, 2019
-3. Fall Heifer Calf born Sept. 1, 2018-Nov. 30, 2018
-4. Summer Yearling Heifer born June 1, 2018-Aug. 1, 2018
-5. Spring Yearling Heifer born Mar. 1, 2018-May 31, 2018
-6. Winter Yearling born Dec. 1, 2017-Feb. 28, 2018
-7. Fall Yearling born Sept. 1, 2017-Nov. 30, 2017
+1. Spring Heifer Calf born March-May 1- 2021
+2. Winter Calf born December-February 2022
+3. Fall Heifer Calf born September-November 2021
+4. Summer Yearling Heifer born June-August 2021
+5. Spring Yearling Heifer born March-May 2021
+6. Winter Yearling born December 2020-February 2021
+7. Fall Yearling born September-November 2021
 8. Junior Champion
 9. Reserve Junior Champion
 10. Junior Best Three
-11. Junior Two-Year-Old Cow (must have freshened), born Mar. 1, 2016-Aug. 31, 2017
-12. Senior Two-Year-Old Cow (must have freshened), born Sept. 1, 2015-Feb. 29, 2017
-13. Junior Three-Year-Old Cow, born Mar. 1, 2016-Aug. 31, 2016
-14. Senior Three-Year-Old, born Sept. 1, 2015-Feb. 28, 2016
-15. Four-Year-Old Cow, born Sept. 1, 2014-Aug. 31, 2015
-16. Five-Year-Old Cow, born Sept. 1, 2013-Aug. 31, 2014
-17. Six-Year-Old and Older Cow born before Sept. 1, 2013
-18. Three & Four Year Old Dry Cow born Sept. 1, 2014-Aug. 31, 2016
-19. Five-Year-Old & Older Dry Cow born before Sept. 1, 2014
-20. Senior Champion Female
-21. Reserve Senior Champion Female
-22. Grand Champion Female
-23. Reserve Grand Champion Female
-24. Best Three Females
-25. Produce of Dam
-
+11. Junior Two-Year-Old Cow (must have freshened), born March-August 2020
+12. Senior Two-Year-Old Cow (must have freshened), born September 2019-February 2020
+13. Junior Three-Year-Old Cow, born March-August 2019
+14. Senior Three-Year-Old, born September-February 2019
+15. Four-Year-Old Cow, born September 2017-August 2018
+16. Five-Year-Old Cow, born September 2016-August 2017
+17. Aged Cow born before September 2016
+18. 100,000 Lifetime Merit Production Cow
+19. Produce of Dam
+20. Dam & Daughter
+21. Senior Best Female
+22. Grand Champion
+23. Reserve Grand Champion 
 
 
 ### Premiums
