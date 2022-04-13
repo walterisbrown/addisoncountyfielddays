@@ -6,7 +6,7 @@ Description: Exibit information and entry rules
 # Ox, Horse and Pony Pulling
 Wednesday, 9:30 am.
 
-SUPERINTENDENT: Jim Weening, 349-0932; 
+SUPERINTENDENT: Benj Deppman (802)734-1381
 
 JUDGE: Dave Stearns
 
@@ -19,10 +19,10 @@ JUDGE: Dave Stearns
 1. Contest will be governed by the New England Ox Teamsters Association rules.
 2. Oxen are entered at owner’s risk. The Corporation will not assume responsibility for
 damage to oxen, drivers, or any equipment or articles sent to the show.
-3. Address any inquiries to: Jim Weening-349-0932.
+3. Address any inquiries to: Benj Deppman (802)734-1381.
 4. A current Rabies vaccination certifcate is required.
 5. Out of state animals must have interstate health papers to participate.
-6. Prizes: 1st-$160, 2nd-$120, 3rd-$100, 4th-$80, 5th-$70, 6th-$60.
+
 
 ### Classes
 1. 2000 lbs and under
@@ -31,11 +31,26 @@ damage to oxen, drivers, or any equipment or articles sent to the show.
 4. 3,200 pounds
 5. Free-for-all to follow
 
+#### Prizes Oxen 4 classes:
+1. $170
+2. $130
+3. $110
+4. $90
+5. $80
+6. $70
+
+#### Prizes-Oxen Free for all:
+1. $240
+2. $210
+3. $180
+4. $150
+5. $120
+6. $110
 
 ## HORSE AND PONY PULLING
 Thursday and Friday
 
-SUPERINTENDENT: Jim Weening, 349-0932
+SUPERINTENDENT: Benj Deppman (802)734-1381
 MANAGER/JUDGE: Terry Malone, 933-4435
 
 ### RULES
@@ -58,12 +73,12 @@ Thursday, 10:30 am
 3. Free-for-all-to follow. 12 foot pull
 
 #### Prizes:
-1. $120
-2. $90
-3. $70
-4. $60
-5. $5O
-6. $4O
+1. $160
+2. $130
+3. $110
+4. $70
+5. $60
+6. $50
 
 ### HORSE PULLING
 Contest will be governed by the New England Draft Pony Association Rules.
@@ -76,14 +91,14 @@ Friday, 10:00 am.
 3. Free-for—all — 6 feet to follow. 12 foot pull
 
 #### Prizes: 
-1. $160
-2. $120
-3. $100
-4. $80
-5. $70
-6. $60
-7. $40
-8. $40, 
-9. $40,
-10. $40
+1. $170
+2. $130
+3. $110
+4. $70
+5. $60
+6. $50
+7. $50
+8. $40 
+9. $40
+10.$40
 
