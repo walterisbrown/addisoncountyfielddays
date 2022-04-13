@@ -110,20 +110,20 @@ The youngster's version of the real thing. Come on down and watch the fun and ch
 
 ## VERMONT PRODUCTS DINNER
 > "A Taste of Vermont"
-Tuesday, August 10, 2021 — Three Seatings: 5:15, 6:00 & 6:45 p.m.
+Tuesday, August 9, 2022 — Three Seatings: 5:15, 6:00 & 6:45 p.m.
 
 LOCATION: the Dining Hall 
 
-COORDINATOR: Linda Barrett, -545-2263
+COORDINATOR: Linda Barrett, (802)545-2263
 
 Take a break from the sun or rain! Come into the Field Days Dining Hall and enjoy a sit-down meal with family and friends! Restaurants and food producers from Addison County and beyond will
 present a delicious buffet for your dining pleasure. 
 Multiple entrees, dessert, and beverage will be available and served by local student athletes and participating food producers.
-Tickets for adultsare just $10; children under 10 years are $5. 
+Tickets for adults are just $10; children under 10 years are $5. 
 
-Tickets will be on sale starting July 1st, by calling the Field Days office at 545-255 or by email at fielddays at gmavt.net.
+Tickets will be on sale starting July 1st, by calling the Field Days office at (802)545-2557 or by emailing fielddays@gmavt.net. or at Pratt's Store in Bridport and Middlebury Inn.
 
-See the ad in the Addison Independent for additional area businesses that will have tickets available.
+
 
 
 ## ARMWRESTLING
