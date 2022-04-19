@@ -468,36 +468,36 @@ SUPERINTENDENT: Lynn Clohessy, 989-2752
 ### RULES
 Please read carefully. These Rules apply along with and in addition to the General
 Rules for the Home & Garden Department and the General Rules of Addison County Fair & Field
-Days. Entries will be accepted at the HOME 8: GARDEN CENTER BUILDING on Monday, August
+Days. Entries will be accepted at the HOME & GARDEN CENTER BUILDING on Monday, August
 9th between 9:00 am. & 12:30 pm. Floral entries are discouraged from being entered during 
 Sunday acceptance hours to ensure freshness. Plant classes are welcome both days.
 
 1. Exhibitors must bring their own containers.
-2. All floral arrangements will bejudged on horticultural perfection as well as artistic
+2. All floral arrangements will be judged on horticultural perfection as well as artistic
 arrangement.
 3. Due to limited space, no Floral arrangement will be accepted that exceeds
 12”x18”
 4. All plants will be judged on health and development. Plant classes 11 — 14 must be
 owned and maintained a minimum of six months. Exception: Summer container.
-5. This Flower Show is for amateurs only. All floral arrangements must have been done by
+5. This Flower Show is for amateurs only. All floral arrangements must have been done
 by the exhibitor.
 6. Children’s arrangements must have been done by the child, reflecting ability
 appropriate for the age of the exhibitor.
 
 ### CATEGORIES & GLASSES (NOTE CHANGES)
-### A. FLORAL ARRANGEMENT CLASSES: not to exceed 12”x 18”
+### A. FLORAL ARRANGEMENT CLASSES: Not To Exceed 12”x 18”
 1. Centerpiece (To be viewed from all sides)
 2. Bouquet of mixed wildflowers
 3. Bouquet of mixed garden flowers
 4. Gladiolus
-5. Arrangement of any single variety of garden ?ower
+5. Arrangement of any single variety of garden flower
 6. Dried floral arrangement
-7. Miniature arrangement, not more than 5”x S”including all props and plant materials
+7. Miniature arrangement, not more than 5”x 5”including all props and plant materials
    a. Dried plant material
    b. Fresh plant material
 8. Holiday arrangement-fresh, dried, and/or artificial, may include accessories
 9. Unique Vase or Container Arrangement
-10. Open & unclassified - can include groupings and scenes
+10. Open & unclassified-can include groupings and scenes
 
 ### B. PLANT CLASSES: Pot size limited to 10” or less
 11. African Violets
@@ -538,7 +538,7 @@ minimum of 6 weeks.
 
  A. Law Firm of Fred Peet Award: $30.00 for Most Outstanding Exhibit by Youth (18
 and under)
- B. Middlebury AGWAY, Farm & Garden Center Award: $30.00 gift certificate for
+ B. Middlebury Farm & Garden (Agway) Award: $30.00 gift certificate for
 Most Outstanding Exhibitor.
  C. Cole’s Flowers: $30.00 for Most Unique Design by Adult.
  D. Shallow Rock Greenhouse Award: $30.00 for Most Outstanding Plant Entry.
@@ -553,17 +553,17 @@ Please read carefully. These Rules apply along with and in addition to the Gener
 Rules for the Home & Garden Department and the General Rules of Addison County Fair &
 Field Days.
 1. A Commercial Flower Exhibitor is defined as any person or persons growing
-?owers for profit.
+flowers for profit.
 2. Exhibitors will be allotted an empty 4ft. by 3ft. area each, to create a pleasing display of
-?owers using their own display materials and incorporating a farm or business sign.
-3. Each Exhibitor’s space will bejudged on overall attractiveness, creativity of display, and
+flowers using their own display materials and incorporating a farm or business sign.
+3. Each Exhibitor’s space will be judged on overall attractiveness, creativity of display, and
 condition & quality of flowers.
-4. PRIZES: 1st - $100.00; 2nd - $80.00; 3rd — $60.00
+4. PRIZES: 1st - $100.00; 2nd - $80.00; 3rd — $60.00.
 All other entries will receive $50.00. Special Ribbons will also be awarded.
 5. Each Exhibitor will be issued a season pass. Exhibitors are encouraged to maintain
 freshness of their display throughout the week.
 Reminder: Entries must be completely removed between 9-10:00 pm. on
-Saturday or 10-1:00 pm. on Sunday.
+Saturday or 10-12:00 pm. on Sunday.
 
 ## COMMERCIAL NURSERY SHOW
 
