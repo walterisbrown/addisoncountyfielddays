@@ -40,7 +40,7 @@ Brenda Deering, 545-2279
 -  Mike Reed, 759-2054
 -  Bruce Putnam, 349-6107
 -  Cindy Kayhart, 343-3862
-- James Weening, 349—0932
+- Chris Acker, 349-2342
 
 ### BUSINESS MANAGER: 
 Cara Mullin, 545-2557
