@@ -18,11 +18,10 @@ Description: Exibit information and entry rules
 ## ENTRY RULES
 1. CLASS FEE: $2.00 per class for the following (*) classes, 
 
-    CLASS  FEE:  $2.00  per  class  for  the  following  (*)  classes
-    - Conformation  *1  thru *12
+    - Conformation  *1  thru *11
     - Showmanship and Fitting Classes *1 thru *6.
     
-1. 4-H Dairy Entries are due July 19
+1. 4-H Dairy Entries are due July 21
 
     Mail entries and fees to: 
 
@@ -40,11 +39,11 @@ Description: Exibit information and entry rules
 
 1. All exhibitors and youth showing will be at least 8 years of age as of January 1st of the year of the show and under 19 as of Jan. 1st of the year of the show.
 
-1. All participants must enter both the Fitting & Showing class as well as the Conformation classes.  All  4-H  members  are  elipate  in  all  classes.    There  are  Special awards that will be awarded to Addison County 4-H members only.
+1. All participants must enter both the Fitting & Showing class as well as the Conformation classes.  All  4-H  members  are  eligible to particapate in  all  classes.    There  are  Special awards that will be awarded to Addison County 4-H members only.
 
 1. Each 4-H club will be responsible for providing adult supervision at night.
 
-1. 4-H  members  staying  overnight  must  sign  in  each  night  and  name  a  chaperone responsible.    Under  NO  circumstances  shall  a  non-chaperoned  non  4-H  member  be allowed to stay overnight in the 4-H area.  Camper sites ($150.00) and tent sites are $5 a night or $35 per week will be assigned only after camping registration forms and fees are paid to ACFFD.
+1. Non-chaperoned, non  4-H  members will not be allowed to stay overnight in the 4-H area.  Camper sites ($150.00) and tent sites are $5 a night or $35 per week will be assigned only after camping registration forms and fees are paid to ACFFD.
 
 1. Judging will also be done on: Herdsmanship and Sportsmanship, which will be judged continually throughout the week. Appearance of exhibitor, neatness of club exhibit area, attitude of exhibitor, cooperation for individual members and clubs, exhibit equipment and public safety.  A Club Exhibit Display rosette will be awarded to the club with the best presentation arrangements (decorations, name cards, information).
 
@@ -67,13 +66,31 @@ A Universal Dairy Health Form for 4-H Animals must be available for inspection a
 
 ### HEALTH REGULATIONS
 
-1. Rabies vaccination with veterinarians certification to verify the vacination atleast 30 days before the fair begins.  Rabies vaccinations are good for only one year
-1. Vaccination required for shipping fever (respitory diesease)
-1. Animals showing any signs, symtops, suspicions or evidence of any contagious disease, sickness  or  disorder  (including,  but  not  limited  to,  mange,  warts,  pinkeye,  ringworm, scabies,  foot  rot)  shall  be  barred  from  the  grounds  upon  arrival  and/or  at  any  time during the show when such is detected.
-1. All animals over 6 months of age must have no horns, horn stubs 1 inch only.
-1. Dairy Leaders and Superintendents will inspect animals for diseases and horns. 
-1. Dairy animals will be located and tied in the 4-H Dairy Building according to instruction of the superintendents and/or the 4-H leader.  No animal is allowed out of the stall area without being haltered and under control.  
-1. 4-H  Dairy  Barn  bedding  is  furnished.    Exhibitors  must  bring  their  own  hay,  grain,  and water pails.  Wash hoses must be nozzled during use. There will be no water tub.
+All livestock must comply with the following health requirements. Livestock include dairy cattle, beef cattle, sheep, goats, pigs, and camelids.
+1.)	Certificate of Veterinary Inspection (CVI)
+•	All livestock must be listed on a valid CVI signed and dated within 30 days of arrival.
+•	Official identification and vaccination information must be listed on the CVI.
+
+2.)	Rabies Vaccination
+•	All animals over 4 months of age must be vaccinated for rabies a minimum of 30 days and a maximum of 365 days prior to arrival. Vaccination for animals less than 4 months of age is recommended.
+•	Vaccination less than 30 days prior to arrival is only acceptable for animals less than 4 months of age.
+•	There is no approved rabies vaccine for goats, camelids, and swine. Extra-label use of rabies vaccine in these species is acceptable and should be considered in consultation with your veterinarian.
+3.)	All animals should be in good physical condition and be free of open or draining wounds.
+4.)	All animals should be free of visual evidence of infectious, contagious, or parasitic diseases at time of arrival.
+5.)	Animals arriving from outside the State of Vermont must have an import permit.
+6.)	Check-in Procedures
+•	All animals and their accompanying documentation will be examined prior to entering the facilities by the superintendent or their designee.
+•	Any animals which do not meet the health requirements will not be permitted in the facilities until examined by a veterinarian at which time a determination will be made.
+Additional Species Specific Health Requirements
+Cattle
+1.)	Official Individual Identification
+•	All cattle must have a USDA approved official ear tag. These include metal NUES tags, visual 840 tags, and 840 RFID tags.
+2.)	Shipping Fever Vaccination
+•	All cattle must be vaccinated for shipping fever a minimum of 14 days and a maximum of 6 months prior to arrival with a product which includes IBR, BVD, PI3 and BRSV.
+3.)	Horns
+•	All cattle over one month of age with the exception of working steers must be dehorned. Dehorning sites must be healed (no open or draining wounds are permitted).
+•	Horn stubs/scurs must be less than 1”.
+
 
 ### Show Participation Expectations
 
@@ -87,41 +104,24 @@ A Universal Dairy Health Form for 4-H Animals must be available for inspection a
 1. Club  awards  will  be  presented  on  Saturday  at  lunch  break,  at  the  Dairy  Ring.    All members and clubs should be represented.
 1. Barn lights will be turned out 11:00 p.m. – 4:00 a.m. (only milkers allowed).  Doorways will be chained to contain loose animals at night & water turned off.
 
-### CONSEQUENCES of VIOLATIONS and INFRACTIONS
-
-Depending upon the severity of the infraction of any of the above rules or other rules
-posted at fair time, the punishment can include, but is not restricted to the following:
-
-- Send the member and their animal home.
-- Withhold premiums to the club.
-- Recommend exclusion from participating in the rest of the Vermont Fairs and 4-H events.
-- Not allowed back in future years.
-
 
 ## 4-H DAIRY CLASSES
 
 CONFORMATION CLASSES (Tuesday) $2.00/class
 
-1. Spring Calf — born between March 1 , 2021,  and April 30 , 2021 
-2. Winter Calf — born between December 1, 2020 and February 28, 2021.
-3. Fall Calf — born between September 1, 2020 and November 30, 2020.
-4. Summer Yearling Heifer— born between June 1, 2020 and August 31, 2020.
-5. Spring Yearling Heifer — born between March 1, 2020 and May 31, 2020.
-6. Winter Yearling Heifer — born between December 1, 2019 and February 29, 2020.
-7. Fall Yearling Heifer— born between September 1, 2019 and November 30, 2019.
+1. Spring Calf — born between March 1 , 2022,  and April 30 , 2022 
+2. Winter Calf — born between December 1, 2021 and February 28, 2022.
+3. Fall Calf — born between September 1, 2021 and November 30, 2021.
+4. Summer Yearling Heifer— born between June 1, 2021 and August 31, 2021.
+5. Spring Yearling Heifer — born between March 1, 2021 and May 31, 2021.
+6. Winter Yearling Heifer — born between December 1, 2020 and February 29, 2021.
+7. Fall Yearling Heifer— born between September 1, 2020 and November 30, 2020.
 
 ### Junior Champions
 
-1. Two Year Old Cow — milking — born between September 1, 2018 and August 31, 2019.
-1. Three Year Old Cow — born between September 1, 2017 and August 31, 2018.
-1. Four Year Old and Over — born before September 1, 2017.
-
-1. Young Dry Cow Class — under 5 years born after August 31, 2016.
-
-1. Aged Dry Cow born before 9/1/2016.
-
-###  Senior Champions, Grand Champions & Supreme Champion
-
+1. Two Year Old Cow — milking — born between September 1, 2019 and August 31, 2020.
+1. Three Year Old Cow — born between September 1, 2018 and August 31, 2019.
+1. Four Year Old and Over — born before September 1, 2018.
 1. Best animal bred by exhibitor — Reginald Morse Award. Proof required by either
 registration paper or past approval forms listing ownership.
 
@@ -138,22 +138,22 @@ age, same breed, any breeds.
 
 $2.00/class
 
-- Novice Class Division A: Member 8 years of age (as of January 1, 2021) who has never
+- Novice Class Division A: Member 8 years of age (as of January 1, 2022) who has never
 shown before.
 
-- Novice Class Division B: Member 9-12 years of age (as of January 1, 2021) and under
+- Novice Class Division B: Member 9-12 years of age (as of January 1, 2022) and under
 who have not shown an animal before. NOTE: Superintendents reserve the right to
 divide classes according to size.
 
-- Junior Division : 11 years of age and under as of January 1, 2021
+- Junior Division : 11 years of age and under as of January 1, 2022
 Junior Champion Showman-All First Place showmen compete from Junior Division
 Showmanship classes.
 
-- Intermediate Division: 12 to 14 years of age as of Jan 1, 2021.
+- Intermediate Division: 12 to 14 years of age as of Jan 1, 2022.
 
 - Intermediate Champion Showman & All First Place Winners from Intermediate classes.
 
-- Senior Division: Age 15 to 18 years as of January 1, 2021.
+- Senior Division: Age 15 to 18 years as of January 1, 2022.
 
 - Senior Champion Showman--All First Place winners from Senior Showmanship division
 classes. (In the event that the First Place winner in this class is a previous winner, then
