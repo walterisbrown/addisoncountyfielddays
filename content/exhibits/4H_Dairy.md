@@ -67,29 +67,28 @@ A Universal Dairy Health Form for 4-H Animals must be available for inspection a
 ### HEALTH REGULATIONS
 
 All livestock must comply with the following health requirements. Livestock include dairy cattle, beef cattle, sheep, goats, pigs, and camelids.
-1.)	Certificate of Veterinary Inspection (CVI)
-•	All livestock must be listed on a valid CVI signed and dated within 30 days of arrival.
-•	Official identification and vaccination information must be listed on the CVI.
-
-2.)	Rabies Vaccination
-•	All animals over 4 months of age must be vaccinated for rabies a minimum of 30 days and a maximum of 365 days prior to arrival. Vaccination for animals less than 4 months of age is recommended.
-•	Vaccination less than 30 days prior to arrival is only acceptable for animals less than 4 months of age.
-•	There is no approved rabies vaccine for goats, camelids, and swine. Extra-label use of rabies vaccine in these species is acceptable and should be considered in consultation with your veterinarian.
-3.)	All animals should be in good physical condition and be free of open or draining wounds.
-4.)	All animals should be free of visual evidence of infectious, contagious, or parasitic diseases at time of arrival.
-5.)	Animals arriving from outside the State of Vermont must have an import permit.
-6.)	Check-in Procedures
-•	All animals and their accompanying documentation will be examined prior to entering the facilities by the superintendent or their designee.
-•	Any animals which do not meet the health requirements will not be permitted in the facilities until examined by a veterinarian at which time a determination will be made.
+1.	Certificate of Veterinary Inspection (CVI)
+    - All livestock must be listed on a valid CVI signed and dated within 30 days of arrival.
+    - Official identification and vaccination information must be listed on the CVI.
+2.	Rabies Vaccination
+    - All animals over 4 months of age must be vaccinated for rabies a minimum of 30 days and a maximum of 365 days prior to arrival. Vaccination for animals less than 4 months of age is recommended.
+    - Vaccination less than 30 days prior to arrival is only acceptable for animals less than 4 months of age.
+    - There is no approved rabies vaccine for goats, camelids, and swine. Extra-label use of rabies vaccine in these species is acceptable and should be considered in consultation with your veterinarian.
+3.	All animals should be in good physical condition and be free of open or draining wounds.
+4.	All animals should be free of visual evidence of infectious, contagious, or parasitic diseases at time of arrival.
+5.	Animals arriving from outside the State of Vermont must have an import permit.
+6.	Check-in Procedures
+    - All animals and their accompanying documentation will be examined prior to entering the facilities by the superintendent or their designee.
+    - Any animals which do not meet the health requirements will not be permitted in the facilities until examined by a veterinarian at which time a determination will be made.
 Additional Species Specific Health Requirements
 Cattle
-1.)	Official Individual Identification
-•	All cattle must have a USDA approved official ear tag. These include metal NUES tags, visual 840 tags, and 840 RFID tags.
-2.)	Shipping Fever Vaccination
-•	All cattle must be vaccinated for shipping fever a minimum of 14 days and a maximum of 6 months prior to arrival with a product which includes IBR, BVD, PI3 and BRSV.
-3.)	Horns
-•	All cattle over one month of age with the exception of working steers must be dehorned. Dehorning sites must be healed (no open or draining wounds are permitted).
-•	Horn stubs/scurs must be less than 1”.
+1.	Official Individual Identification
+    - All cattle must have a USDA approved official ear tag. These include metal NUES tags, visual 840 tags, and 840 RFID tags.
+2.	Shipping Fever Vaccination
+    - All cattle must be vaccinated for shipping fever a minimum of 14 days and a maximum of 6 months prior to arrival with a product which includes IBR, BVD, PI3 and BRSV.
+3.	Horns
+    - All cattle over one month of age with the exception of working steers must be dehorned. Dehorning sites must be healed (no open or draining wounds are permitted).
+    - Horn stubs/scurs must be less than 1”.
 
 
 ### Show Participation Expectations
