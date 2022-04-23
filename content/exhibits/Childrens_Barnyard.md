@@ -27,12 +27,12 @@ All animals eligible for the rabies vaccine MUST have their RABIES immunization 
 before the fair and shots must be current. All out of state equine must have a
 negative coggin test. 
 
-Poultry must be state pollorum-typhoid tested(Which will be done at the
+Poultry must be state pullorum-typhoid tested(Which will be done at the
 fairgrounds upon arrival by the state veterinarian). Sheep and goats must have scrapie tags or
 be microchipped.  All other livestock must have a state approved 840 or metal ID tag which can
 be acquired thru the state.  
 
-Please Note: copies of negative coggin and pollorum-typhoid test results and current rabies
+Please Note: copies of negative coggin and pullorum-typhoid test results and current rabies
 shots need to be on file at the barn during the fair.
 
 Any animal which, in the judgment of the Field Days veterinarian OR the Barnyard Director
@@ -64,21 +64,13 @@ Exhibits will be judged on the following criteria:
 5. Interest in animal & exhibit
 
 Entries may be entered in the following:
+
 1.Children’s Division (under 8): must be attended ½ hour or more each day.
 2.Youth Division (ages 9-13): must be attended 1 hour or more each day.
 3.Young Adult (ages 14-17): must be attended 1 hour or more each day.
 4.Adult Division (over 18): must be attended 2 hours or more each day.
 5.Group Division(Under 18) must be attended 2 hours or more a day by a group of at least
 one adult and 2 children.
-
-### Judging
-
-Exhibits will be judged 0n the following criteria:
-1. Clean & neat appearance ofhandler & overall health ofanimal
-2. Educational content/informational posters
-3. Interaction with the public
-4. Knowledge ofanimal
-5. Interest in animal & exhibit
 
 
 ### Premiums
