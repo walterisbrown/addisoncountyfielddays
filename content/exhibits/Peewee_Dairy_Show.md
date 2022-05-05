@@ -8,7 +8,7 @@ Description: Exibit information and entry rules
 
 SUPERINTENDENT: Robin Severy, 897-2680
 
-Friday, 12:30 p.m. — Animal Show Arena
+Friday, 10:00 a.m. — Animal Show Arena
 
 This is a show planned especially for youngsters at least 3 and under 8 1/2 years of age
 who ate too young to show 4-H with any breed of dairy calf. For safety reasons, exhibitor

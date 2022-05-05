@@ -17,9 +17,9 @@ celebrate your skills in the domestic arts. Thank you for sharing your work with
 the fair community. For more information, please read the following guidelines:
 
 
-1. All entries will be accepted on Monday, August 9, from 9:00 a.m. to 12:30 p.m. Entries
+1. All entries will be accepted on Monday, August 8, from 9:00 a.m. to 12:30 p.m. Entries
 in the Handicrafts, Foods, Garden Products, Art & Photography departments will also be
-accepted on Sunday, August 8th, from 1:00 p.m. to 4:00 p.m. Note that all items will
+accepted on Sunday, August 7th, from 1:00 p.m. to 4:00 p.m. Note that all items will
 be judged on Monday afternoon.
 1. Exhibitors of all ages are welcome and do not need to be residents of Addison County.
 With the exception of the Commercial contests in the Flower Show and Garden Products
@@ -35,8 +35,8 @@ department. The Awards Ceremony will be held Saturday at 5:00 p.m. in the Home a
 Garden Building. Winners will be notified and are encouraged to attend.
 1. Items are entered for display at your own risk. Our building is locked overnight and security
 is provided but not guaranteed.
-1. All entries are to remain in place until 9:00 p.m. Saturday, August 14th. Items may
-be picked up between 9:00 p.m. and 10:00 p.m. Saturday, or from 10:00 a.m. to 12:00 p.m.
+1. All entries are to remain in place until 8:00 p.m. Saturday, August 13th. Items may
+be picked up between 8:00 p.m. and 9:00 p.m. Saturday, or from 10:00 a.m. to 12:00 p.m.
 on Sunday, August 15th. Please bring your receipts when you pick up your items. Prizes not
 picked up at these times will be forfeited.
 1. Addison County Field Days is sponsoring premiums in the Home and Garden Departments for the top 3 scores in each class, not
@@ -50,14 +50,14 @@ Please read carefully. These Rules apply along
 with and in addition to the General Rules for the Home &
 Garden Department, and the General Rules of Addison
 County Fair & Field Days. Entries will be accepted at the HOME
-& GARDEN CENTER BUILDING on MONDAY, August 9th between
-9:00 a.m. & 12:30 p.m. Entries for this department will also be accepted on Sunday, August 8th between
+& GARDEN CENTER BUILDING on MONDAY, August 8th between
+9:00 a.m. & 12:30 p.m. Entries for this department will also be accepted on Sunday, August 7th between
 1 - 4 pm. These classes are for amateurs.  See the definition untion H&G Rules.
 
 Unworthy, soiled or worn items will not be
 accepted or judged.
 
-Items must be made by an individual completed
+Items must be made by an individual -except for commercially quilted quilts- and completed
 within the last year.
 
 ### CATEGORIES & CLASSES
@@ -124,8 +124,8 @@ Please enter only items listed below.
 32. Hats, Mittens, Socks
 33. Shawls, Scarves
 
-##### Crocheted, any item
-34. Shawls, Scarves
+##### Crocheted
+34. any item
 
 ##### Woven
 35. Any item (commercial warp accepted)
@@ -181,8 +181,8 @@ potholders)
 64. Tied quilts
 
 ##### H. EMBROIDERY and NEEDLEPOINT
-65. Cross-stitch - framed picture
-67. Cross-stitch - other item
+65. Counted Cross-stitch - framed picture
+67. Counted Cross-stitch - other item
 68. Crewel work - any item
 69. Machine embroidery - any item
 70. Needlepoint — any item
@@ -268,6 +268,7 @@ Knitting & Crocheting categories.
 1. Patricia Henecke Award from Twist O’Wool Guild ~ $25.00 for Most Outstanding entry of Socks Category 
 1. Deb Kinder McClay Award ~ $20.00 for an outstanding crocheted or knit baby item demonstrating creative use of color and design.
 1. Hermit Thrush Fiber Co. ~ $25.00 gift certifcate -Top Youth winner, 18 year & under, in Knitting & Crocheting categories.
+2. Superintendents'Award ~ $20 for most outstanding mittens
 
 #### HANDSPUN YARN:
 1. Twist O’Wool Guild Award ~ $25.00 for the Most
@@ -468,36 +469,36 @@ SUPERINTENDENT: Lynn Clohessy, 989-2752
 ### RULES
 Please read carefully. These Rules apply along with and in addition to the General
 Rules for the Home & Garden Department and the General Rules of Addison County Fair & Field
-Days. Entries will be accepted at the HOME 8: GARDEN CENTER BUILDING on Monday, August
+Days. Entries will be accepted at the HOME & GARDEN CENTER BUILDING on Monday, August
 9th between 9:00 am. & 12:30 pm. Floral entries are discouraged from being entered during 
 Sunday acceptance hours to ensure freshness. Plant classes are welcome both days.
 
 1. Exhibitors must bring their own containers.
-2. All floral arrangements will bejudged on horticultural perfection as well as artistic
+2. All floral arrangements will be judged on horticultural perfection as well as artistic
 arrangement.
 3. Due to limited space, no Floral arrangement will be accepted that exceeds
 12”x18”
 4. All plants will be judged on health and development. Plant classes 11 — 14 must be
 owned and maintained a minimum of six months. Exception: Summer container.
-5. This Flower Show is for amateurs only. All floral arrangements must have been done by
+5. This Flower Show is for amateurs only. All floral arrangements must have been done
 by the exhibitor.
 6. Children’s arrangements must have been done by the child, reflecting ability
 appropriate for the age of the exhibitor.
 
 ### CATEGORIES & GLASSES (NOTE CHANGES)
-### A. FLORAL ARRANGEMENT CLASSES: not to exceed 12”x 18”
+### A. FLORAL ARRANGEMENT CLASSES: Not To Exceed 12”x 18”
 1. Centerpiece (To be viewed from all sides)
 2. Bouquet of mixed wildflowers
 3. Bouquet of mixed garden flowers
 4. Gladiolus
-5. Arrangement of any single variety of garden ?ower
+5. Arrangement of any single variety of garden flower
 6. Dried floral arrangement
-7. Miniature arrangement, not more than 5”x S”including all props and plant materials
+7. Miniature arrangement, not more than 5”x 5”including all props and plant materials
    a. Dried plant material
    b. Fresh plant material
 8. Holiday arrangement-fresh, dried, and/or artificial, may include accessories
 9. Unique Vase or Container Arrangement
-10. Open & unclassified - can include groupings and scenes
+10. Open & unclassified-can include groupings and scenes
 
 ### B. PLANT CLASSES: Pot size limited to 10” or less
 11. African Violets
@@ -538,7 +539,7 @@ minimum of 6 weeks.
 
  A. Law Firm of Fred Peet Award: $30.00 for Most Outstanding Exhibit by Youth (18
 and under)
- B. Middlebury AGWAY, Farm & Garden Center Award: $30.00 gift certificate for
+ B. Middlebury Farm & Garden (Agway) Award: $30.00 gift certificate for
 Most Outstanding Exhibitor.
  C. Cole’s Flowers: $30.00 for Most Unique Design by Adult.
  D. Shallow Rock Greenhouse Award: $30.00 for Most Outstanding Plant Entry.
@@ -553,17 +554,17 @@ Please read carefully. These Rules apply along with and in addition to the Gener
 Rules for the Home & Garden Department and the General Rules of Addison County Fair &
 Field Days.
 1. A Commercial Flower Exhibitor is defined as any person or persons growing
-?owers for profit.
+flowers for profit.
 2. Exhibitors will be allotted an empty 4ft. by 3ft. area each, to create a pleasing display of
-?owers using their own display materials and incorporating a farm or business sign.
-3. Each Exhibitor’s space will bejudged on overall attractiveness, creativity of display, and
+flowers using their own display materials and incorporating a farm or business sign.
+3. Each Exhibitor’s space will be judged on overall attractiveness, creativity of display, and
 condition & quality of flowers.
-4. PRIZES: 1st - $100.00; 2nd - $80.00; 3rd — $60.00
+4. PRIZES: 1st - $100.00; 2nd - $80.00; 3rd — $60.00.
 All other entries will receive $50.00. Special Ribbons will also be awarded.
 5. Each Exhibitor will be issued a season pass. Exhibitors are encouraged to maintain
 freshness of their display throughout the week.
 Reminder: Entries must be completely removed between 9-10:00 pm. on
-Saturday or 10-1:00 pm. on Sunday.
+Saturday or 10-12:00 pm. on Sunday.
 
 ## COMMERCIAL NURSERY SHOW
 
@@ -600,7 +601,8 @@ Please read carefully.
 
 These Rules apply along with and in addition to the General Rules for the Home & Garden Department, and the General Rules of Addison County Fair 8: Field Days.
 
-Entries will be accepted at the HOME & GARDEN CENTER BUILDING on Monday, August 9th between 9:00 am. & 12:30 pm. Entries will also be accepted on Sunday, August 8th between 1 & 4pm. 
+Entries will be accepted at the HOME & GARDEN CENTER BUILDING on Sunday, Aug 7th from 1-4pm and Monday, Aug 8th from 9:30-12:30pm
+Please be advised-judging takes place on Monday afternoon. Items entered Sunday will not be as fresh as those entered on Monday.
 
 Judging takes place Monday afternoon. Items entered on Sunday will not be as fresh as those entered on Monday.
 
@@ -608,7 +610,7 @@ Judging takes place Monday afternoon. Items entered on Sunday will not be as fre
 2. Only one entry allowed in each Class or Sub-class.
 3. Damaged or unworthy fruit or vegetables will not be
 accepted.
-4. Thejudges will consider the following points:
+4. The judges will consider the following points:
     - Quality - fruit or vegetable must be in good condition, at its best for eating.
     - Quantity - must have the required amount.
     - Uniformity - uniform in size, color & maturity.
@@ -629,7 +631,7 @@ Special Rosettes will be awarded to the Premier Home Gardener and Outstanding Yo
 9. Pears — 3 with stems
 1. Plums — 3
 1. Rhubarb — bunch of6
-1. Open & Unclassi?ed —- only 1 per person
+1. Open & Unclassified —- only 1 per person
 
 #### VEGETABLES
 1. Green string beans — 6
@@ -844,7 +846,7 @@ To be announced
 # WANDA GOODYEAR MEMORIAL BAKED BEAN CONTEST
 (Formerly the Baked Bean Bonanza!)
 
-SUPERINTENDENT: Peg Allen, 623-6211. Saturday August 14th
+SUPERINTENDENT: Peg Allen, 623-6211. Saturday August 13th
 
 Bring a pot of your favorite Baked Beans and recipe on a 5x8 card to the north entrance of the
 Picnic Pavillion on Saturday, August 14th by 10:00 am. Official judging will commence at 10:00 am.
@@ -855,6 +857,7 @@ Each participant will serve sample after the winners are announced.
 
 ### PRIZES:
 1st prize - $100.00 for the Wanda Goodyear Memorial Award
+
 Additional prizes TBA
 
 
@@ -872,11 +875,11 @@ County Extension Service Agent.
 
 ### Criteria and Rules
 1. Contestant MUST BE AN ADDISON COUNTY RESIDENT. Must be 19 years or older.
-2. Contestant may enter any number of items in Foods & Handicrafts Departments.
+2. Contestant may enter items in both Foods & Handicrafts Departments.
 3. Points are awarded as follows:
  Grand Rosette - 10 points Blue Ribbon - 5 points
  Red Ribbon - 3 points White Ribbon - 1 point
-4. The total of the two top scores in each Department will determine fnal score.
+4. The combined total of points in both departments will determine final score.
 5. In the event of a tie, recipient of the bowl will be decided by the Director & Superintendents
 of Foods & Handicrafts Departments.
 6. Note: This award may not be won in two consecutive years and may not be won by any
@@ -950,7 +953,18 @@ MONROE by awarding an outstanding youth, aged 13 through 18, with a memento and 
 name on a displayed plaque. As is the case with the Leona Thompson award, an individual may win
 this award up to 3 times.
 
-
+### Criteria and Rules for winning this award:
+1. Contestant must be an Addison County resident.
+2. Age before August 1st of the current year.
+3. Contestant must enter in two or more departments.
+4. Points are awarded as follows:
+    - Rosette – 10 points
+    - Blue Ribbon – 5 points
+    - Red Ribbon – 3 points
+    - White Ribbon – 1 point
+5. The top two scores in each department will determine the final score.
+6. In the event of a tie, the recipient of the award will be decided by the Home & Garden
+committee.
 
 <details>
     <summary>
@@ -969,18 +983,7 @@ this award up to 3 times.
 <details>
 
 
-### Criteria and Rules for winning this award:
-1. Contestant must be an Addison County resident.
-2. Age before August 1st of the current year.
-3. Contestant must enter in two or more departments.
-4. Points are awarded as follows:
-    - Rosette – 10 points
-    - Blue Ribbon – 5 points
-    - Red Ribbon – 3 points
-    - White Ribbon – 1 point
-5. The top two scores in each department will determine the final score.
-6. In the event of a tie, the recipient of the award will be decided by the Home & Garden
-committee.
+
     
 
     

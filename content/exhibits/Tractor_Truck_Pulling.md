@@ -8,9 +8,9 @@ Description: Exibit information and entry rules
 
 
 ## Tractor Pulling
-1. Thursday, 1:00 pm.
-1. Friday, 5:30 pm.
-1. Saturday,  11:00 am.
+1. Thursday, 10:00 am.
+1. Friday, 10:00am and 6:00 pm.
+1. Saturday, 10:00am and 6:00 pm.
 
 SPONSORED BY: VT Tractor Pullers Assoc. 
 
@@ -26,21 +26,8 @@ CONTACT
 1. Shawn Beeman, 802-324-3626
 
 
-### Thursday (afternoon show) 
-Start pulling 1:00 p.m.
-#### Youth (ages 8-14)
-950#  Trophies only
-#### Adult Stock (Ages 15+) Single Cylinder
-1100# $30-$20-$15-$10-$5
-#### Adult Stock (Ages 15+) Multi Cylinder
-1100# $30-$20-$15-$10-$5 
-#### Adult Stock (Ages 15+) Single Cylinder
-1200# $30-$20-$15-$10-$5
-#### Adult Stock (Ages 15+) Multi Cylinder
-1200# $30-$20-$15-$10-$5
-#### Sport Stock
-1050#  $35-$30-$25-$20-$15
-
+### Thursday (day show) 
+Start pulling 10:00 a.m.
 #### Antique
 3000# $40-$30-$20-$20-$10
 
@@ -54,10 +41,31 @@ Start pulling 1:00 p.m.
 
 5500# $40-$30-$20-$20-$10
 
+6000#  $40-$30-$20-$20-$10
 
-### Thursday (evening show) 
-Start pulling 6:00 p.m.
+7000#  $40-$30-$20-$20-$10
 
+8000#  $40-$30-$20-$20-$10
+
+9000#  $40-$30-$20-$20-$10
+
+10,500#  $40-$30-$20-$20-$10
+
+
+### Friday (day show) 
+Start pulling 10:00 a.m.
+#### Youth (ages 8-14)
+950#  Trophies only
+#### Adult Stock (Ages 15+) Single Cylinder
+1100# $30-$20-$15-$10-$5
+#### Adult Stock (Ages 15+) Multi Cylinder
+1100# $30-$20-$15-$10-$5 
+#### Adult Stock (Ages 15+) Single Cylinder
+1200# $30-$20-$15-$10-$5
+#### Adult Stock (Ages 15+) Multi Cylinder
+1200# $30-$20-$15-$10-$5
+#### Sport Stock
+1050#  $35-$30-$25-$20-$15
 #### ATV
 1150# Stock- trophies only
 
@@ -80,19 +88,6 @@ Start pulling 6:00 p.m.
 #### 4 Cylinder Mod  (2 hooks)
 (Purse TBD)
 
-
-
-#### Antique
-6000#  $40-$30-$20-$20-$10
-
-7000#  $40-$30-$20-$20-$10
-
-8000#  $40-$30-$20-$20-$10
-
-9000#  $40-$30-$20-$20-$10
-
-10,500#  $40-$30-$20-$20-$10
-
 #### Enhanced Antique (7mph)
 6000#  $40-$30-$20-$20-$10
 
@@ -100,13 +95,13 @@ Start pulling 6:00 p.m.
 
 
 ### Friday (evening show) 
-Start time 5:30 p.m.
+Start time 6:00 p.m.
 #### Stock Street Legal Trucks (2 hooks per truck limit)
-6000#  $40-$30-$20-$20-$10
-
 6500#  $40-$30-$20-$20-$10
 
 7000#  $40-$30-$20-$20-$10
+
+7500#  $40-$30-$20-$20-$10
 
 #### Modified Street Legal Trucks (2 hooks per truck limit)
 5800#  $80-$70-$50-$40-$30
@@ -134,7 +129,7 @@ Class A (1 hook) $300-$240-$156-$108-$96-$84-$72-$60-$48-$36
 ### NYTPA Sanctioned Super Farm and Limited Pro Tractors at 7:00 p.m.
 
 
-### Saturday (day show) start time at 11:00 a.m.
+### Saturday (day show) start time at 10:00 a.m.
 #### Farmstock
 8000#  $50-$40-$30-$20-$10
 
@@ -217,12 +212,14 @@ $200-$130-$90
 
 ## VTPA GENERAL RULES
 ### Operators
-1. Must have written permission of owner or parent/guardian if under eighteen years of age.
-2. NO ALCOHOLIC beverages/drugs before or during events for operators and/or crew
+1. Due to insurance requirements, youth under the age of 16 need to have a certified or notarized copy of their birth certificate on file with the VTPA before signing up at an event.
+2. Must have written permission of owner or parent/guardian in under eighteen years of age.
+3. NO ALCOHOLIC beverages/drugs before or during events for operators and/or crew
 members.
-3. Must remain seated, be in full control, and operate in a safe manner at all times.
-4. All participants must be able to handle their pulling vehicle safely by themselves.
-5. Long pants, shirt and closed toe shoes required. No sandals. No Shorts.
+4. Must remain seated, be in full control, and operate in a safe manner at all times.
+5. All participants must be able to handle their pulling vehicle safely by themselves.
+6. Long pants, shirt and closed toe shoes required. No sandals. No Shorts.
+7. A W-9 form must be on file with VTPA before a purse check is issued.
 
 ### Pulling
 1.  Pulling position will be at sign-up discretion.
@@ -404,7 +401,7 @@ class with proper safety equipment.
 
 ### Safety
 1.  OEM seatbelt or better must be worn.
-1.  DOT approved helmet with chin strap fastened.
+1.  Driver must wear a DOT approved helmet with a chin strap fastened and remained fastened until vehicle is unhooked from the sled.
 1.  No passengers on track or in pit area.
 1.  Fire Extinguisher recommended.
 
@@ -452,7 +449,9 @@ market tires and wheels allowed.
 1.  No weight up front, under hood or in cab.
 
 ### Weight Classes
+6500 lbs with driver, 7000 lbs with driver and 7500lbs with driver.
+
 *TRUCK LIMIT TO 2 HOOKS EVENT*
 
- 6000 lbs with driver, 6500 lbs with driver and 7000lbs with driver.
+ 
  
