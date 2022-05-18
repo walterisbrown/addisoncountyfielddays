@@ -10,10 +10,10 @@ Description: Exibit information and entry rules
 ## YOUTH AND OPEN WORKING STEER AND OX SHOW
 JUDGE: TBA
 
-Thursday — Friday — 4:00 pm
+Working Steer & Ox Show, Thursday @ 4:00pm, Beef Show, Friday — 3:00 pm
 
   
-CLASS FEE: $2.00 per class for the following (*) classes: 
+CLASS FEE: $2.00 per class for the following (*) classes: (for youth show only)
 - Fitting Classes Divisions
     - Senior
     - Junior
@@ -29,13 +29,13 @@ CLASS FEE: $2.00 per class for the following (*) classes:
 
 ### RULES
   1. Mail entries to: Hannah Shipman, 118 Johnston Road, Burke, NY 12917. Entries
-must be received by July 21, 2021.
+must be received by July 20, 2022.
   2. Enclose entry fee of $5.00 for each animal stabled and entered in OPEN SHOW. Make
 check payable to: ACFFD
   3. Field Days assumes no responsibility for loss or damage to animals from any cause.
 Entries accepted only on this condition.
-  4. All animals shall be on the grounds prior to 8:00 p.m. on Monday, August 9, 2021.
-  5. All entries must remain on the grounds until 9 p.m. on Saturday, August 14th. Failure
+  4. All animals shall be on the grounds prior to 8:00 p.m. on Monday, August 8, 2022.
+  5. All entries must remain on the grounds until 9 p.m. on Saturday, August 13th. Failure
 to abide by arrival and departure times will result in loss of premiums and/or awards.
 Cattle may remain on the grounds until Sunday. Security is provided.
   6. A load of bark will be furnished for the exhibitors, when the bark is gone it
@@ -55,21 +55,20 @@ jeans are acceptable.
   13. Health requirements: 
       A.  State Health Regulations in effect at the time of entry shall apply if there is a
 conflict with the following requirements:
-         1. A health certificate prepared by your veterinarian shall be required for all
-animals BEFORE stabling is permitted. SUCH CERTIFICATE SHALL BE AVAILABLE
-FOR INSPECTION AT ANY TIME DURING THE SHOW.
-         2.  Vaccination for rabies is required a minimum of thirty (30) days before Field Days begin.
-         3.  Vaccination for shipping fever is recommended.
-     B.  Animals showing signs, symptoms, suspicions or evidence of any infectious
-disease, sickness or disorder- including (but not limited to) mange, warts,
-pinkeye, ringworm, or scabies - shall be barred from the grounds upon arrival
-and/or at any time during the show when such is detected.
+      1. Certificate of Veterinary Inspection (CVI): All livestock must be listed on a valid CVI signed and dated within 30 Days of arrival. Official Identification and vaccination information must be listed on the CVI.
+	2.Rabies Vaccination: All animals over 4 months of age must be vaccinated for rabies a minimum of 30 days and a maximum of 365 days prior to arrival. Vaccination for animals less than 4 months of age is recommended. Vaccination less than 30 days prior to arrival is only acceptable for animals less than 4 Months of age.
+	3.Shipping Fever Vaccination: All cattle must be vaccinated for shipping fever a minimum of 14 days and a maximum of 6 months prior to arrival with a product which includes IBR, BVD, PI3 and BRSV.
+	4. All animals should be in good physical condition and be free of open or draining wounds
+	5. All animals should be fress of visual evidence of infectious, contagious, or parasitic diseases at time of arrival.
+	6. Animals arriving from outside the State of Vermont must bave an import permit.
+	7. Cattle Official Individual Identification: All cattle must have a USDA approved official ear tage. These include metal MUES tags, visual 840 tags, 840 RFID tags.
+	8. Horns: All cattle over one month of age with the exception of working steers must be dehorned. Dehorning sites must be healed (no open or draining wounds are permitted). Horn stubs/scurs must be less than 1"
   14. The Beef and Working Steer Show is open to anyone willing to abide by the rules.
   15. Entries are limited to two (2) in each single class, and one (1) in each group class.
   16. All animals in group entries must also have been shown in respective single classes.
   17. Animals can be shown in the Breeding Class or Market Class but not both. Animals also
 can only be shown in the Beef Show or the Working Steer Show but not both.
-  18. Youth are responsible for taking care of their animal and showing the animal.
+  18. All Exhibitors are responsible for taking care of their cattle thru out the day while exhibited at the fair. Animals and exhibit must be clean and presentable for public by 8 am each day.
 
 
 ### YOUTH SHOW PREMIUMS: 
@@ -102,24 +101,25 @@ Class G - Futures (under 8)
 
 ### BREEDING CLASSES YOUTH and OPEN SHOW
 
-Class H - Junior Heifer Calf (January 1, 2021 to March 31, 2021)
-Class I - Spring Heifer Calf (April 1, 2021 to June 30, 2021)
-Class J - Senior Heifer Calf (September 1, 2020 to October 31, 2020)
-Class K - Winter Heifer Calf (November 1, 2020 to December 31, 2020)
-Class L - Summer Yearling Heifer (July 1, 2020 to August 31, 2020)
-Class M - Spring Yearling Heifer (April 1, 2020 to June 30, 2020)
-Class N - Junior Yearling Heifer (January 1, 2020 to March 31, 2020)
-Class O - Senior Yearling Heifer (September 30, 2019 to December 31, 2019)
-    ~ For classes 9-10 (Cow with Natural calf (Calf born on or after September 1, 2020))
-Class P - Two Year Old Cow & Calf (September 1, 2018 to August 31, 2019)
-Class Q - Three Year Old & Over Cow & Calf (Born after September 1, 2018)
+Class H - Spring Heifer Calves (April 1, 2022 to June 30, 2022) 
+Class I - Junior Heifer Calves (January 1, 2022 to March 31, 2022) 
+Class J - Winter Heifer Calves (November 1, 2021 to December 31, 2021)
+Class K - Senior Heifer Calves (September 1, 2021 to October 31, 2021) 
+Class L - Summer Yearling Heifer (July 1, 2021 to August 31, 2021)
+Class M - Spring Yearling Heifer (April 1, 2021 to June 30, 2021) 
+Class N - Junior Yearling Heifer (January 1, 2021 to March 31, 2021) 
+Class O - Senior Yearling Heifer (September 30, 2020 to December 31, 2020) 
+~ For classes 9-10 (Cow with Natural calf (Calf born on or after September 1, 2021)) 
+Class P - Two Year Old Cow & Calf (September 1, 2019 to August 31, 2020) 
+Class Q - Three Year Old & Over Cow & Calf (Born after September 1, 2019) 
+
     - Junior Champion Female
     - Senior Champion Female
     - Grand Champion Female
     - Youth Grand Champion Over All Breed (Classes H-O eligible)
 
 ### OPEN SHOW ONLY
-Class R - Junior Bull Calf (January 1, 2021 to June 30, 2021)
+Class R - Junior Bull Calf (January 1, 2022 to June 30, 2022)
 Class S - Pair of Calves (2 calves from classes H, I, J, K or R)
 Class T- Best two (2) head bred and owned by exhibitor
 Class U - Exhibitor’s Herd, best three (3) head owned by exhibitor
