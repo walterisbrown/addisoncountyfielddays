@@ -25,7 +25,7 @@ by exhibitor will be denied the privilege of showing and MUST BE REMOVED.
 No More than 75 birds per exhibitor will be accepted. Entry fee $2.00 per bird Open Show,
 $1.00 per bird Junior Show. Feed and care will be provided by the show committee.
 
-All birds must be in place by 6:00pm Monday.
+All birds must be in place by 6:00pm Monday. **NO EXCEPTIONS**
 
 The show is open to any breed or variety of Bantam, Largefowl and Duck listed in the American
 Poultry Association or the American Bantam Association Standards of Perfection.
@@ -45,7 +45,7 @@ will be reduced by one half. Ribbons will be awarded in ALL classes.
 ## 4-H & OTHER YOUTH POULTRY SHOWMANSHIP
 SUPERINTENDENT:  Wayne Marcelle, 802-233-9534
 
-Saturday, August 14, 2021 10:00am  Children's Barnyard Area
+Saturday, August 13, 2022 10:00am  Children's Barnyard Area
 
 $1.00 per bird per class(limit of 1 bird per child for each class)
 
