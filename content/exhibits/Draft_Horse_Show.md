@@ -8,9 +8,9 @@ Description: Exibit information and entry rules for the Draft Horse Show
 
 [[TOC]]
 
-Friday, 9:30 am. — Saturday, 9:30 am.
+Friday,August 12, 2022 9:30 am. — Saturday, August 13, 2022 9:30 am.
 
-JUDGE:Dan Nisley, East Kellogg, Iowa
+JUDGE:Troy Thomas
 
 SUPERINTENDENT: Kathy Nisun, 349-8971
 
@@ -23,7 +23,7 @@ Ringmaster:
 SECRETARY: Kathy Kennett,  Phone 759-2015, Cell 349-5671
 
 
-We are very excited to be in our eighteenth year as a North American Classic Six qualifying show.
+We are very excited to be in our nineteenth year as a North American Classic Six qualifying show.
 
 
 All draft horses and draft ponies are welcome. We will have Haflinger Classes again this
@@ -38,12 +38,12 @@ Stalls will be available after 7 p.m. Thursday.
 Stalls are limited (156) so we cannot offer tack stalls. Stalls will be reserved based on date entries received by the Secretary. A $25.00 per stall deposit is required. $15.00 will be refunded per stall when cleaned and checked. Please call if unable to attend as we do have a limited number of stalls. If stalls fill we will keep a waiting list. Sawdust may or may not be available (depending if it is all gone). Shavings will be available to purchase ahead of time at $5.00 per bag.
 
 Entry Fees are $5.00 per class except as noted. Post entries are double entry fees. No refunds
-without a vet certificate. Pre-entries due by August 1, 2021.
+without a vet certificate. Pre-entries due by August 1, 2022.
 
 Send entries to: Kathy Kennett, 1716 VT Route 22A, Panton, VT 05491
 Email: kkennett@together.net Phone: 759-2015. During Fair Cell Phone: 349-5671
 
-1. All exhibitors will be requried to show proof of rabies vaccination dated between August 13, 2020 and July 1, 2021. Current Negative Coggins will also be required for all horses.
+1. All exhibitors will be requried to show proof of rabies vaccination dated between August 13, 2021 and July 1, 2022. Current Negative Coggins will also be required for all horses.
 1. Out of state must have health papers
 1. Passes will be mailed to exhibitors whose entries have arrived early enough that there 
 is sufficient time for return mail. Exhibitors will receive 1 person pass per horse per day
@@ -57,7 +57,7 @@ classes are combined the premiums from the higher staked class will be awarded.
     - Have the option of decorating the mane and tail
     - Be shown without scotch bottom shoes
     - Be shown without scotch collars when hitched
-2. No horse may be shown in both divisions. Classes 31 & 32 Friday afternoon are open to all.
+2. No horse/pony may be shown in both divisions.
 3. “Junior Exhibitor” classes are open to farm and show horses, as the decision of the Judge
 is based on the performance of the exhibitor, not that of the horse
 4. Junior drivers (18 & under) must be accompanied by an adult.
@@ -67,8 +67,7 @@ the show.
 and trot, including driver’s ability to present the team in a collected manner. Horse’s
 conformation and way of going will be considered.
 7. Classes 3-11 and 33-45 are for show animals.
-8. Haflingers & Pony Drafts may enter the youth classes as well as their own titled classes
-and classes 31 and 32.
+8. Haflingers & Pony Drafts may enter the youth classes as well as their own titled classes.
 9. Junior Exhibitor Age as of January 1.
 
 ## Schedule 
@@ -285,19 +284,7 @@ and classes 31 and 32.
     
     Prizes: $50, $40, $25, $20, $10, $5
 
-1. ### Obstacle Course. 
-    Entry Fee: $10.00
-    
-    Team hitched to a wagon provided by the fair. The class is judged on
-    the ability of a team and driver to negotiate a prescribed course without tipping stakes.
-    A given team may only do the course with different drivers.
-
-    Prizes: $50, $40, $25, $20, $10, $5 
-
-1. ### Single Horse Competition – to be announced. 
-    Entry Fee: $5.00
-    Prizes: $50, $40, $25, $20, $10, $5
-    
+   
     ---
     ### 📅 Saturday
     ---
@@ -328,7 +315,7 @@ and classes 31 and 32.
 1. ### Grand Champion Gelding
     No entry fee. 
 
-    1st & 2nd place winners of other Gelding classes are eligible
+    1st & 2nd place winners of classes 31-34 are eligible
 
 1. ### Stallion, 1 & 2 years old.
     Entry Fee: $5.00
@@ -347,7 +334,7 @@ and classes 31 and 32.
 1. ### Junior Champion Stallion. 
     No entry fee. 
 
-    1st & 2nd place winners of 2 previous stallion classes are eligible
+    1st & 2nd place winners of classes 36-37  are eligible
 
 1. ### Stallions, 3 years & over. 
     Entry Fee: $5.00
@@ -366,7 +353,7 @@ and classes 31 and 32.
 1. ### Grand Champion Stallion. 
     No entry fee. 
 
-    1st & 2nd place winners of classes previous 3 stallion classes are eligible
+    1st & 2nd place winners of classes 38-40 are eligible
 
 1. ### Get of Sire – 2 or more animals, any age or sex. 
     Entry Fee: $5.00
@@ -496,10 +483,10 @@ Plaque In memory of Weathervane Belgians, the Donald Hunt Family,
 Middlebury, Vermont
 1. ### BEST MATCHED PAIR
 To be judged on harness, color, conformation and way of going.
-Judged on classes 26, 53 - 61
+Judged on classes 26, 55 - 59
 1. ### JUNIOR EXHIBITOR
 Awarded to the Junior Exhibitor with the combined highest placings from classes 1/2,
-18/19, 29/30, 56/57. In the event of a tie, the decision will be made by the judge.
+18/19, 29/30, 54/55. In the event of a tie, the decision will be made by the judge.
 Trophy donated by the Green Mountain Draft Horse Association.
 1. ### RUTH WRIGHT MEMORIAL
 Awarded to the winner of the Ladies’ Belgian Cart class in honor of Mrs. Ruth Wright of
