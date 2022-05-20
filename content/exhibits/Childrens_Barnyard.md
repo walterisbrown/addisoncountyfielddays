@@ -99,3 +99,12 @@ the required time each day will not receive full Premium money. Exhibits must be
 8:00 p.m. Monday and remain in place until 9:00 p.m. on Saturday. Please register early, as
 space will be allotted as entries come in according to the needs of each exhibit. Late exhibits
 will not be judged!
+
+
+## FREE YOUTH ACTIVITIES
+DIRECTOR: Tricia Foster, 233-2821
+
+SUPERINTENDENT: Pam Gevry, 373-8069
+
+Various free youth activities will be held in the tent by the Childrens Barnyard every day (see schedule for times). Some examples of games are face painting, try your luck games, bubble making
+and many more! No entry fee or presign up is necessary.

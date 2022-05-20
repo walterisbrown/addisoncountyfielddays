@@ -29,54 +29,7 @@ Saturday Estimated Time 3:30 p.m. - L0CATI0N: Butterfield Arena
 
 DIRECT0R: Diane Norris, (802) 989-4295 
 
-Sign up in the Butterfield Arena starts at 2:30 p.m. on the 10th Youth and Adult Classes -Ribbons and Prizes will be awarded-
-
-## 4-H & OTHER YOUTH RABBIT SHOWMANSHIP
-
-Wednesday, 4:00 p.m. - LOCATION: Children’s Barnyard
-
-SUPERINTENDENT: Jennifer Kennett  
-
-Rabbit Showmanship is a collective measure of handler skill and rabbit care. Please mail the entry form to: Pam Gevry, 3851 VT Route 22A, Addison, VT 05491
-
-Judging will be based on the following criteria (appropriate for age): • Clean, neat and professional appearance of both exhibitor and rabbit • Knowledge of parts of rabbit • General Questions on feed, grooming, care and diseases • Examination of Rabbit 
-
-• Rabbits should be exhibited using a harness for the safety of each rabbit. 
-Classes: Primary (8-10), Junior (ages 11-13) and Senior (ages 14-18) Based on entries, classes will be adjusted and divided evenly. 
-
-Preparation for this contest is like any other. Practicing with your rabbit ahead of time will earn you more points on the day of the contest. Please use an animal that is familiar with being handled and the procedures described. All rabbits must arrive in good health and will be checked in with the superintendent.
-We strongly recommend that you bring your rabbit for display for the whole fair week.
-
-## EGG JUDGING
-DIRECTOR: Tricia Foster, 233-2821; 
-
-SUPERINTENDENT: Pam Gevry, 373-8069
-
-Eggs must be in place by 8:00 p.m. on Monday and remain on display until 9:00 p.m. Saturday.
-
-For both divisions please bring a fun and creative container to display eggs in during the fair
-
-### SECTION 1 OPEN ADULTS (OVER 18)
-Fresh, Uniform & Clean Eggs are judged on freshness and hairline cracks by candling and for 
-uniformity, cleanliness, quality and display method. 
-One dozen limit per class per exhibitor
-
-| Class | 1st | 2nd | 3rd |
-| -- | -- | -- | -- |
-| One Dozen Brown | S3 | $2 | $1 |
-| One Doze  White | $3 | $2 | $1 |
-| One Dozen Other | $3 | $2 | $1 |
-
-### SECTION 2 JUNIOR (17 & UNDER)
-Eggs are judged on freshness and hairline cracks by candling and for uniformity,
-cleanliness, quality and display method. Six egg limit per class per exhibitor.
-
-| Class | 1st | 2nd | 3rd |
-| -- | -- | -- | -- |
-| Half Dozen Brown | $2 | $1.50 | $1 |
-| Half Dozen White | $2 | $1.50 | S1 |
-| Half Dozen Other | $2 | $1.50 | $1 |
-
+Sign up in the Butterfield Arena starts at 2:30 p.m. on the 10th Youth and Adult Classes -Ribbons and Prizes will be awarded.
 
 
 ## FOREST FESTIVAL
