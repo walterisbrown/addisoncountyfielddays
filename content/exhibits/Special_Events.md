@@ -47,15 +47,6 @@ Classes: Primary (8-10), Junior (ages 11-13) and Senior (ages 14-18) Based on en
 Preparation for this contest is like any other. Practicing with your rabbit ahead of time will earn you more points on the day of the contest. Please use an animal that is familiar with being handled and the procedures described. All rabbits must arrive in good health and will be checked in with the superintendent.
 We strongly recommend that you bring your rabbit for display for the whole fair week.
 
-
-## FREE YOUTH ACTIVITIES
-DIRECTOR: Tricia Foster, 233-2821
-
-SUPERINTENDENT: Pam Gevry, 373-8069
-
-Various free youth activities will be held in the tent by the Childrens Barnyard every day (see schedule for times). Some examples of games are face painting, try your luck games, bubble making
-and many more! No entry fee or presign up is necessary.
-
 ## EGG JUDGING
 DIRECTOR: Tricia Foster, 233-2821; 
 
