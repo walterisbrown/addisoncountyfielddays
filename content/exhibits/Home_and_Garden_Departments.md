@@ -347,15 +347,15 @@ INTERIM SUPERINTENDENT: Megan Sutton 545-2475
 
 These Rules apply along with and in addition to the General Rules for the Home 8:
 Garden Department, and the General Rules of Addison County Fair & Field Days. Entries will be
-accepted at the HOME & GARDEN CENTER BUILDING on Monday, August 9th between
+accepted at the HOME & GARDEN CENTER BUILDING on Monday, August 8th between
 9:00 am. & 12:30 pm. Entries forthis department will, also, be accepted on Sunday,
-August 8th between 1-4 pm.
+August 7th between 1-4 pm.
 
 THIS ART EXHIBITION IS FOR AMATEURS. (A professional artist is one who creates
 with intent to sell; exhibits at a recognized gallery, or who derives their living
 from their art work.)
 
-1. An artist or photographer may exhibit A SINGLE entry ger gerson per class. (categories by
+1. An artist or photographer may exhibit A SINGLE entry per person per class. (categories by
 number, classes by medium) No group exhibits will be allowed. No electrical outlets will
 be provided for artwork.
 2. Entrants 4 years old and older may participate. Youth 4-12, Youth 13—18, Adult 19 and
@@ -365,9 +365,9 @@ i.e.- paint-by-number and pre-designed kits. All art work must be the artist’s
 original and must have been rendered by hand. No air brushed, computer generated
 or mechanically enhanced art will be accepted. No Graphic Design or Lettering will be
 accepted.
-4. Work entered should be completed since last fair (August 2018). Please do not bring
+4. Work entered should be completed since last fair (August 2021). Please do not bring
 work previously exhibited.
-5. SIZE RESTRICTIONS: Maximum size for each piece including frame is 20"x30’j or a
+5. SIZE RESTRICTIONS: Maximum size for each piece including frame is 20"x30’ or a
 total frame perimeter of 100”. No multiple images or sets at this time.
 6. FRAMING INSINSTRUCTIONS: All art and photography exhibits must be appropriately
 framed prior to entering. Glass and plexiglass are acceptable and encouraged but not
@@ -382,7 +382,7 @@ should be attached so that it does not show above the frame. Please note: there 
 be no materials at the Home and Garden Building for you to use. Framing should be
 complete prior to arriving with your entry.
 
-### CATEGORIES & GLASSES 
+### CATEGORIES & CLASSES 
 
 ####  AMATEUR ART
 
@@ -391,10 +391,10 @@ complete prior to arriving with your entry.
  C. Waterco|or
  D. Prints - Wood/Linoleum Block, Monoprints, Etching
  E. Charcoal
- F. Pen and Ink Including gel pens
+ F. Pen and Ink, including gel pens
  G. Pastel
  H. Collage
- I. Other — ie: Mixed — Media, Including markers
+ I. Other — ie: Mixed Media, including markers
  J. Pencil
 
 #### AMATEUR FOLK ART — 
@@ -409,20 +409,20 @@ Entrants in the Folk Art category may include a paragraph about their work. It m
 include what inspired the piece, their choice of materials, and/or what they are
 hoping to convey.
 
- A. Painted Surfaces
- B. Other Constructions
+ 11. Painted Surfaces
+ 12. Other Constructions
 
 #### AMATEUR PHOTOGRAPHY — Black and White or Color in all classes. One entry
 per class. All images should seek to capture a moment, convey a feeling or tell a
 story.
 
- A. Landscape/Nature
- B. PeopIe/Portrait
- C. TraveI/Architecture
+ 13. Landscape/Nature
+ 14. PeopIe/Portrait
+ 15. TraveI/Architecture
 
 ####  PHOTO CHALLENGE
 
-2021: Best Color Photo Children with their pets
+2022 Photo Challenge - Farm Bulidings
 
 We invite amateur and professional artists and craftsmen to display work that does
 not fit the categories and criteria outlined above. Items such as large art pieces,
