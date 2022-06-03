@@ -499,7 +499,7 @@ VT. This award is given in recognition of Bernard, a life long Vermont Horseman,
 had devoted many years to breeding and raising quality Belgian Draft Horses. He
 especially appreciated a high caliber filly.
 1. ### THE RUSSELL C. CARPENTER MEMORIAL AWARD
-This award is given to the winner or highest placing Belgian in the Men's Cart Show Division. Russell was a businessman, friend to all, selfless public servant, family man and draft horse enthusiast with his family as Donnell Belgians.
+This award is given to the winner of the Men's Cart Show Division. Russell was a businessman, friend to all, selfless public servant, family man and draft horse enthusiast with his family as Donnell Belgians.
 1. ### OUTSTANDING BELGIAN/PERCHERON/CLYDE/SHIRE & FARM YOUTH
 Awarded to the high point youth in each age group.
 
