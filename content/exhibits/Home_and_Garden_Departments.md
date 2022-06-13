@@ -723,7 +723,7 @@ Reminder: Entries must be completely removed between
 9—9:30 pm. on Saturday or 10—12 pm. on Sunday.
 
 # FOODS
-INTERIM SUPERINTENDENT: Megan Sutton, 545-2475
+SUPERINTENDENT: Nancy Lee Ross, 802-989-7865
     
 ### RULES
 **ALL these classes are for AMATEURS. No Professionals.**
@@ -817,8 +817,8 @@ check-in staff, if the RULES have not been followed (ie. using a pre—packaged 
 honey)
 ### J. KING ARTHUR FLOUR CONTEST
 Special rules: Entrants will show proof of using King Arthur Flour by either bringing in an open bag or a UPC label from a bag when submitting entry. The food item will not be accepted for entry in these 2 classes without UPC proof.
-50. Coffee Cake - Any type: Youth contest ages 18 and under
-51. Coffee Cake - Any type: Adult contest ages 19+
+50. Blueberry Pound Cake - Any type: Youth contest ages 18 and under
+51. Blueberry Pound Cake - Any type: Adult contest ages 19+
 ### K. CANDIES
 52. Fudge (6)
 53. Brittle / Bark (4 servings)
