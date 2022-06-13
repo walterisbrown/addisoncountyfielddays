@@ -8,9 +8,9 @@ Description: Exibit information and entry rules
 
 [[TOC]]
 
-Thursday, 8:00 am. — Rain or Shine 
+Thursday August 11, 2022, 8:00 am. — Rain or Shine 
 
-JUDGE: Deb Danforth; 
+JUDGE: Andrea Lamanque; 
 
 TRAIL JUDGE: Karen Malzac
 
@@ -18,12 +18,12 @@ CO-MANAGERS:
 - Jessica Stuart, Essex Junction, VT, 802-233-3013; 
 - Bailee Layn, Bristol, VT, 802-922-1653,
 
-Entries close by postmark of July 31, 2021. Day stabling only: 
+Entries close by postmark of July 31, 2022. Day stabling only: 
 
 First come, frst served basis @$15.00(box). 
 $5.00 refunded if left clean and checked by show management.
 
-Available from 7:30 p.m. on Wednesday. Vacate by 6:00 p.m. Thursday.
+Available from 7:30 p.m. on Wednesday 8/10/22. Vacate by 6:00 p.m. Thursday 8/11/22.
 
 We now have email and a Facebook page, please like us! Our email is
 fdhorseshow at gmail.com
@@ -59,7 +59,7 @@ VETERINARIAN AT LEAST 30 DAYS(JULY 2, 2021) PRIOR TO THIS SHOW. ATTACH A COPY
 TO YOUR ENTRY –IT WILL NOT BE RETURNED. HORSES CANNOT BE UNLOADED WITHOUT
 PROOF OF SHOTS. THIS IS A VERMONT STATE FAIRS MANDATE. NAME OF HORSE SHOULD
 BE THE SAME ON ENTRY BLANK AND RABIES CERTIFICATE.
-13. All ages are 1/1/2021.
+13. All ages are 1/1/2022.
 14. Lunch break to be announced.
 15. Health certifcate & negative Coggins required for all out-of-state horses.
 16. NO ONE SHALL APPROACH A JUDGE WITH REGARD TO A DECISION UNLESS
@@ -82,9 +82,9 @@ award program for Juniors, Seniors, Very Small Equines (Miniature Horses), and A
 4. Very Small Equines (44 inches) In-Hand *
 5. Hunter Model
 6. Open in Hand *
-7. Weanling Class (This year foals) (Mares not allowed in ring
-8. Yearling Class (Last year foals)
-9. Two Year Olds (2 years ago foals) 
+7. Weanling Class (2022 foals) (Mares not allowed in ring
+8. Yearling Class (2021 foals)
+9. Two Year Olds (2020 foals) 
 ### Open in Hand Championship
 1st & 2nd place winners of classes # 1-9 No entry fee.
 10. English Showmanship
