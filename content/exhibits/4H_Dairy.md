@@ -25,7 +25,7 @@ Description: Exibit information and entry rules
 
     Mail entries and fees to: 
 
-        Robin Severy                                                       
+1.      Robin Severy                                                       
         142 Hemenway Hill Rd                                                        
         Shoreham, VT 05770
 
@@ -57,12 +57,8 @@ Description: Exibit information and entry rules
     - $4.00  =  White,  
     for  the  following  (*) classes:
     - Conformation *1 thru *12
-    - Showmanship
-    - Fitting Classes *1 thru *6.)&"-5)
+    - Showmanship & Fitting Classes *1 thru *6.
 
-### Health Management and Safety
-
-A Universal Dairy Health Form for 4-H Animals must be available for inspection at any time during the show.  Animals and their Health papers will be checked before unloading is  allowed.    ACFFD  or  4-H  reserves  the  privilege  to  amend  health  requirements  as  the need arises or VT State Health regulations change.
 
 ### HEALTH REGULATIONS
 
@@ -99,7 +95,7 @@ Cattle
 1. The 4-H dairy project is a 4-H member activity. Members ONLY should care and prepare the animal for the show.
 1. Show Uniform dress code:  white or khaki pants, knee length walking shorts or skirt and white shirt with collar that covers the entire midriff (no gaps between shirts and pants).  Belts and ties are desirable.  Appropriate footwear required.  No clothing advertising afarm name or breed or any other clothing considered inappropriate by superintendents.  No short skirts or short shorts.
 1. Proper footwear must be worn at all times in the 4-H Dairy Barn, wash rack and working with animals.  No bare feet, flip-flops or open toe shoes.
-1. There will be mandatory exhibitors meeting on Monday evening, at 6:00 p.m. in the 4-H Dairy show arena. 5:30 meeting for 1st & 2nd year exhibitors parents.
+1. There will be mandatory exhibitors meeting on Monday evening, at 3:30 p.m. in the 4-H Dairy show arena.
 1. Club  awards  will  be  presented  on  Saturday  at  lunch  break,  at  the  Dairy  Ring.    All members and clubs should be represented.
 1. Barn lights will be turned out 11:00 p.m. – 4:00 a.m. (only milkers allowed).  Doorways will be chained to contain loose animals at night & water turned off.
 
@@ -115,18 +111,15 @@ CONFORMATION CLASSES (Tuesday) $2.00/class
 5. Spring Yearling Heifer — born between March 1, 2021 and May 31, 2021.
 6. Winter Yearling Heifer — born between December 1, 2020 and February 29, 2021.
 7. Fall Yearling Heifer— born between September 1, 2020 and November 30, 2020.
-
-### Junior Champions
-
-1. Two Year Old Cow — milking — born between September 1, 2019 and August 31, 2020.
-1. Three Year Old Cow — born between September 1, 2018 and August 31, 2019.
-1. Four Year Old and Over — born before September 1, 2018.
-1. Best animal bred by exhibitor — Reginald Morse Award. Proof required by either
+8. Two Year Old Cow — milking — born between September 1, 2019 and August 31, 2020.
+9. Three Year Old Cow — born between September 1, 2018 and August 31, 2019.
+10. Four Year Old and Over — born before September 1, 2018.
+11. Best animal bred by exhibitor — Reginald Morse Award. Proof required by either
 registration paper or past approval forms listing ownership.
 
-1. Dam and Daughter — One cow & her daughter. May be from 2 members.
+12. Dam and Daughter — One cow & her daughter. May be from 2 members.
 
-1. Produce of Dam — Two offspring of | cow. May be from 2 members.
+13. Produce of Dam — Two offspring of one cow. May be from 2 members.
 
 1. Members Herd Exhibited by 1 member — Arthur Williams Award — 3 animals, any
 age, same breed, any breeds.
