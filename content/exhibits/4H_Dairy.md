@@ -22,12 +22,10 @@ Description: Exibit information and entry rules
     - Showmanship and Fitting Classes *1 thru *6.
     
 1. 4-H Dairy Entries are due July 21
-
     Mail entries and fees to: 
-
-1.      Robin Severy                                                       
-        142 Hemenway Hill Rd                                                        
-        Shoreham, VT 05770
+    > Robin Severy                                                       
+    > 142 Hemenway Hill Rd                                                        
+    > Shoreham, VT 05770
 
 1. All 4-H members need to turn in one(1) Dairy Animal Record Book, which includes all of the animals they will be exhibiting.
 
