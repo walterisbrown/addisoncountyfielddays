@@ -4,13 +4,17 @@ Description: Exibit information and entry rules
 */
 
 # 4-H AND OTHER YOUTH HORSE & PONY SHOWS
+Director: Kathy Nisun Superintendents: Jessica Stuart 802-233-3013, Bailee layn-Gordon 802-922-1653
+**Monday, August 8, Tuesday, August 9, and Wednesday, August 10, 2022**
+Rain or Shine
+Please: **ALL CAMPERS AND HORSE TRAILERS MUST CHECK IN BEFORE PARKING THEM**
 
 
 [[TOC]]
 
 ## RULES & REGULATIONS
 
-1. Age: 18 and under as of January 1, 2021.
+1. Age: 18 and under as of January 1, 2022.
 2. ENTRY FEE: $2.00 per class. $2.00 per number ($1.00 refunded at end of show).
 Number goes to each rider. If you scratch a class and enter a new one, you must pay
 another $2.00. No refunds, no exceptions. All classes must be paid for before receiving
@@ -105,13 +109,15 @@ entry blank, a site will be assigned to you, if none are available you will be n
 management. $35/night $150 a week.
 33.**** Do not arrive before 3:00 p.m. on Sunday with your horse/pony and/or camper.****
 34. Make all checks payable to Addison County Fair & Field Days.
-35. Entries close with the postmark of July 30, 2021.
+35. Entries close with the postmark of July 30, 2022.
 36. No hay allowed in front of stalls during Field Days.
 37. NO ONE SHALL APPROACH A JUDGE WITH REGARD TO A DECISION UNLESS
 HE FIRST OBTAINS PERMISSION FROM THE SHOW COMMITTEE, WHO SHALL
 ARRANGE AN APPOINTMENT WITH THE JUDGE AT A PROPER TIME AND PLACE.
 
 ENGLISH ONLY BEGINNER & ADVANCED BEGINNER SHOW
+Monday, August 8, 2022 - 8:30 am RAIN OR SHINE
+**JUDGE: MISSY NICHOLAS   TRAIL JUDGE: KAREN MALZAC**
 CLASSES
 1. 
 
@@ -173,6 +179,8 @@ Trail.
 
 
 ## WESTERN ONLY 4-H AND OPEN YOUTH HORSE SHOW CLASSES
+Tuesday, August 9, 2022- 8:30am RAIN OR SHINE
+**JUDGE: SHANNON WARDEN     TRAIL JUDGE KAREN MALZAC**
 
 1. 4-H Beginner Fitting, Grooming & Showmanship
 2. 4-H Advanced Beginner Fitting, Grooming &
@@ -241,6 +249,8 @@ All divisions, Classes to count are Fitting, Project Up, Equitation, Pleasure, &
 
 
 ## ENGLISH ONLY 4-H AND OPEN YOUTH HORSE SHOW
+Wednesday, August 10, 2022 - 8:30am RAIN OR SHINE
+**JUDGE: TBD    TRAIL JUDGE Karen Malzac
 ### CLASSES
 
 
