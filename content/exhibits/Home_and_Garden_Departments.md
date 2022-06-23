@@ -832,12 +832,92 @@ Special rules:
     - Must have recipe and method of processing.
     - Must have been produced within the last 12 months. 
     - Parafin is not acceptable.
-    - Jars are not opened for judging. 
-57. Fruit (2)
-58. Vegetables (2)
-59. SoftSpreads (Jelly/Jam) (2)
-60. Pickles (2)
-61. Misc. Canning (2)
+    -Jams, Jellies and pickled catergories may be open for judging. Judges reserve teh right to sample canned goods in order to make the best decision.  Open jars    will be marked.
+57. Fruits
+       Apples
+       Applesauce
+       Berries
+       Cherries
+       Grape Juice
+       Peaches
+       Pears
+       Pear Sauce
+       Plums
+       Miscellaneous, Fruit
+
+58.Vegetables
+      Beans
+      Beans, Lima
+      Beans, Other
+      Beets
+      Carrots
+      Corn
+      Greens
+      Peas
+      Potatoes
+      Sauerkraut
+      Tomatoes, Whole
+                          Diced
+                          Stewed
+                          Juice
+      Tomato Purée
+      Vegetable Juice
+      Miscellaneous, Vegetable
+
+59.Jelly
+      Apple
+      Berry
+      Crabapple
+      Currant
+      Elderberry
+      Grape
+      Mint
+      Peach
+      Pear
+      Pepper
+      Plum
+      Strawberry
+      Miscellaneous, Fruit
+
+60.Jams
+      Apple
+      Apricot
+      Blackberry
+      Blueberry
+      Cherry
+      Grape
+      Peach
+      Pear
+      Plum
+      Raspberry
+      Strawberry
+      Tomato
+      Miscellaneous
+
+61.Pickled
+     Beets
+     Bread & Butter
+     Dill
+     Sour
+     Sweet
+     Green Tomatoes
+     Mustard
+     Vegetables
+     Relish, Cucumber
+                  Pepper
+                  Tomato
+                  Zucchini 
+      Salsa
+      Miscellaneous Pickles
+      Miscellaneous Relish
+
+62.Sauces
+      Barbecue
+      Catsup
+      Chili
+      Pasta Sauce
+      Miscellaneous Sauce
+
 
 ### SPONSORED AWARDS:
 To be announced
