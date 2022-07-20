@@ -124,13 +124,13 @@ CLASSES
 
 1. 4-H Beginner Fitting, Grooming & Showmanship Pony
 2. Open Beginner Fitting, Grooming & Showmanship Pony
-3. Lead Line Fitting, Grooming & Showmanship (ages 5-8 years, assisted by someone 14 or over)
+3. Lead Line Fitting, Grooming & Showmanship (ages 4-8 years, assisted by someone 14 or over)
          Championship Fitting, Grooming, & Showmanship BEGINNERS (1st & 2nd place winners from classes 1, 2, 3, & 4)
 4. 4-H Advanced Beginner Fitting, Grooming & Showmanship Pony
 5. Open Advanced Beginner Fitting, Grooming & Showmanship Pony
 6. Adult Walk/Trot Fitting 18 yrs and older (Must not be showing in a cantering class at anytime during field days)
          Championship Fitting, Grooming, & Showmanship ADVANCED BEGINNERS (1st & 2nd place winners from classes 6, 7, 8, & 9)
-7. Leadline, (English and Western), ages 5-8 years, assisted by someone 14 yrs or older.
+7. Leadline, (English and Western), ages 4-8 years, assisted by someone 14 yrs or older.
 8. Beginner Equitation
 9. Advanced Beginner Equitation
 10. Adult Walk/Trot Equitation
@@ -186,7 +186,7 @@ Tuesday, August 9, 2022- 8:30am RAIN OR SHINE
 2. 4-H Advanced Beginner Fitting, Grooming &
 Showmanship
 3. Lead Line Fitting, Grooming & Showmanship (ages
-5-8 years, assisted by someone 14 or over)
+4-8 years, assisted by someone 14 or over)
 4. Open Beginner Fitting, Grooming, & Showmanship
 5. Open Advanced Beginner Fitting, Grooming, & Showmanship
 6. AdultWalk/Trot Fitting, Grooming & Showmanship 18 years
@@ -200,7 +200,7 @@ Beginners and Advanced Beginners
 10. Open Senior Fitting, Grooming & Showmanship
 11. Adult Fitting, Grooming & Showmanship
 Championship Fitting, Grooming, & Showmanship (1st & 2nd place winners of classes 7, 8, 9 & 10)
-12. Lead Line - English & Western (Ages 5-8 yrs old - assisted by someone 14 or older)
+12. Lead Line - English & Western (Ages 4-8 yrs old - assisted by someone 14 or older)
 13. Beginner Equitation
 14. Advanced Beginner Equitation
 15. Junior Equitation
