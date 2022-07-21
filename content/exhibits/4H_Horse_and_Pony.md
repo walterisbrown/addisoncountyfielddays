@@ -119,15 +119,13 @@ ENGLISH ONLY BEGINNER & ADVANCED BEGINNER SHOW
 Monday, August 8, 2022 - 8:30 am RAIN OR SHINE
 **JUDGE: MISSY NICHOLAS   TRAIL JUDGE: KAREN MALZAC**
 CLASSES
-1. 
 
-
-1. 4-H Beginner Fitting, Grooming & Showmanship Pony
-2. Open Beginner Fitting, Grooming & Showmanship Pony
+1. 4-H Beginner Fitting, Grooming & Showmanship 
+2. Open Beginner Fitting, Grooming & Showmanship 
 3. Lead Line Fitting, Grooming & Showmanship (ages 4-8 years, assisted by someone 14 or over)
          Championship Fitting, Grooming, & Showmanship BEGINNERS (1st & 2nd place winners from classes 1, 2, 3, & 4)
-4. 4-H Advanced Beginner Fitting, Grooming & Showmanship Pony
-5. Open Advanced Beginner Fitting, Grooming & Showmanship Pony
+4. 4-H Advanced Beginner Fitting, Grooming & Showmanship 
+5. Open Advanced Beginner Fitting, Grooming & Showmanship 
 6. Adult Walk/Trot Fitting 18 yrs and older (Must not be showing in a cantering class at anytime during field days)
          Championship Fitting, Grooming, & Showmanship ADVANCED BEGINNERS (1st & 2nd place winners from classes 6, 7, 8, & 9)
 7. Leadline, (English and Western), ages 4-8 years, assisted by someone 14 yrs or older.
