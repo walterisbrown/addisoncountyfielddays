@@ -248,7 +248,7 @@ All divisions, Classes to count are Fitting, Project Up, Equitation, Pleasure, &
 
 ## ENGLISH ONLY 4-H AND OPEN YOUTH HORSE SHOW
 Wednesday, August 10, 2022 - 8:30am RAIN OR SHINE
-**JUDGE: TBD    TRAIL JUDGE Karen Malzac
+**JUDGE: Riley Dunn   TRAIL JUDGE Karen Malzac
 ### CLASSES
 
 
