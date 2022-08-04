@@ -599,12 +599,12 @@ Please read carefully.
 
 **HOME GARDENING DIVISION is for AMATEURS**
 
-These Rules apply along with and in addition to the General Rules for the Home & Garden Department, and the General Rules of Addison County Fair 8: Field Days.
+These Rules apply along with and in addition to the General Rules for the Home & Garden Department, and the General Rules of Addison County Fair & Field Days.
 
 Entries will be accepted at the HOME & GARDEN CENTER BUILDING on Sunday, Aug 7th from 1-4pm and Monday, Aug 8th from 9:30-12:30pm
 Please be advised-judging takes place on Monday afternoon. Items entered Sunday will not be as fresh as those entered on Monday.
 
-Judging takes place Monday afternoon. Items entered on Sunday will not be as fresh as those entered on Monday.
+Judging takes place Monday afternoon. 
 
 1. Entries must be grown by the exhibitor.
 2. Only one entry allowed in each Class or Sub-class.
@@ -630,7 +630,7 @@ Special Rosettes will be awarded to the Premier Home Gardener and Outstanding Yo
 8. Melon — other
 9. Pears — 3 with stems
 1. Plums — 3
-1. Rhubarb — bunch of6
+1. Rhubarb — bunch of 6
 1. Open & Unclassified —- only 1 per person
 
 #### VEGETABLES
@@ -670,7 +670,7 @@ Special Rosettes will be awarded to the Premier Home Gardener and Outstanding Yo
 1. Spinach — 5 leaves in transparent bag
 1. Summer squash, yellow — 1
 1. Zucchini — 1
-1. Summersquash, other — 1
+1. Summer squash, other — 1
 1. Winter squash, acorn — 1
 1. Winter squash, buttercup — 1
 1. Winter squash, butternut — 1
@@ -680,7 +680,7 @@ Special Rosettes will be awarded to the Premier Home Gardener and Outstanding Yo
 1. Tomatoes, cherry/miniature — 1 pint basket
 1. Tomatoes, paste/Italian — 6
 1. Turnips — 4, washed, tops cut to 2”
-1. Open and unclassi?ed
+1. Open and unclassfied
 
 #### MISCELLANEOUS
 1. Basket arrangement
@@ -929,9 +929,9 @@ To be announced
 SUPERINTENDENT: Peg Allen, 623-6211. Saturday August 13th
 
 Bring a pot of your favorite Baked Beans and recipe on a 5x8 card to the north entrance of the
-Picnic Pavillion on Saturday, August 14th by 10:00 am. Official judging will commence at 10:00 am.
+Picnic Pavillion on Saturday, August 13th by 10:00 am. Official judging will commence at 10:00 am.
 All entrants must be present to win. Winners will be announced when judging is complete, at approximately noon.
-Each participant will serve sample after the winners are announced. 
+Each participant will serve samples after the winners are announced. 
 
 ### No pre-registration required. One entry per person. 
 
