@@ -21,7 +21,7 @@ Description: Exibit information and entry rules
     - Conformation  *1  thru *11
     - Showmanship and Fitting Classes *1 thru *6.
     
-1. 4-H Dairy Entries are due July 21
+1. 4-H Dairy Entries are due July 19
     Mail entries and fees to: 
     > Robin Severy                                                       
     > 142 Hemenway Hill Rd                                                        
@@ -102,16 +102,16 @@ Cattle
 
 CONFORMATION CLASSES (Tuesday) $2.00/class
 
-1. Spring Calf — born between March 1 , 2022,  and April 30 , 2022 
-2. Winter Calf — born between December 1, 2021 and February 28, 2022.
-3. Fall Calf — born between September 1, 2021 and November 30, 2021.
-4. Summer Yearling Heifer— born between June 1, 2021 and August 31, 2021.
-5. Spring Yearling Heifer — born between March 1, 2021 and May 31, 2021.
-6. Winter Yearling Heifer — born between December 1, 2020 and February 29, 2021.
-7. Fall Yearling Heifer— born between September 1, 2020 and November 30, 2020.
-8. Two Year Old Cow — milking — born between September 1, 2019 and August 31, 2020.
-9. Three Year Old Cow — born between September 1, 2018 and August 31, 2019.
-10. Four Year Old and Over — born before September 1, 2018.
+1. Spring Calf — born between March 1 , 2023,  and April 30 , 2023 
+2. Winter Calf — born between December 1, 2022 and February 28, 2023.
+3. Fall Calf — born between September 1, 2022 and November 30, 2022.
+4. Summer Yearling Heifer— born between June 1, 2022 and August 31, 2022.
+5. Spring Yearling Heifer — born between March 1, 2022 and May 31, 2022.
+6. Winter Yearling Heifer — born between December 1, 2021 and February 29, 2022.
+7. Fall Yearling Heifer— born between September 1, 2021 and November 30, 2021.
+8. Two Year Old Cow — milking — born between September 1, 2020 and August 31, 2021.
+9. Three Year Old Cow — born between September 1, 2019 and August 31, 2020.
+10. Four Year Old and Over — born before September 1, 2019.
 11. Best animal bred by exhibitor — Reginald Morse Award. Proof required by either
 registration paper or past approval forms listing ownership.
 
@@ -119,31 +119,31 @@ registration paper or past approval forms listing ownership.
 
 13. Produce of Dam — Two offspring of one cow. May be from 2 members.
 
-1. Members Herd Exhibited by 1 member — Arthur Williams Award — 3 animals, any
+14. Members Herd Exhibited by 1 member — Arthur Williams Award — 3 animals, any
 age, same breed, any breeds.
 
-1. Club Herd — 5 animals — of which at least two must be from classes 1-7. Opento all clubs.
+15. Club Herd — 5 animals — of which at least two must be from classes 1-7. Opento all clubs.
 
 ###  SHOWMANSHIP & FITTING CLASSES (Thursday) 
 
 $2.00/class
 
-- Novice Class Division A: Member 8 years of age (as of January 1, 2022) who has never
+- Novice Class Division A: Member 8 years of age (as of January 1, 2023) who has never
 shown before.
 
-- Novice Class Division B: Member 9-12 years of age (as of January 1, 2022) and under
+- Novice Class Division B: Member 9-12 years of age (as of January 1, 2023) and under
 who have not shown an animal before. NOTE: Superintendents reserve the right to
 divide classes according to size.
 
-- Junior Division : 11 years of age and under as of January 1, 2022
+- Junior Division : 11 years of age and under as of January 1, 2023
 Junior Champion Showman-All First Place showmen compete from Junior Division
 Showmanship classes.
 
-- Intermediate Division: 12 to 14 years of age as of Jan 1, 2022.
+- Intermediate Division: 12 to 14 years of age as of Jan 1, 2023.
 
 - Intermediate Champion Showman & All First Place Winners from Intermediate classes.
 
-- Senior Division: Age 15 to 18 years as of January 1, 2022.
+- Senior Division: Age 15 to 18 years as of January 1, 2023.
 
 - Senior Champion Showman--All First Place winners from Senior Showmanship division
 classes. (In the event that the First Place winner in this class is a previous winner, then
@@ -167,22 +167,26 @@ individual. Permanent trophy donated by Blue Spruce Farm in memory of Mary Rose 
 Skip and Ruth Maynard donated a permanent and rotating trophy to the 4-H member who is
 a winner of the Junior Showmanship Division in the 4-H Dairy Show.
 
+#### TRISTAN QUINN MEMORIAL SHOWMANSHIP AWARD
+Rotating plaque & prize given by the Quinn Family to winner of Intermediate Showmanship Division.
+
+#### NOVICE C AWARD
+Award donated to Novice C Intermeidates and Seniors
+
 #### DAN HUESTIS AWARD
 Huestis Farm Supply donates an award to the winner in the Showmanship Novice B Class.
 
-#### ERIC POPE AWARD
-Donated by Seth & Stephanie Pope, awarded to the winner in the Novice A Showmanship Class.
+#### POPE FAMILY AWARD
+Donated by K.Pope & Sons, awarded to the winner in the Novice A Showmanship Class.
 
-#### TRISTAN QUINN MEMORIAL SHOWMANSHIP AWARD
-Rotating plaque & prize given by the Quinn Family to winner of Intermediate Showmanship Division.
 
 ### SPECIAL CONFORMATION AWARDS
 
 #### MUNGER AWARD
 The Shoreham Early Birds donated this award for the Best Spring Calf in conformation.
 
-#### PLOUFFE AWARD
-Jean—Noel and Mary Plouffe and family donated this award to the Best Winter Calf in
+#### PLOUFFE FAMILY AWARD
+In Memory of Jean—Noel and Mary Plouffe, the family donated this award to the Best Winter Calf in
 conformation.
 
 #### STEVE POPE AWARD
@@ -283,6 +287,12 @@ Sponsored by Mt. Independence 4-H Club for outstanding sportsmanship.
 The Bingham’s donated this award to the Outstanding 4-H Member of the Year. Nominations for
 this award may be submitted in letter by Thursday at 4 p.m. to the 4-H Dairy Superintendent. This
 will be awarded on Saturday.
+
+### BEST THREE YEAR OLD OF SHOW
+Donated by Bethany Orvis
+
+### BEST FOUR YEAR OLD OF SHOW
+Donated ny Jonathan Flores-Torres
 
 
 
