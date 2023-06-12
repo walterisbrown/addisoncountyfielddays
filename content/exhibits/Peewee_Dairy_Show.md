@@ -6,7 +6,7 @@ Description: Exibit information and entry rules
 
 ## PEEWEE DAIRY SHOWMANSHIP
 
-SUPERINTENDENT: Robin Severy, 897-2680
+SUPERINTENDENT: Robin Severy, (802)236-8584
 
 Friday, 12:00 noon — Animal Show Arena
 
@@ -19,7 +19,7 @@ A big thank you goes out to the Chalker Farm for donating the t-shirts!
 
 1. MANDATORY PRE-REGISTRATION by August 1. 
 Send entries (no cost) to: Robin Severy, 142 Hemenway Hill Road, Shoreham, VT 05770
-Email: rsevery@shoreham.net or call in the information to 897-2680. Please include:
+NEW Email: rsevery319@gmail.com or call in the information to (802)236-8584. Please include:
 
     - Name of Exhibitor
     - parents names, mailing address, telephone #
