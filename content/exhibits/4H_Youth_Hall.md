@@ -26,15 +26,15 @@ Field Days. Field Days is a very important part of the 4-H program and 4-H has a
 the challenge of maintaining these buildings. The Foundation’s purpose is to raise money in
 support of the Addison County Educational 4-H program. The maintenance and improvement
 of the 4-H facilities at Field Days is a major expense. People wishing to help 4-H may contact
-any Addison 4-H Foundation Trustee Elaine Desforges, Kathy Nisun, Shelley Smith,
+any Addison 4-H Foundation Trustee Jessica McDonald, Elaine Desforges, Kathy Nisun, Shelley Smith,
 Jake Jacobs, Martha Seifert, Laurie Bertrand, Jeff Lester,  Janet Piper, Kari Smith, 
-Victor Bolduc, Andrea Warren, Sara Kurtz, Ashley Audet, and Patrick Reen.
+Victor Bolduc, and Patrick Reen. Youth Members Katherine Whipple and David Bertrand.
 
 ## 4-H Pass Policy
 
-1. 4-H members and 4-H leaders will be awarded a colored Field Days Bracelet for 2021.
+1. 4-H members and 4-H leaders will be awarded a colored Field Days Bracelet for 2023.
 Each organizational leader is to submit a list of active members and leaders for their club
-at any time before July 31, 2021 to 4-H Fair Passes, UVM Extension, 23 Pond Lane, Suite
+at any time before July 31, 2023 to 4-H Fair Passes, UVM Extension, 23 Pond Lane, Suite
 300, Middlebury, VT 05753 or email Martha Seifert.
 4-H members are to receive their pass from their 4-H leader as soon as
 available.
@@ -60,7 +60,7 @@ All youth are encouraged to exhibit their talents in the Youth Hall. Any non-pro
 oriented group is invited to display exhibits. Exhibits may be created by groups, clubs or individuals.
 Articles may be exhibited even if they do not fit into a standard category. All exhibit space must be
 pre-registered with Martha Seifert, UVM Extension Office, 23 Pond Lane, Suite 300, Middlebury,
-VT 05753 (or 388-4969), by July 31, 2021.
+VT 05753 (or 388-4969), by July 31, 2023.
 
 All exhibits must have been produced, made or grown by the exhibitor(s) in the current
 year, and are exhibited at the exhibitor’s risk.
@@ -68,7 +68,7 @@ year, and are exhibited at the exhibitor’s risk.
 ### ENTRY TAGS 
 
 All exhibits will have an entry tag securely attached, filled out by the exhibitor
-or group/club leader, with age as of 1/1/2021 and number of years in the project. Please
+or group/club leader, with age as of 1/1/2023 and number of years in the project. Please
 complete both sides of the entry tag. Tags will be available at the Youth Hall at setup
 time. Cloverbuds will have separate club tags.
 
@@ -287,15 +287,20 @@ a farm scene or layout, garden plots, horse show or sugarbush scene. Please atta
 with title, brief description of your project, and your name. Be imaginative and creative in your
 use of materials.
 
-## CHRISTMAS TREE ORNAMENT CONTEST
-Youth may enter an original handmade ornament that will be displayed on a tree in the
-Youth Exhibit Hall. Ornaments must be created by youth.
+## RECYCLED EXHIBIT
+Recycling is the process of collecting materials that would otherwise be thrown away as trash and then turning it into something new. An example of this is collecting old newspapers and magazines, turning them into pulp to make new paper. By recycling we can keep the environment clean and preserve natural resources. It is amazing what can be made using recycled items such as old newspapers, plastic soda bottles, cans, glass jars, cardboard boxes, etc.  Use your imagination to create something
+new from something used!
+Judging Criteria – Recycled
+•	Items used must be clean
+•	Project must consist of at least 80% of recycled materials
+•	Attracts people’s attention about recycling
 
-### Judging Criteria - Christmas Tree Ornament
-- Workmanship
-- Creativity
-- Age ofexhibitor
-- Appropriate use of color
+## SUNFLOWER
+Grow a sunflower in a 5-gallon bucket. Awards for the tallest and the largest head. Get your seeds from the 4-H office so everyone has the same variety.
+Judging Criteria – Sunflower
+•	Tallest
+•	Largest head
+
 
 ## SMALL ANIMAL EXHIBIT
 
