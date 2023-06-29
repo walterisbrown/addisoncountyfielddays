@@ -1,7 +1,7 @@
-/*
+---
 Title: Field Crops & Handmowing 
 Description: Exibit information and entry rules for Field Crops & Handmowing at the Addison County Fair and Field Days.
-*/
+---
 
 # Field Crops & Handmowing
 

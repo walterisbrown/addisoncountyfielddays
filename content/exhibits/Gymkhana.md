@@ -1,7 +1,7 @@
-/*
+---
 Title: GYMKHANA
 Description: Exibit information and entry rules
-*/
+---
 
 
 # THE VERMONT QUARTER HORSE ASSOCIATION 

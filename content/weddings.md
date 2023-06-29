@@ -1,7 +1,7 @@
-/*
+---
 Title: Weddings
 Description: Have your wedding at the fair and field days grounds.
-*/
+---
 
 # Your special day at the fair!
 

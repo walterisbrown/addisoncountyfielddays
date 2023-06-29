@@ -1,7 +1,7 @@
-/*
+---
 Title: Markdown Example
 Description: Example of markdown
-*/
+---
 
 # Heading 1
 

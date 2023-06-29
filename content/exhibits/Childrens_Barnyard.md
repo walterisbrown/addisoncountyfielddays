@@ -1,7 +1,7 @@
-/*
+---
 Title: CHILDREN’S BARNYARD
 Description: Exibit information and entry rules
-*/
+---
 
 
 # CHILDREN’S BARNYARD

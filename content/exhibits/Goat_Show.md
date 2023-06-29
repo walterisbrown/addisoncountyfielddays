@@ -1,7 +1,7 @@
-/*
+---
 Title: GOAT SHOW
 Description: Exibit information and entry rules
-*/
+---
 
 # GOAT SHOW
 

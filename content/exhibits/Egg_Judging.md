@@ -1,7 +1,7 @@
-/*
+---
 Title: SPECIAL EVENTS
 Description: Exibit information and entry rules
-*/
+---
 
 # EGG JUDGING
 DIRECTOR: Tricia Foster, 233-2821; 

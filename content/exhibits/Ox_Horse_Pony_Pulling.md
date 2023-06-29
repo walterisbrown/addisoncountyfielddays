@@ -1,7 +1,7 @@
-/*
+---
 Title: Ox, Horse, and Pony Pulling
 Description: Exibit information and entry rules
-*/
+---
 
 # Ox, Horse and Pony Pulling
 Wednesday, 9:30 am.

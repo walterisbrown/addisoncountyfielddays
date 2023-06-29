@@ -1,7 +1,7 @@
-/*
+---
 Title: COMBINED YOUTH AND OPEN BEEF SHOW
 Description: Exibit information and entry rules
-*/
+---
 
 # COMBINED YOUTH AND OPEN BEEF SHOW
 

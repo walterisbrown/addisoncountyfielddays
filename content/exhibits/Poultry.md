@@ -1,8 +1,8 @@
-/*
+---
 Title: OPEN POULTRY SHOW
 
 Description: Exibit information and entry rules
-*/
+---
 
 # OPEN POULTRY SHOW
 Director:  Tricia Foster, 802-233-2821

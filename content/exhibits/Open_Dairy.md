@@ -1,7 +1,7 @@
-/*
+---
 Title: OPEN DAIRY CATTLE SHOW
 Description: Exibit information and entry rules
-*/
+---
 
 [[TOC]]
 

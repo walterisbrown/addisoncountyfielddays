@@ -1,7 +1,7 @@
-/*
+---
 Title: OPEN HORSE SHOW
 Description: Exibit information and entry rules
-*/
+---
 
 
 # OPEN HORSE SHOW

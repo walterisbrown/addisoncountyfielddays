@@ -1,7 +1,7 @@
-/*
+---
 Title: OPEN SHEEP SHOW
 Description: Exibit information and entry rules
-*/
+---
 
 # Sheep Shows and Exhibits
 

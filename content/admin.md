@@ -1,7 +1,7 @@
-/*
+---
 Title: Admin
 Description: Example of markdown
-*/
+---
 
 
 

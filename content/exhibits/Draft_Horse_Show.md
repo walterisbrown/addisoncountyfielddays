@@ -1,7 +1,7 @@
-/*
+---
 Title: DRAFT HORSE SHOW
 Description: Exibit information and entry rules for the Draft Horse Show
-*/
+---
 
 
 # DRAFT HORSE SHOW

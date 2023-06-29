@@ -100,7 +100,7 @@ module.exports = {
       //Assemeble some meta data to use in template
       //match pico header info
       //see https://github.com/picocms/Pico/blob/v1.0.0-beta.2/lib/Pico.php#L760
-      var picoCMSMetaPattern = /^\/\*(([\s\S])*?)\*\//;
+      var picoCMSMetaPattern = /^---(([\s\S])*?)---/;
       var meta = {};
       var temp = content.match(picoCMSMetaPattern);
       temp[1].split(/\r?\n/).forEach(function(value) {

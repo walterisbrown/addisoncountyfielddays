@@ -1,7 +1,7 @@
-/*
+---
 Title: CLASSES FOR 4-H AND OTHER YOUTH
 Description: Exhibit information and entry rules
-*/
+---
 
 
 

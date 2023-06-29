@@ -1,7 +1,7 @@
-/*
+---
 Title: 4-H Horse and Pony Exhibit
 Description: Exibit information and entry rules
-*/
+---
 
 # 4-H AND OTHER YOUTH HORSE & PONY SHOWS
 Director: Kathy Nisun Superintendents: Jessica Stuart 802-233-3013, Bailee layn-Gordon 802-922-1653

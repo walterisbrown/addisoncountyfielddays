@@ -1,7 +1,7 @@
-/*
+---
 Title: 2023 Dedication
 Description: We are dedicating this year’s fair to you
-*/
+---
 
 # Thanks
 
