@@ -8,5 +8,55 @@
   </head>
   <body>
     <script src="https://unpkg.com/netlify-cms/dist/cms.js"></script>
+    <script src="https://pugjs.org/js/pug.js" ></script>
+    <script src="pug-loader.js" ></script>
+    <script>
+      CMS.registerPreviewStyle("/styles.css");
+      var stdPreview = createClass({
+        render: function() {
+          var entry = this.props.entry;
+          return h('div', {},
+            h('header', {className: 'navbar navbar-inverse navbar-fixed-top', id:'header'}, 
+              h('a', {className: 'navbar-brand brand' }, 'Field Days Preview')),
+            // h('h1', {}, entry.getIn(['data', 'title'])),
+            h('div', { className: 'container', id: 'container'},
+              h('div', { className: "fixed-width markdown-content"}, this.props.widgetFor('body'))
+            )
+          );
+        }
+      });
+
+      CMS.registerPreviewTemplate("exhibits", stdPreview);
+
+      // codeComponent = CMS.getEditorComponents()._root.entries[1]
+      var PugPreview = createClass({
+      render: function() {
+      var html;
+        try {
+          console.log(this.props.value)
+          html = pug.render(this.props.value)
+          console.log(html);
+          return h('div', {
+            dangerouslySetInnerHTML: {__html: html}
+          });
+        }
+        catch(err) {
+          console.log(err);
+          var err_message = JSON.stringify(err, null, 2);
+          return h('pre', {
+            dangerouslySetInnerHTML: {__html: err_message},
+          })
+        }
+        
+      }
+    });
+
+    // CMS.registerWidget('pug', PugControl, PugPreview);
+    CMS.registerWidget('pug', 'code', PugPreview);
+    CMS.getWidget('pug').codeMirrorConfig = {
+      mode: 'pug',
+      theme: 'default',
+    };
+    </script>
   </body>
 </html>

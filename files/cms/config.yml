@@ -6,7 +6,7 @@ backend:
 media_folder: "files/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/files/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 
 collections:
   - name: "exhibits"
@@ -16,8 +16,20 @@ collections:
     slug: "{{slug}}"
     format: frontmatter
     extension: md
+    identifier_field: "Title"
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "date", widget: "string"}
+      - {label: "Title", name: "Title", widget: "string"}
+      - {label: "Description", name: "Description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "content/index.jade"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Body", name: "body", widget: "pug", output_code_only: true }
       
