@@ -15,6 +15,7 @@ collections:
     create: true
     slug: "{{slug}}"
     format: frontmatter
+    extension: md
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "date", widget: "string"}
