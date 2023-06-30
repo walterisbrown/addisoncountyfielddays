@@ -3,8 +3,11 @@ Title: Admin
 Description: Example of markdown
 ---
 
+# New way
 
+[Head here and log in](/files/cms/)
 
+# Legacy way
 ## How to make a change to the site?
 
 1. Create an account on [Github](https://github.com/join)(it's free) and log in.

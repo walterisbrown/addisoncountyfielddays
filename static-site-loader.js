@@ -2,7 +2,10 @@ var pathUtil = require('path');
 var marked = require('marked');
 var toc = require('markdown-toc');
 
-var jade = require('jade');
+var fm = require('front-matter');
+var pug = require('pug');
+var n_path = require( "path" )
+
 var RSS = require('rss');
 var version = require('package')(__dirname).version;
 
@@ -35,21 +38,23 @@ module.exports = {
     //watch the content directory for changes
     this.addContextDependency(path);
     //Define our template path
-    var templatePath = 'templates/default.jade';
-    var mdtemplatePath = 'templates/markdown.jade';
+    var templatePath = 'templates/default.pug';
+    templatePath = n_path.resolve(templatePath);
+    var mdtemplatePath = 'templates/markdown.pug';
+    mdtemplatePath = n_path.resolve(mdtemplatePath)
     //watch the template for changes
     this.addDependency(templatePath);
     this.addDependency(mdtemplatePath);
     //Compile the template for use later
-    template = jade.compileFile(templatePath, { pretty: false });
-    mdtemplate = jade.compileFile(mdtemplatePath, { pretty: false });
+    template = pug.compileFile(templatePath, { pretty: false });
+    mdtemplate = pug.compileFile(mdtemplatePath, { pretty: false });
     // clear out shared vars for new run
     notJadeContent = [];
     feedURLs = [];
   },
   //Test if a file should be processed or not, should return true or false;
   testToInclude: function(path) { // stats, absPath
-    return pathUtil.extname(path) === '.md' || pathUtil.extname(path) === '.jade';
+    return pathUtil.extname(path) === '.md' || pathUtil.extname(path) === '.pug';
   },
   //allows you to rewrite the url path that this will be uploaded to
   rewriteUrlPath: function(path, stats, absPath) {
@@ -57,7 +62,7 @@ module.exports = {
     if (pathUtil.extname(path) === '.md') {
       extensionSize = -3;
     } else {
-      extensionSize = -5;
+      extensionSize = -4;
       this.addDependency(absPath);
     }
 
@@ -95,21 +100,26 @@ module.exports = {
       */
       callback(ensureContent);
     };
-
-    if (pathUtil.extname(file.absPath) === '.md') { //this is a regular markdown file
+    file_extension = pathUtil.extname(file.absPath)
+    if (file_extension === '.md') { //this is a regular markdown file
       //Assemeble some meta data to use in template
       //match pico header info
       //see https://github.com/picocms/Pico/blob/v1.0.0-beta.2/lib/Pico.php#L760
-      var picoCMSMetaPattern = /^---(([\s\S])*?)---/;
-      var meta = {};
-      var temp = content.match(picoCMSMetaPattern);
-      temp[1].split(/\r?\n/).forEach(function(value) {
-        var row = value.split(':');
-        meta[row[0]] = row[1];
-      });
+      // var picoCMSMetaPattern = /^---(([\s\S])*?)---/;
+      // var meta = {};
+      // var temp = content.match(picoCMSMetaPattern);
+      // temp[1].split(/\r?\n/).forEach(function(value) {
+      //   var row = value.split(':');
+      //   meta[row[0]] = row[1];
+      // });
 
       // generate toc
-      var markdownContent = content.replace(picoCMSMetaPattern, '');
+      // var markdownContent = content.replace(picoCMSMetaPattern, '');
+
+      var meta = fm(content);
+      var markdownContent = meta.body;
+
+
       var tocHTML = toc_start + marked(toc(markdownContent).content) + toc_end;
       // markdownContent = markdownContent.replace('[[TOC]]', tocMarkdown);
       finalContent = marked(markdownContent);
@@ -124,13 +134,20 @@ module.exports = {
       });
 
       ensureCritical(fileContents);
-    } else {
-      // new jade file type
-      ensureCritical(jade.render(content, {
-        pretty: false,
-        filename: file.absPath,
-        version: version,
-      }));
+    } else { // if (file_extension === '.pug')
+        var meta = fm(content);
+
+        var finalContent = pug.render(meta.body, {
+          pretty: true,
+        })
+
+        ensureCritical(template({
+          title: meta.Title,
+          description: meta.Description,
+          content: finalContent,
+          version: version,
+        }));
+      
     }
   },
 

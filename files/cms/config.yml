@@ -42,4 +42,11 @@ collections:
           - {label: "Title", name: "Title", widget: "string"}
           - {label: "Description", name: "Description", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Weddings"
+        name: weddings
+        file: "content/weddings.md"
+        fields:
+          - {label: "Title", name: "Title", widget: "string"}
+          - {label: "Description", name: "Description", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
       
