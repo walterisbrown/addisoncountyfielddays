@@ -12,7 +12,7 @@ You visit Field Days in sunny weather and rain. Not much can keep you away and w
 
 # Memorial
 
-This year, we hope all fair goers remember fondly:
+This year, we hope all remember fondly:
 
 * Larry Fleming 
 * Art Provencher 
