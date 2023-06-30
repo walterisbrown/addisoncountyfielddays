@@ -8,7 +8,7 @@
   </head>
   <body>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script src="https://unpkg.com/netlify-cms/dist/cms.js"></script>
+    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
     <script src="https://pugjs.org/js/pug.js" ></script>
     <script src="pug-loader.js" ></script>
     <script>
@@ -28,6 +28,8 @@
       });
 
       CMS.registerPreviewTemplate("exhibits", stdPreview);
+      CMS.registerPreviewTemplate("pages", stdPreview);
+      CMS.registerPreviewTemplate("dedication", stdPreview);
 
       // codeComponent = CMS.getEditorComponents()._root.entries[1]
       var PugPreview = createClass({
