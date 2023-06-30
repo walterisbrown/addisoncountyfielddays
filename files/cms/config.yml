@@ -28,42 +28,6 @@ collections:
       - {label: "Description", name: "Description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  # - name: "home" # Used in routes, e.g., /admin/collections/blog
-  #   label: "Home Page" # Used in the UI
-  #   folder: "static" # The path to the folder where the documents are stored
-  #   create: true # Allow users to create new documents in this collection
-  #   slug: "{{slug}}" # Filename template, e.g., title.md
-  #   preview_path: "/{{slug}}"
-  #   format: frontmatter
-  #   extension: pug
-  #   fields: # The fields for each document, usually in front matter
-  #     - {label: "Title", name: "title", widget: "string"}
-  #     - {label: "Description", name: "Description", widget: "text"}
-  #     - {label: "Body", name: "body", widget: "pug", output_code_only: true}
-
-  - name: pug
-    label: Pug Pages
-    label_singular: 'Pug Page'
-    folder: content/
-    create: false
-    format: frontmatter
-    extension: pug
-    identifier_field: "Title"
-    summary: "{{dirname}}/{{filename}}.{{extension}} - {{Title}}"
-    # adding a nested object will show the collection folder structure
-    nested:
-      depth: 100 # max depth to show in the collection tree
-      summary: '{{slug}} - {{title}}' # optional summary for a tree node, defaults to the inferred title field
-    # adding a meta object with a path property allows editing the path of entries
-    # moving an existing entry will move the entire sub tree of the entry to the new location
-    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
-    fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "Description", widget: "text"}
-      - {label: "Body", name: "body", widget: "pug", output_code_only: true}
-    
-
-
   - label: "Other Pages"
     name: "pages"
     files:
@@ -95,3 +59,24 @@ collections:
           - {label: "Title", name: "Title", widget: "string"}
           - {label: "Description", name: "Description", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: pug
+    label: Pug Pages
+    label_singular: 'Pug Page'
+    folder: content/
+    create: false
+    format: frontmatter
+    extension: pug
+    identifier_field: "Title"
+    summary: "{{dirname}}/{{filename}}.{{extension}} - {{Title}}"
+    # adding a nested object will show the collection folder structure
+    nested:
+      depth: 100 # max depth to show in the collection tree
+      summary: '{{slug}} - {{title}}' # optional summary for a tree node, defaults to the inferred title field
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "Description", widget: "text"}
+      - {label: "Body", name: "body", widget: "pug", output_code_only: true}
