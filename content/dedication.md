@@ -4,7 +4,11 @@ Description: We are dedicating this year’s fair to you
 ---
 # Thanks
 
-This year is the 75th anniversary of Addison County Fair and Field Days. For our anniversary year dedication, we are dedicating this year’s fair to you, our fair goers! Field Days wouldn’t be what it is if you didn’t attend. Whether you go to the fair to watch someone in one of the many events, to get your favorite fair foods, or to see your friends and neighbors, you have a part in making Field Days the fun event that it is. Without you, our 4-H’ers have no one to show their hard work, our pullers and demo drivers have no crowd to cheer them on, our commercial vendors have no one to show their latest products, and our farmers have no one to share their best animals and biggest and best crops.
+This year is the 75th anniversary of Addison County Fair and Field Days. For our anniversary year dedication, we are dedicating this year’s fair to you, our fair goers! Field Days wouldn’t be what it is if you didn’t attend. 
+
+Whether you go to the fair to watch someone in one of the many events, to get your favorite fair foods, or to see your friends and neighbors, you have a part in making Field Days the fun event that it is. 
+
+Without you, our 4-H’ers have no one to show their hard work, our pullers and demo drivers have no crowd to cheer them on, our commercial vendors have no one to show their latest products, and our farmers have no one to share their best animals and biggest and best crops.
 
 What would the midway be without kids, old and young, to ride the rides and play the games? What would the Childrens’ Barnyard be without children to enjoy the animals? Who would listen to the bands or watch the entertainers if you didn’t come to the fair? Who would appreciate the hard work knitting, sewing, gardening, crafting, baking, and creating works of art and photography? Who would the antique enthusiasts tell the story of how it was done years ago?
 
